@@ -1,1 +1,75 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYyMCIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYyMCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJOb3QgQm9yaW5nIE1vdmllcyIsCiAgICAidGl0bGVTbHVnIjogIm5vdC1ib3JpbmctbW92aWVzIiwKICAgICJjb250ZW50IjogIlggY2l0eSBvcGVuZWQgYSBuZXcgY2luZW1hLCBtYW55IHBlb3BsZSB3b3VsZCBsaWtlIHRvIGdvIHRvIHRoaXMgY2luZW1hLiBUaGUgY2luZW1hIGFsc28gZ2l2ZXMgb3V0IGEgcG9zdGVyIGluZGljYXRpbmcgdGhlIG1vdmllcyZyc3F1bzsgcmF0aW5ncyBhbmQgZGVzY3JpcHRpb25zLlxyXG48cD5QbGVhc2Ugd3JpdGUgYSBTUUwgcXVlcnkgdG8gb3V0cHV0IG1vdmllcyB3aXRoIGFuIG9kZCBudW1iZXJlZCBJRCBhbmQgYSBkZXNjcmlwdGlvbiB0aGF0IGlzIG5vdCAmIzM5O2JvcmluZyYjMzk7LiBPcmRlciB0aGUgcmVzdWx0IGJ5IHJhdGluZy48L3A+XHJcblxyXG48cD4mbmJzcDs8L3A+XHJcblxyXG48cD5Gb3IgZXhhbXBsZSwgdGFibGUgPGNvZGU+Y2luZW1hPC9jb2RlPjo8L3A+XHJcblxyXG48cHJlPlxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tK1xyXG58ICAgaWQgICAgfCBtb3ZpZSAgICAgfCAgZGVzY3JpcHRpb24gfCAgcmF0aW5nICAgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tK1xyXG58ICAgMSAgICAgfCBXYXIgICAgICAgfCAgIGdyZWF0IDNEICAgfCAgIDguOSAgICAgfFxyXG58ICAgMiAgICAgfCBTY2llbmNlICAgfCAgIGZpY3Rpb24gICAgfCAgIDguNSAgICAgfFxyXG58ICAgMyAgICAgfCBpcmlzaCAgICAgfCAgIGJvcmluZyAgICAgfCAgIDYuMiAgICAgfFxyXG58ICAgNCAgICAgfCBJY2Ugc29uZyAgfCAgIEZhbnRhY3kgICAgfCAgIDguNiAgICAgfFxyXG58ICAgNSAgICAgfCBIb3VzZSBjYXJkfCAgIEludGVyZXN0aW5nfCAgIDkuMSAgICAgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tK1xyXG48L3ByZT5cclxuRm9yIHRoZSBleGFtcGxlIGFib3ZlLCB0aGUgb3V0cHV0IHNob3VsZCBiZTpcclxuXHJcbjxwcmU+XHJcbistLS0tLS0tLS0rLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0rXHJcbnwgICBpZCAgICB8IG1vdmllICAgICB8ICBkZXNjcmlwdGlvbiB8ICByYXRpbmcgICB8XHJcbistLS0tLS0tLS0rLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0rXHJcbnwgICA1ICAgICB8IEhvdXNlIGNhcmR8ICAgSW50ZXJlc3Rpbmd8ICAgOS4xICAgICB8XHJcbnwgICAxICAgICB8IFdhciAgICAgICB8ICAgZ3JlYXQgM0QgICB8ICAgOC45ICAgICB8XHJcbistLS0tLS0tLS0rLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0rXHJcbjwvcHJlPlxyXG5cclxuPHA+Jm5ic3A7PC9wPlxyXG4iLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiBmYWxzZSwKICAgICJkaWZmaWN1bHR5IjogIkVhc3kiLAogICAgImxpa2VzIjogMTkyLAogICAgImRpc2xpa2VzIjogMjI4LAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFsKICAgICAgewogICAgICAgICJ1c2VybmFtZSI6ICJEb3VnbGFzMTYxMiIsCiAgICAgICAgInByb2ZpbGVVcmwiOiAiL2RvdWdsYXMxNjEyLyIsCiAgICAgICAgImF2YXRhclVybCI6ICJodHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyLzhlNjBhNGI1OTZiN2E4YmExMThjNzc2YmFjMmEwYjA0LnBuZz9zPTIwMCIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29udHJpYnV0b3JOb2RlIgogICAgICB9CiAgICBdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6ICJ7XCJjcHBcIjogZmFsc2UsIFwiamF2YVwiOiBmYWxzZSwgXCJweXRob25cIjogZmFsc2UsIFwicHl0aG9uM1wiOiBmYWxzZSwgXCJteXNxbFwiOiBmYWxzZSwgXCJtc3NxbFwiOiBmYWxzZSwgXCJvcmFjbGVzcWxcIjogZmFsc2UsIFwiY1wiOiBmYWxzZSwgXCJjc2hhcnBcIjogZmFsc2UsIFwiamF2YXNjcmlwdFwiOiBmYWxzZSwgXCJydWJ5XCI6IGZhbHNlLCBcImJhc2hcIjogZmFsc2UsIFwic3dpZnRcIjogZmFsc2UsIFwiZ29sYW5nXCI6IGZhbHNlLCBcInNjYWxhXCI6IGZhbHNlLCBcImh0bWxcIjogZmFsc2UsIFwicHl0aG9ubWxcIjogZmFsc2UsIFwia290bGluXCI6IGZhbHNlLCBcInJ1c3RcIjogZmFsc2UsIFwicGhwXCI6IGZhbHNlfSIsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBbCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJNeVNRTCIsCiAgICAgICAgImxhbmdTbHVnIjogIm15c3FsIiwKICAgICAgICAiY29kZSI6ICIjIFdyaXRlIHlvdXIgTXlTUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93XG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIk1TIFNRTCBTZXJ2ZXIiLAogICAgICAgICJsYW5nU2x1ZyI6ICJtc3NxbCIsCiAgICAgICAgImNvZGUiOiAiLyogV3JpdGUgeW91ciBULVNRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiT3JhY2xlIiwKICAgICAgICAibGFuZ1NsdWciOiAib3JhY2xlc3FsIiwKICAgICAgICAiY29kZSI6ICIvKiBXcml0ZSB5b3VyIFBML1NRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9CiAgICBdLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCI3Mi44S1wiLCBcInRvdGFsU3VibWlzc2lvblwiOiBcIjExNS44S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogNzI4MTcsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDExNTc5NiwgXCJhY1JhdGVcIjogXCI2Mi45JVwifSIsCiAgICAiaGludHMiOiBbXSwKICAgICJzb2x1dGlvbiI6IHsKICAgICAgImlkIjogIjIwNCIsCiAgICAgICJjYW5TZWVEZXRhaWwiOiB0cnVlLAogICAgICAiX190eXBlbmFtZSI6ICJBcnRpY2xlTm9kZSIKICAgIH0sCiAgICAic3RhdHVzIjogbnVsbCwKICAgICJzYW1wbGVUZXN0Q2FzZSI6ICJ7XCJoZWFkZXJzXCI6e1wiY2luZW1hXCI6W1wiaWRcIiwgXCJtb3ZpZVwiLCBcImRlc2NyaXB0aW9uXCIsIFwicmF0aW5nXCJdfSxcInJvd3NcIjp7XCJjaW5lbWFcIjpbWzEsIFwiV2FyXCIsIFwiZ3JlYXQgM0RcIiwgOC45XSwgWzIsIFwiU2NpZW5jZVwiLCBcImZpY3Rpb25cIiwgOC41XSwgWzMsIFwiaXJpc2hcIiwgXCJib3JpbmdcIiwgNi4yXSwgWzQsIFwiSWNlIHNvbmdcIiwgXCJGYW50YWN5XCIsIDguNl0sIFs1LCBcIkhvdXNlIGNhcmRcIiwgXCJJbnRlcmVzdGluZ1wiLCA5LjFdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIGNpbmVtYSAoaWQgaW50LCBtb3ZpZSB2YXJjaGFyKDI1NSksIGRlc2NyaXB0aW9uIHZhcmNoYXIoMjU1KSwgcmF0aW5nIGZsb2F0KDIsIDEpKVwiXHJcbiAgXSxcclxuICBcIm1zc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIGNpbmVtYSAoaWQgaW50LCBtb3ZpZSB2YXJjaGFyKDI1NSksIGRlc2NyaXB0aW9uIHZhcmNoYXIoMjU1KSwgcmF0aW5nIGRlY2ltYWwoMiwgMSkpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIGNpbmVtYSAoaWQgaW50LCBtb3ZpZSB2YXJjaGFyKDI1NSksIGRlc2NyaXB0aW9uIHZhcmNoYXIoMjU1KSwgcmF0aW5nIG51bWJlcigyLCAxKSlcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBjaW5lbWEgKGlkIGludCwgbW92aWUgdmFyY2hhcigyNTUpLCBkZXNjcmlwdGlvbiB2YXJjaGFyKDI1NSksIHJhdGluZyBmbG9hdCgyLCAxKSkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgY2luZW1hIiwKICAgICAgImluc2VydCBpbnRvIGNpbmVtYSAoaWQsIG1vdmllLCBkZXNjcmlwdGlvbiwgcmF0aW5nKSB2YWx1ZXMgKCcxJywgJ1dhcicsICdncmVhdCAzRCcsICc4LjknKSIsCiAgICAgICJpbnNlcnQgaW50byBjaW5lbWEgKGlkLCBtb3ZpZSwgZGVzY3JpcHRpb24sIHJhdGluZykgdmFsdWVzICgnMicsICdTY2llbmNlJywgJ2ZpY3Rpb24nLCAnOC41JykiLAogICAgICAiaW5zZXJ0IGludG8gY2luZW1hIChpZCwgbW92aWUsIGRlc2NyaXB0aW9uLCByYXRpbmcpIHZhbHVlcyAoJzMnLCAnaXJpc2gnLCAnYm9yaW5nJywgJzYuMicpIiwKICAgICAgImluc2VydCBpbnRvIGNpbmVtYSAoaWQsIG1vdmllLCBkZXNjcmlwdGlvbiwgcmF0aW5nKSB2YWx1ZXMgKCc0JywgJ0ljZSBzb25nJywgJ0ZhbnRhY3knLCAnOC42JykiLAogICAgICAiaW5zZXJ0IGludG8gY2luZW1hIChpZCwgbW92aWUsIGRlc2NyaXB0aW9uLCByYXRpbmcpIHZhbHVlcyAoJzUnLCAnSG91c2UgY2FyZCcsICdJbnRlcmVzdGluZycsICc5LjEnKSIKICAgIF0sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcIm15c3FsXCI6IFtcIk15U1FMXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXlzcWwtc2VydmVyIDUuNy4yMTwvY29kZT4uPC9wPlwiXSwgXCJtc3NxbFwiOiBbXCJNUyBTUUwgU2VydmVyXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXNzcWw8L2NvZGU+LjwvcD5cIl0sIFwib3JhY2xlc3FsXCI6IFtcIk9yYWNsZVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm9yYWNsZSBzcWw8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "620",
+    "questionFrontendId": "620",
+    "boundTopicId": null,
+    "title": "Not Boring Movies",
+    "titleSlug": "not-boring-movies",
+    "content": "X city opened a new cinema, many people would like to go to this cinema. The cinema also gives out a poster indicating the movies&rsquo; ratings and descriptions.\r\n<p>Please write a SQL query to output movies with an odd numbered ID and a description that is not &#39;boring&#39;. Order the result by rating.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>For example, table <code>cinema</code>:</p>\r\n\r\n<pre>\r\n+---------+-----------+--------------+-----------+\r\n|   id    | movie     |  description |  rating   |\r\n+---------+-----------+--------------+-----------+\r\n|   1     | War       |   great 3D   |   8.9     |\r\n|   2     | Science   |   fiction    |   8.5     |\r\n|   3     | irish     |   boring     |   6.2     |\r\n|   4     | Ice song  |   Fantacy    |   8.6     |\r\n|   5     | House card|   Interesting|   9.1     |\r\n+---------+-----------+--------------+-----------+\r\n</pre>\r\nFor the example above, the output should be:\r\n\r\n<pre>\r\n+---------+-----------+--------------+-----------+\r\n|   id    | movie     |  description |  rating   |\r\n+---------+-----------+--------------+-----------+\r\n|   5     | House card|   Interesting|   9.1     |\r\n|   1     | War       |   great 3D   |   8.9     |\r\n+---------+-----------+--------------+-----------+\r\n</pre>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 192,
+    "dislikes": 228,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Douglas1612",
+        "profileUrl": "/douglas1612/",
+        "avatarUrl": "https://www.gravatar.com/avatar/8e60a4b596b7a8ba118c776bac2a0b04.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"72.8K\", \"totalSubmission\": \"115.8K\", \"totalAcceptedRaw\": 72817, \"totalSubmissionRaw\": 115796, \"acRate\": \"62.9%\"}",
+    "hints": [],
+    "solution": {
+      "id": "204",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"cinema\":[\"id\", \"movie\", \"description\", \"rating\"]},\"rows\":{\"cinema\":[[1, \"War\", \"great 3D\", 8.9], [2, \"Science\", \"fiction\", 8.5], [3, \"irish\", \"boring\", 6.2], [4, \"Ice song\", \"Fantacy\", 8.6], [5, \"House card\", \"Interesting\", 9.1]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists cinema (id int, movie varchar(255), description varchar(255), rating float(2, 1))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table cinema (id int, movie varchar(255), description varchar(255), rating decimal(2, 1))\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table cinema (id int, movie varchar(255), description varchar(255), rating number(2, 1))\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists cinema (id int, movie varchar(255), description varchar(255), rating float(2, 1))",
+      "Truncate table cinema",
+      "insert into cinema (id, movie, description, rating) values ('1', 'War', 'great 3D', '8.9')",
+      "insert into cinema (id, movie, description, rating) values ('2', 'Science', 'fiction', '8.5')",
+      "insert into cinema (id, movie, description, rating) values ('3', 'irish', 'boring', '6.2')",
+      "insert into cinema (id, movie, description, rating) values ('4', 'Ice song', 'Fantacy', '8.6')",
+      "insert into cinema (id, movie, description, rating) values ('5', 'House card', 'Interesting', '9.1')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

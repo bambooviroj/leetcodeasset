@@ -1,1 +1,44 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE5MyIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE5MyIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJWYWxpZCBQaG9uZSBOdW1iZXJzIiwKICAgICJ0aXRsZVNsdWciOiAidmFsaWQtcGhvbmUtbnVtYmVycyIsCiAgICAiY29udGVudCI6ICI8cD5HaXZlbiBhIHRleHQgZmlsZSA8Y29kZT5maWxlLnR4dDwvY29kZT4gdGhhdCBjb250YWlucyBsaXN0IG9mIHBob25lIG51bWJlcnMgKG9uZSBwZXIgbGluZSksIHdyaXRlIGEgb25lIGxpbmVyIGJhc2ggc2NyaXB0IHRvIHByaW50IGFsbCB2YWxpZCBwaG9uZSBudW1iZXJzLjwvcD5cclxuXHJcbjxwPllvdSBtYXkgYXNzdW1lIHRoYXQgYSB2YWxpZCBwaG9uZSBudW1iZXIgbXVzdCBhcHBlYXIgaW4gb25lIG9mIHRoZSBmb2xsb3dpbmcgdHdvIGZvcm1hdHM6ICh4eHgpIHh4eC14eHh4IG9yIHh4eC14eHgteHh4eC4gKHggbWVhbnMgYSBkaWdpdCk8L3A+XHJcblxyXG48cD5Zb3UgbWF5IGFsc28gYXNzdW1lIGVhY2ggbGluZSBpbiB0aGUgdGV4dCBmaWxlIG11c3Qgbm90IGNvbnRhaW4gbGVhZGluZyBvciB0cmFpbGluZyB3aGl0ZSBzcGFjZXMuPC9wPlxyXG5cclxuPHA+PHN0cm9uZz5FeGFtcGxlOjwvc3Ryb25nPjwvcD5cclxuXHJcbjxwPkFzc3VtZSB0aGF0IDxjb2RlPmZpbGUudHh0PC9jb2RlPiBoYXMgdGhlIGZvbGxvd2luZyBjb250ZW50OjwvcD5cclxuXHJcbjxwcmU+XHJcbjk4Ny0xMjMtNDU2N1xyXG4xMjMgNDU2IDc4OTBcclxuKDEyMykgNDU2LTc4OTBcclxuPC9wcmU+XHJcblxyXG48cD5Zb3VyIHNjcmlwdCBzaG91bGQgb3V0cHV0IHRoZSBmb2xsb3dpbmcgdmFsaWQgcGhvbmUgbnVtYmVyczo8L3A+XHJcblxyXG48cHJlPlxyXG45ODctMTIzLTQ1NjdcclxuKDEyMykgNDU2LTc4OTBcclxuPC9wcmU+XHJcbiIsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IGZhbHNlLAogICAgImRpZmZpY3VsdHkiOiAiRWFzeSIsCiAgICAibGlrZXMiOiAxMDUsCiAgICAiZGlzbGlrZXMiOiAyNjcsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogW10sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogIntcImNwcFwiOiBmYWxzZSwgXCJqYXZhXCI6IGZhbHNlLCBcInB5dGhvblwiOiBmYWxzZSwgXCJweXRob24zXCI6IGZhbHNlLCBcIm15c3FsXCI6IGZhbHNlLCBcIm1zc3FsXCI6IGZhbHNlLCBcIm9yYWNsZXNxbFwiOiBmYWxzZSwgXCJjXCI6IGZhbHNlLCBcImNzaGFycFwiOiBmYWxzZSwgXCJqYXZhc2NyaXB0XCI6IGZhbHNlLCBcInJ1YnlcIjogZmFsc2UsIFwiYmFzaFwiOiBmYWxzZSwgXCJzd2lmdFwiOiBmYWxzZSwgXCJnb2xhbmdcIjogZmFsc2UsIFwic2NhbGFcIjogZmFsc2UsIFwiaHRtbFwiOiBmYWxzZSwgXCJweXRob25tbFwiOiBmYWxzZSwgXCJrb3RsaW5cIjogZmFsc2UsIFwicnVzdFwiOiBmYWxzZSwgXCJwaHBcIjogZmFsc2V9IiwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IFsKICAgICAgewogICAgICAgICJsYW5nIjogIkJhc2giLAogICAgICAgICJsYW5nU2x1ZyI6ICJiYXNoIiwKICAgICAgICAiY29kZSI6ICIjIFJlYWQgZnJvbSB0aGUgZmlsZSBmaWxlLnR4dCBhbmQgb3V0cHV0IGFsbCB2YWxpZCBwaG9uZSBudW1iZXJzIHRvIHN0ZG91dC5cclxuIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjI3LjlLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMTA5LjlLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiAyNzkzNywgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMTA5OTMwLCBcImFjUmF0ZVwiOiBcIjI1LjQlXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogbnVsbCwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIjAiLAogICAgIm1ldGFEYXRhIjogIntcbiAgXCJzaGVsbFwiOiB0cnVlLFxuICBcIm1hbnVhbFwiOiB0cnVlXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogW10sCiAgICAiZW5hYmxlUnVuQ29kZSI6IGZhbHNlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJiYXNoXCI6IFtcIkJhc2hcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5iYXNoIDQuMy4zMDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "193",
+    "questionFrontendId": "193",
+    "boundTopicId": null,
+    "title": "Valid Phone Numbers",
+    "titleSlug": "valid-phone-numbers",
+    "content": "<p>Given a text file <code>file.txt</code> that contains list of phone numbers (one per line), write a one liner bash script to print all valid phone numbers.</p>\r\n\r\n<p>You may assume that a valid phone number must appear in one of the following two formats: (xxx) xxx-xxxx or xxx-xxx-xxxx. (x means a digit)</p>\r\n\r\n<p>You may also assume each line in the text file must not contain leading or trailing white spaces.</p>\r\n\r\n<p><strong>Example:</strong></p>\r\n\r\n<p>Assume that <code>file.txt</code> has the following content:</p>\r\n\r\n<pre>\r\n987-123-4567\r\n123 456 7890\r\n(123) 456-7890\r\n</pre>\r\n\r\n<p>Your script should output the following valid phone numbers:</p>\r\n\r\n<pre>\r\n987-123-4567\r\n(123) 456-7890\r\n</pre>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 105,
+    "dislikes": 267,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "Bash",
+        "langSlug": "bash",
+        "code": "# Read from the file file.txt and output all valid phone numbers to stdout.\r\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"27.9K\", \"totalSubmission\": \"109.9K\", \"totalAcceptedRaw\": 27937, \"totalSubmissionRaw\": 109930, \"acRate\": \"25.4%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "0",
+    "metaData": "{\n  \"shell\": true,\n  \"manual\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": false,
+    "enableTestMode": false,
+    "envInfo": "{\"bash\": [\"Bash\", \"<p>Run with <code>bash 4.3.30</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

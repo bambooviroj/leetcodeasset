@@ -1,1 +1,47 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjEyOTIiLAogICAgInF1ZXN0aW9uRnJvbnRlbmRJZCI6ICIxMTc0IiwKICAgICJib3VuZFRvcGljSWQiOiBudWxsLAogICAgInRpdGxlIjogIkltbWVkaWF0ZSBGb29kIERlbGl2ZXJ5IElJIiwKICAgICJ0aXRsZVNsdWciOiAiaW1tZWRpYXRlLWZvb2QtZGVsaXZlcnktaWkiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiTWVkaXVtIiwKICAgICJsaWtlcyI6IDAsCiAgICAiZGlzbGlrZXMiOiAxLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6IG51bGwsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBudWxsLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCIxNTdcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCI0NjZcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDE1NywgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogNDY2LCBcImFjUmF0ZVwiOiBcIjMzLjclXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogbnVsbCwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjp7XCJEZWxpdmVyeVwiOltcImRlbGl2ZXJ5X2lkXCIsXCJjdXN0b21lcl9pZFwiLFwib3JkZXJfZGF0ZVwiLFwiY3VzdG9tZXJfcHJlZl9kZWxpdmVyeV9kYXRlXCJdfSxcInJvd3NcIjp7XCJEZWxpdmVyeVwiOltbMSwxLFwiMjAxOS0wOC0wMVwiLFwiMjAxOS0wOC0wMlwiXSxbMiwyLFwiMjAxOS0wOC0wMlwiLFwiMjAxOS0wOC0wMlwiXSxbMywxLFwiMjAxOS0wOC0xMVwiLFwiMjAxOS0wOC0xMlwiXSxbNCwzLFwiMjAxOS0wOC0yNFwiLFwiMjAxOS0wOC0yNFwiXSxbNSwzLFwiMjAxOS0wOC0yMVwiLFwiMjAxOS0wOC0yMlwiXSxbNiwyLFwiMjAxOS0wOC0xMVwiLFwiMjAxOS0wOC0xM1wiXSxbNyw0LFwiMjAxOS0wOC0wOVwiLFwiMjAxOS0wOC0wOVwiXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xuICBcIm15c3FsXCI6IFtcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCBpbnQsIGN1c3RvbWVyX2lkIGludCwgb3JkZXJfZGF0ZSBkYXRlLCBjdXN0b21lcl9wcmVmX2RlbGl2ZXJ5X2RhdGUgZGF0ZSlcIlxuICBdLFxuICBcIm1zc3FsXCI6IFtcbiAgICBcIkNyZWF0ZSB0YWJsZSBEZWxpdmVyeSAoZGVsaXZlcnlfaWQgaW50LCBjdXN0b21lcl9pZCBpbnQsIG9yZGVyX2RhdGUgZGF0ZSwgY3VzdG9tZXJfcHJlZl9kZWxpdmVyeV9kYXRlIGRhdGUpXCJcbiAgXSxcbiAgXCJvcmFjbGVzcWxcIjogW1xuICAgIFwiQ3JlYXRlIHRhYmxlIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCBpbnQsIGN1c3RvbWVyX2lkIGludCwgb3JkZXJfZGF0ZSBkYXRlLCBjdXN0b21lcl9wcmVmX2RlbGl2ZXJ5X2RhdGUgZGF0ZSlcIixcbiAgICBcIkFMVEVSIFNFU1NJT04gU0VUIG5sc19kYXRlX2Zvcm1hdD0nWVlZWS1NTS1ERCdcIlxuICBdLFxuICBcImRhdGFiYXNlXCI6IHRydWVcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBEZWxpdmVyeSAoZGVsaXZlcnlfaWQgaW50LCBjdXN0b21lcl9pZCBpbnQsIG9yZGVyX2RhdGUgZGF0ZSwgY3VzdG9tZXJfcHJlZl9kZWxpdmVyeV9kYXRlIGRhdGUpIiwKICAgICAgIlRydW5jYXRlIHRhYmxlIERlbGl2ZXJ5IiwKICAgICAgImluc2VydCBpbnRvIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCwgY3VzdG9tZXJfaWQsIG9yZGVyX2RhdGUsIGN1c3RvbWVyX3ByZWZfZGVsaXZlcnlfZGF0ZSkgdmFsdWVzICgnMScsICcxJywgJzIwMTktMDgtMDEnLCAnMjAxOS0wOC0wMicpIiwKICAgICAgImluc2VydCBpbnRvIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCwgY3VzdG9tZXJfaWQsIG9yZGVyX2RhdGUsIGN1c3RvbWVyX3ByZWZfZGVsaXZlcnlfZGF0ZSkgdmFsdWVzICgnMicsICcyJywgJzIwMTktMDgtMDInLCAnMjAxOS0wOC0wMicpIiwKICAgICAgImluc2VydCBpbnRvIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCwgY3VzdG9tZXJfaWQsIG9yZGVyX2RhdGUsIGN1c3RvbWVyX3ByZWZfZGVsaXZlcnlfZGF0ZSkgdmFsdWVzICgnMycsICcxJywgJzIwMTktMDgtMTEnLCAnMjAxOS0wOC0xMicpIiwKICAgICAgImluc2VydCBpbnRvIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCwgY3VzdG9tZXJfaWQsIG9yZGVyX2RhdGUsIGN1c3RvbWVyX3ByZWZfZGVsaXZlcnlfZGF0ZSkgdmFsdWVzICgnNCcsICczJywgJzIwMTktMDgtMjQnLCAnMjAxOS0wOC0yNCcpIiwKICAgICAgImluc2VydCBpbnRvIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCwgY3VzdG9tZXJfaWQsIG9yZGVyX2RhdGUsIGN1c3RvbWVyX3ByZWZfZGVsaXZlcnlfZGF0ZSkgdmFsdWVzICgnNScsICczJywgJzIwMTktMDgtMjEnLCAnMjAxOS0wOC0yMicpIiwKICAgICAgImluc2VydCBpbnRvIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCwgY3VzdG9tZXJfaWQsIG9yZGVyX2RhdGUsIGN1c3RvbWVyX3ByZWZfZGVsaXZlcnlfZGF0ZSkgdmFsdWVzICgnNicsICcyJywgJzIwMTktMDgtMTEnLCAnMjAxOS0wOC0xMycpIiwKICAgICAgImluc2VydCBpbnRvIERlbGl2ZXJ5IChkZWxpdmVyeV9pZCwgY3VzdG9tZXJfaWQsIG9yZGVyX2RhdGUsIGN1c3RvbWVyX3ByZWZfZGVsaXZlcnlfZGF0ZSkgdmFsdWVzICgnNycsICc0JywgJzIwMTktMDgtMDknLCAnMjAxOS0wOC0wOScpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "1292",
+    "questionFrontendId": "1174",
+    "boundTopicId": null,
+    "title": "Immediate Food Delivery II",
+    "titleSlug": "immediate-food-delivery-ii",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Medium",
+    "likes": 0,
+    "dislikes": 1,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"157\", \"totalSubmission\": \"466\", \"totalAcceptedRaw\": 157, \"totalSubmissionRaw\": 466, \"acRate\": \"33.7%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"Delivery\":[\"delivery_id\",\"customer_id\",\"order_date\",\"customer_pref_delivery_date\"]},\"rows\":{\"Delivery\":[[1,1,\"2019-08-01\",\"2019-08-02\"],[2,2,\"2019-08-02\",\"2019-08-02\"],[3,1,\"2019-08-11\",\"2019-08-12\"],[4,3,\"2019-08-24\",\"2019-08-24\"],[5,3,\"2019-08-21\",\"2019-08-22\"],[6,2,\"2019-08-11\",\"2019-08-13\"],[7,4,\"2019-08-09\",\"2019-08-09\"]]}}",
+    "metaData": "{\n  \"mysql\": [\n    \"Create table If Not Exists Delivery (delivery_id int, customer_id int, order_date date, customer_pref_delivery_date date)\"\n  ],\n  \"mssql\": [\n    \"Create table Delivery (delivery_id int, customer_id int, order_date date, customer_pref_delivery_date date)\"\n  ],\n  \"oraclesql\": [\n    \"Create table Delivery (delivery_id int, customer_id int, order_date date, customer_pref_delivery_date date)\",\n    \"ALTER SESSION SET nls_date_format='YYYY-MM-DD'\"\n  ],\n  \"database\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Delivery (delivery_id int, customer_id int, order_date date, customer_pref_delivery_date date)",
+      "Truncate table Delivery",
+      "insert into Delivery (delivery_id, customer_id, order_date, customer_pref_delivery_date) values ('1', '1', '2019-08-01', '2019-08-02')",
+      "insert into Delivery (delivery_id, customer_id, order_date, customer_pref_delivery_date) values ('2', '2', '2019-08-02', '2019-08-02')",
+      "insert into Delivery (delivery_id, customer_id, order_date, customer_pref_delivery_date) values ('3', '1', '2019-08-11', '2019-08-12')",
+      "insert into Delivery (delivery_id, customer_id, order_date, customer_pref_delivery_date) values ('4', '3', '2019-08-24', '2019-08-24')",
+      "insert into Delivery (delivery_id, customer_id, order_date, customer_pref_delivery_date) values ('5', '3', '2019-08-21', '2019-08-22')",
+      "insert into Delivery (delivery_id, customer_id, order_date, customer_pref_delivery_date) values ('6', '2', '2019-08-11', '2019-08-13')",
+      "insert into Delivery (delivery_id, customer_id, order_date, customer_pref_delivery_date) values ('7', '4', '2019-08-09', '2019-08-09')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

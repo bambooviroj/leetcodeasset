@@ -1,1 +1,59 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjU3OCIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjU3OCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJHZXQgSGlnaGVzdCBBbnN3ZXIgUmF0ZSBRdWVzdGlvbiIsCiAgICAidGl0bGVTbHVnIjogImdldC1oaWdoZXN0LWFuc3dlci1yYXRlLXF1ZXN0aW9uIiwKICAgICJjb250ZW50IjogbnVsbCwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogdHJ1ZSwKICAgICJkaWZmaWN1bHR5IjogIk1lZGl1bSIsCiAgICAibGlrZXMiOiAyMywKICAgICJkaXNsaWtlcyI6IDI0NSwKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIltdIiwKICAgICJjb250cmlidXRvcnMiOiBbCiAgICAgIHsKICAgICAgICAidXNlcm5hbWUiOiAiRG91Z2xhczE2MTIiLAogICAgICAgICJwcm9maWxlVXJsIjogIi9kb3VnbGFzMTYxMi8iLAogICAgICAgICJhdmF0YXJVcmwiOiAiaHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci84ZTYwYTRiNTk2YjdhOGJhMTE4Yzc3NmJhYzJhMGIwNC5wbmc/cz0yMDAiLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvbnRyaWJ1dG9yTm9kZSIKICAgICAgfQogICAgXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiBudWxsLAogICAgInRvcGljVGFncyI6IFtdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogbnVsbCwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiMTAuMUtcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIyOC40S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogMTAwNzUsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDI4Mzg0LCBcImFjUmF0ZVwiOiBcIjM1LjUlXCJ9IiwKICAgICJoaW50cyI6IFsKICAgICAgIlRyeSB0byBmaW5kIGFsbCBxdWVzdGlvbiBpZHMgYnkgZ3JvdXAiLAogICAgICAiVHJ5IHRvIGZpbmQgZWFjaCBncm91cCBhbnN3ZXIgbnVtYmVyIGFuZCBzaG93IG51bWJlci4iLAogICAgICAiUmFuayBhbGwgdGhlIHJhdGVzIChhbnN3ZXIvKGFuc3dlcitzaG93KSkgYW5kIHJldHVybiB0aGUgbWF4IG9uZSIKICAgIF0sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICIyMDUiLAogICAgICAiY2FuU2VlRGV0YWlsIjogdHJ1ZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOiB7XCJzdXJ2ZXlfbG9nXCI6IFtcInVpZFwiLCBcImFjdGlvblwiLCBcInF1ZXN0aW9uX2lkXCIsIFwiYW5zd2VyX2lkXCIsIFwicV9udW1cIiwgXCJ0aW1lc3RhbXBcIl19LFwicm93c1wiOiB7XCJzdXJ2ZXlfbG9nXCI6IFtbNSwgXCJzaG93XCIsIDI4NSwgbnVsbCwgMSwgMTIzXSwgWzUsIFwiYW5zd2VyXCIsIDI4NSwgMTI0MTI0LCAxLCAxMjRdLCBbNSwgXCJzaG93XCIsIDM2OSwgbnVsbCwgMiwgMTI1XSwgWzUsIFwic2tpcFwiLCAzNjksIG51bGwsIDIsIDEyNl1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcclxuICBcIm15c3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgc3VydmV5X2xvZyAodWlkIGludCwgYWN0aW9uIHZhcmNoYXIoMjU1KSwgcXVlc3Rpb25faWQgaW50LCBhbnN3ZXJfaWQgaW50LCBxX251bSBpbnQsIHRpbWVzdGFtcCBpbnQpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgc3VydmV5X2xvZyAodWlkIGludCwgYWN0aW9uIHZhcmNoYXIoMjU1KSwgcXVlc3Rpb25faWQgaW50LCBhbnN3ZXJfaWQgaW50LCBxX251bSBpbnQsIHRpbWVzdGFtcCBpbnQpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIHN1cnZleV9sb2cgKHVpZCBpbnQsIGFjdGlvbiB2YXJjaGFyKDI1NSksIHF1ZXN0aW9uX2lkIGludCwgYW5zd2VyX2lkIGludCwgcV9udW0gaW50LCB0aW1lc3RhbXAgaW50KVwiXHJcbiAgXSxcclxuICBcImRhdGFiYXNlXCI6IHRydWVcclxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFsKICAgICAgIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIHN1cnZleV9sb2cgKHVpZCBpbnQsIGFjdGlvbiB2YXJjaGFyKDI1NSksIHF1ZXN0aW9uX2lkIGludCwgYW5zd2VyX2lkIGludCwgcV9udW0gaW50LCB0aW1lc3RhbXAgaW50KSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBzdXJ2ZXlfbG9nIiwKICAgICAgImluc2VydCBpbnRvIHN1cnZleV9sb2cgKHVpZCwgYWN0aW9uLCBxdWVzdGlvbl9pZCwgYW5zd2VyX2lkLCBxX251bSwgdGltZXN0YW1wKSB2YWx1ZXMgKCc1JywgJ3Nob3cnLCAnMjg1JywgJ05vbmUnLCAnMScsICcxMjMnKSIsCiAgICAgICJpbnNlcnQgaW50byBzdXJ2ZXlfbG9nICh1aWQsIGFjdGlvbiwgcXVlc3Rpb25faWQsIGFuc3dlcl9pZCwgcV9udW0sIHRpbWVzdGFtcCkgdmFsdWVzICgnNScsICdhbnN3ZXInLCAnMjg1JywgJzEyNDEyNCcsICcxJywgJzEyNCcpIiwKICAgICAgImluc2VydCBpbnRvIHN1cnZleV9sb2cgKHVpZCwgYWN0aW9uLCBxdWVzdGlvbl9pZCwgYW5zd2VyX2lkLCBxX251bSwgdGltZXN0YW1wKSB2YWx1ZXMgKCc1JywgJ3Nob3cnLCAnMzY5JywgJ05vbmUnLCAnMicsICcxMjUnKSIsCiAgICAgICJpbnNlcnQgaW50byBzdXJ2ZXlfbG9nICh1aWQsIGFjdGlvbiwgcXVlc3Rpb25faWQsIGFuc3dlcl9pZCwgcV9udW0sIHRpbWVzdGFtcCkgdmFsdWVzICgnNScsICdza2lwJywgJzM2OScsICdOb25lJywgJzInLCAnMTI2JykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "578",
+    "questionFrontendId": "578",
+    "boundTopicId": null,
+    "title": "Get Highest Answer Rate Question",
+    "titleSlug": "get-highest-answer-rate-question",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Medium",
+    "likes": 23,
+    "dislikes": 245,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Douglas1612",
+        "profileUrl": "/douglas1612/",
+        "avatarUrl": "https://www.gravatar.com/avatar/8e60a4b596b7a8ba118c776bac2a0b04.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"10.1K\", \"totalSubmission\": \"28.4K\", \"totalAcceptedRaw\": 10075, \"totalSubmissionRaw\": 28384, \"acRate\": \"35.5%\"}",
+    "hints": [
+      "Try to find all question ids by group",
+      "Try to find each group answer number and show number.",
+      "Rank all the rates (answer/(answer+show)) and return the max one"
+    ],
+    "solution": {
+      "id": "205",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"survey_log\": [\"uid\", \"action\", \"question_id\", \"answer_id\", \"q_num\", \"timestamp\"]},\"rows\": {\"survey_log\": [[5, \"show\", 285, null, 1, 123], [5, \"answer\", 285, 124124, 1, 124], [5, \"show\", 369, null, 2, 125], [5, \"skip\", 369, null, 2, 126]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists survey_log (uid int, action varchar(255), question_id int, answer_id int, q_num int, timestamp int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table survey_log (uid int, action varchar(255), question_id int, answer_id int, q_num int, timestamp int)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table survey_log (uid int, action varchar(255), question_id int, answer_id int, q_num int, timestamp int)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists survey_log (uid int, action varchar(255), question_id int, answer_id int, q_num int, timestamp int)",
+      "Truncate table survey_log",
+      "insert into survey_log (uid, action, question_id, answer_id, q_num, timestamp) values ('5', 'show', '285', 'None', '1', '123')",
+      "insert into survey_log (uid, action, question_id, answer_id, q_num, timestamp) values ('5', 'answer', '285', '124124', '1', '124')",
+      "insert into survey_log (uid, action, question_id, answer_id, q_num, timestamp) values ('5', 'show', '369', 'None', '2', '125')",
+      "insert into survey_log (uid, action, question_id, answer_id, q_num, timestamp) values ('5', 'skip', '369', 'None', '2', '126')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

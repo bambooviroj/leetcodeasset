@@ -1,1 +1,58 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYwOCIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYwOCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJUcmVlIE5vZGUiLAogICAgInRpdGxlU2x1ZyI6ICJ0cmVlLW5vZGUiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiTWVkaXVtIiwKICAgICJsaWtlcyI6IDExNiwKICAgICJkaXNsaWtlcyI6IDcsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogWwogICAgICB7CiAgICAgICAgInVzZXJuYW1lIjogImFydGlzdHNjcmlwdCIsCiAgICAgICAgInByb2ZpbGVVcmwiOiAiL2FydGlzdHNjcmlwdC8iLAogICAgICAgICJhdmF0YXJVcmwiOiAiaHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8xZDE4NmY0MjY4MWExNTdiMmNjZTNlYmY5ZjljMDkxMS5wbmc/cz0yMDAiLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvbnRyaWJ1dG9yTm9kZSIKICAgICAgfQogICAgXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiBudWxsLAogICAgInRvcGljVGFncyI6IFtdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogbnVsbCwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiMTEuMUtcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIxOC41S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogMTEwODAsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDE4NDgyLCBcImFjUmF0ZVwiOiBcIjYwLjAlXCJ9IiwKICAgICJoaW50cyI6IFsKICAgICAgIllvdSBjYW4ganVkZ2UgdGhlIG5vZGUgdHlwZSBieSBxdWVyeWluZyB3aGV0aGVyIHRoZSBub2RlJ3MgaWQgc2hvd3MgdXAgaW4gcF9pZCBjb2x1bW4gYW5kIHdoZXRoZXIgdGhlIG5vZGUncyBwX2lkIGlzIG51bGwuIgogICAgXSwKICAgICJzb2x1dGlvbiI6IHsKICAgICAgImlkIjogIjIwMSIsCiAgICAgICJjYW5TZWVEZXRhaWwiOiB0cnVlLAogICAgICAiX190eXBlbmFtZSI6ICJBcnRpY2xlTm9kZSIKICAgIH0sCiAgICAic3RhdHVzIjogbnVsbCwKICAgICJzYW1wbGVUZXN0Q2FzZSI6ICJ7XCJoZWFkZXJzXCI6IHtcInRyZWVcIjogW1wiaWRcIiwgXCJwX2lkXCJdfSwgXCJyb3dzXCI6IHtcInRyZWVcIjogW1sxLG51bGxdLFsyLDFdLFszLDFdLFs0LDJdLFs1LDJdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIHRyZWUgKGlkIGludCwgcF9pZCBpbnQpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgdHJlZSAoaWQgaW50LCBwX2lkIGludClcIlxyXG4gIF0sXHJcbiAgXCJvcmFjbGVzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgdHJlZSAoaWQgaW50LCBwX2lkIGludClcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyB0cmVlIChpZCBpbnQsIHBfaWQgaW50KSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSB0cmVlIiwKICAgICAgImluc2VydCBpbnRvIHRyZWUgKGlkLCBwX2lkKSB2YWx1ZXMgKCcxJywgJ05vbmUnKSIsCiAgICAgICJpbnNlcnQgaW50byB0cmVlIChpZCwgcF9pZCkgdmFsdWVzICgnMicsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gdHJlZSAoaWQsIHBfaWQpIHZhbHVlcyAoJzMnLCAnMScpIiwKICAgICAgImluc2VydCBpbnRvIHRyZWUgKGlkLCBwX2lkKSB2YWx1ZXMgKCc0JywgJzInKSIsCiAgICAgICJpbnNlcnQgaW50byB0cmVlIChpZCwgcF9pZCkgdmFsdWVzICgnNScsICcyJykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "608",
+    "questionFrontendId": "608",
+    "boundTopicId": null,
+    "title": "Tree Node",
+    "titleSlug": "tree-node",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Medium",
+    "likes": 116,
+    "dislikes": 7,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "artistscript",
+        "profileUrl": "/artistscript/",
+        "avatarUrl": "https://www.gravatar.com/avatar/1d186f42681a157b2cce3ebf9f9c0911.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"11.1K\", \"totalSubmission\": \"18.5K\", \"totalAcceptedRaw\": 11080, \"totalSubmissionRaw\": 18482, \"acRate\": \"60.0%\"}",
+    "hints": [
+      "You can judge the node type by querying whether the node's id shows up in p_id column and whether the node's p_id is null."
+    ],
+    "solution": {
+      "id": "201",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"tree\": [\"id\", \"p_id\"]}, \"rows\": {\"tree\": [[1,null],[2,1],[3,1],[4,2],[5,2]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists tree (id int, p_id int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table tree (id int, p_id int)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table tree (id int, p_id int)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists tree (id int, p_id int)",
+      "Truncate table tree",
+      "insert into tree (id, p_id) values ('1', 'None')",
+      "insert into tree (id, p_id) values ('2', '1')",
+      "insert into tree (id, p_id) values ('3', '1')",
+      "insert into tree (id, p_id) values ('4', '2')",
+      "insert into tree (id, p_id) values ('5', '2')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

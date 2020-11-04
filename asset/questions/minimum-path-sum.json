@@ -1,1 +1,139 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjY0IiwKICAgICJxdWVzdGlvbkZyb250ZW5kSWQiOiAiNjQiLAogICAgImJvdW5kVG9waWNJZCI6IG51bGwsCiAgICAidGl0bGUiOiAiTWluaW11bSBQYXRoIFN1bSIsCiAgICAidGl0bGVTbHVnIjogIm1pbmltdW0tcGF0aC1zdW0iLAogICAgImNvbnRlbnQiOiAiPHA+R2l2ZW4gYSA8ZW0+bTwvZW0+IHggPGVtPm48L2VtPiBncmlkIGZpbGxlZCB3aXRoIG5vbi1uZWdhdGl2ZSBudW1iZXJzLCBmaW5kIGEgcGF0aCBmcm9tIHRvcCBsZWZ0IHRvIGJvdHRvbSByaWdodCB3aGljaCA8ZW0+bWluaW1pemVzPC9lbT4gdGhlIHN1bSBvZiBhbGwgbnVtYmVycyBhbG9uZyBpdHMgcGF0aC48L3A+XHJcblxyXG48cD48c3Ryb25nPk5vdGU6PC9zdHJvbmc+IFlvdSBjYW4gb25seSBtb3ZlIGVpdGhlciBkb3duIG9yIHJpZ2h0IGF0IGFueSBwb2ludCBpbiB0aW1lLjwvcD5cclxuXHJcbjxwPjxzdHJvbmc+RXhhbXBsZTo8L3N0cm9uZz48L3A+XHJcblxyXG48cHJlPlxyXG48c3Ryb25nPklucHV0Ojwvc3Ryb25nPlxyXG5bXHJcbiZuYnNwOyBbMSwzLDFdLFxyXG4gIFsxLDUsMV0sXHJcbiAgWzQsMiwxXVxyXG5dXHJcbjxzdHJvbmc+T3V0cHV0Ojwvc3Ryb25nPiA3XHJcbjxzdHJvbmc+RXhwbGFuYXRpb246PC9zdHJvbmc+IEJlY2F1c2UgdGhlIHBhdGggMSZyYXJyOzMmcmFycjsxJnJhcnI7MSZyYXJyOzEgbWluaW1pemVzIHRoZSBzdW0uXHJcbjwvcHJlPlxyXG4iLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiBmYWxzZSwKICAgICJkaWZmaWN1bHR5IjogIk1lZGl1bSIsCiAgICAibGlrZXMiOiAxNTgyLAogICAgImRpc2xpa2VzIjogNDIsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbe1widGl0bGVcIjogXCJVbmlxdWUgUGF0aHNcIiwgXCJ0aXRsZVNsdWdcIjogXCJ1bmlxdWUtcGF0aHNcIiwgXCJkaWZmaWN1bHR5XCI6IFwiTWVkaXVtXCIsIFwidHJhbnNsYXRlZFRpdGxlXCI6IG51bGx9LCB7XCJ0aXRsZVwiOiBcIkR1bmdlb24gR2FtZVwiLCBcInRpdGxlU2x1Z1wiOiBcImR1bmdlb24tZ2FtZVwiLCBcImRpZmZpY3VsdHlcIjogXCJIYXJkXCIsIFwidHJhbnNsYXRlZFRpdGxlXCI6IG51bGx9LCB7XCJ0aXRsZVwiOiBcIkNoZXJyeSBQaWNrdXBcIiwgXCJ0aXRsZVNsdWdcIjogXCJjaGVycnktcGlja3VwXCIsIFwiZGlmZmljdWx0eVwiOiBcIkhhcmRcIiwgXCJ0cmFuc2xhdGVkVGl0bGVcIjogbnVsbH1dIiwKICAgICJjb250cmlidXRvcnMiOiBbXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiAie1wiY3BwXCI6IGZhbHNlLCBcImphdmFcIjogdHJ1ZSwgXCJweXRob25cIjogdHJ1ZSwgXCJweXRob24zXCI6IGZhbHNlLCBcIm15c3FsXCI6IGZhbHNlLCBcIm1zc3FsXCI6IGZhbHNlLCBcIm9yYWNsZXNxbFwiOiBmYWxzZSwgXCJjXCI6IGZhbHNlLCBcImNzaGFycFwiOiBmYWxzZSwgXCJqYXZhc2NyaXB0XCI6IGZhbHNlLCBcInJ1YnlcIjogZmFsc2UsIFwiYmFzaFwiOiBmYWxzZSwgXCJzd2lmdFwiOiBmYWxzZSwgXCJnb2xhbmdcIjogZmFsc2UsIFwic2NhbGFcIjogZmFsc2UsIFwiaHRtbFwiOiBmYWxzZSwgXCJweXRob25tbFwiOiBmYWxzZSwgXCJrb3RsaW5cIjogZmFsc2UsIFwicnVzdFwiOiBmYWxzZSwgXCJwaHBcIjogZmFsc2V9IiwKICAgICJ0b3BpY1RhZ3MiOiBbCiAgICAgIHsKICAgICAgICAibmFtZSI6ICJBcnJheSIsCiAgICAgICAgInNsdWciOiAiYXJyYXkiLAogICAgICAgICJ0cmFuc2xhdGVkTmFtZSI6IG51bGwsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiVG9waWNUYWdOb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgIm5hbWUiOiAiRHluYW1pYyBQcm9ncmFtbWluZyIsCiAgICAgICAgInNsdWciOiAiZHluYW1pYy1wcm9ncmFtbWluZyIsCiAgICAgICAgInRyYW5zbGF0ZWROYW1lIjogbnVsbCwKICAgICAgICAiX190eXBlbmFtZSI6ICJUb3BpY1RhZ05vZGUiCiAgICAgIH0KICAgIF0sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBbCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJDKysiLAogICAgICAgICJsYW5nU2x1ZyI6ICJjcHAiLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uIHtcbnB1YmxpYzpcbiAgICBpbnQgbWluUGF0aFN1bSh2ZWN0b3I8dmVjdG9yPGludD4+JiBncmlkKSB7XG4gICAgICAgIFxuICAgIH1cbn07IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJKYXZhIiwKICAgICAgICAibGFuZ1NsdWciOiAiamF2YSIsCiAgICAgICAgImNvZGUiOiAiY2xhc3MgU29sdXRpb24ge1xuICAgIHB1YmxpYyBpbnQgbWluUGF0aFN1bShpbnRbXVtdIGdyaWQpIHtcbiAgICAgICAgXG4gICAgfVxufSIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiUHl0aG9uIiwKICAgICAgICAibGFuZ1NsdWciOiAicHl0aG9uIiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbihvYmplY3QpOlxuICAgIGRlZiBtaW5QYXRoU3VtKHNlbGYsIGdyaWQpOlxuICAgICAgICBcIlwiXCJcbiAgICAgICAgOnR5cGUgZ3JpZDogTGlzdFtMaXN0W2ludF1dXG4gICAgICAgIDpydHlwZTogaW50XG4gICAgICAgIFwiXCJcIlxuICAgICAgICAiLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlB5dGhvbjMiLAogICAgICAgICJsYW5nU2x1ZyI6ICJweXRob24zIiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbjpcbiAgICBkZWYgbWluUGF0aFN1bShzZWxmLCBncmlkOiBMaXN0W0xpc3RbaW50XV0pIC0+IGludDpcbiAgICAgICAgIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJDIiwKICAgICAgICAibGFuZ1NsdWciOiAiYyIsCiAgICAgICAgImNvZGUiOiAiXG5cbmludCBtaW5QYXRoU3VtKGludCoqIGdyaWQsIGludCBncmlkU2l6ZSwgaW50KiBncmlkQ29sU2l6ZSl7XG5cbn1cblxuIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJDIyIsCiAgICAgICAgImxhbmdTbHVnIjogImNzaGFycCIsCiAgICAgICAgImNvZGUiOiAicHVibGljIGNsYXNzIFNvbHV0aW9uIHtcbiAgICBwdWJsaWMgaW50IE1pblBhdGhTdW0oaW50W11bXSBncmlkKSB7XG4gICAgICAgIFxuICAgIH1cbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIkphdmFTY3JpcHQiLAogICAgICAgICJsYW5nU2x1ZyI6ICJqYXZhc2NyaXB0IiwKICAgICAgICAiY29kZSI6ICIvKipcbiAqIEBwYXJhbSB7bnVtYmVyW11bXX0gZ3JpZFxuICogQHJldHVybiB7bnVtYmVyfVxuICovXG52YXIgbWluUGF0aFN1bSA9IGZ1bmN0aW9uKGdyaWQpIHtcbiAgICBcbn07IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJSdWJ5IiwKICAgICAgICAibGFuZ1NsdWciOiAicnVieSIsCiAgICAgICAgImNvZGUiOiAiIyBAcGFyYW0ge0ludGVnZXJbXVtdfSBncmlkXG4jIEByZXR1cm4ge0ludGVnZXJ9XG5kZWYgbWluX3BhdGhfc3VtKGdyaWQpXG4gICAgXG5lbmQiLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlN3aWZ0IiwKICAgICAgICAibGFuZ1NsdWciOiAic3dpZnQiLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uIHtcbiAgICBmdW5jIG1pblBhdGhTdW0oXyBncmlkOiBbW0ludF1dKSAtPiBJbnQge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJHbyIsCiAgICAgICAgImxhbmdTbHVnIjogImdvbGFuZyIsCiAgICAgICAgImNvZGUiOiAiZnVuYyBtaW5QYXRoU3VtKGdyaWQgW11bXWludCkgaW50IHtcbiAgICBcbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlNjYWxhIiwKICAgICAgICAibGFuZ1NsdWciOiAic2NhbGEiLAogICAgICAgICJjb2RlIjogIm9iamVjdCBTb2x1dGlvbiB7XG4gICAgZGVmIG1pblBhdGhTdW0oZ3JpZDogQXJyYXlbQXJyYXlbSW50XV0pOiBJbnQgPSB7XG4gICAgICAgIFxuICAgIH1cbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIktvdGxpbiIsCiAgICAgICAgImxhbmdTbHVnIjogImtvdGxpbiIsCiAgICAgICAgImNvZGUiOiAiY2xhc3MgU29sdXRpb24ge1xuICAgIGZ1biBtaW5QYXRoU3VtKGdyaWQ6IEFycmF5PEludEFycmF5Pik6IEludCB7XG4gICAgICAgIFxuICAgIH1cbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlJ1c3QiLAogICAgICAgICJsYW5nU2x1ZyI6ICJydXN0IiwKICAgICAgICAiY29kZSI6ICJpbXBsIFNvbHV0aW9uIHtcbiAgICBwdWIgZm4gbWluX3BhdGhfc3VtKGdyaWQ6IFZlYzxWZWM8aTMyPj4pIC0+IGkzMiB7XG4gICAgICAgIFxuICAgIH1cbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlBIUCIsCiAgICAgICAgImxhbmdTbHVnIjogInBocCIsCiAgICAgICAgImNvZGUiOiAiY2xhc3MgU29sdXRpb24ge1xuXG4gICAgLyoqXG4gICAgICogQHBhcmFtIEludGVnZXJbXVtdICRncmlkXG4gICAgICogQHJldHVybiBJbnRlZ2VyXG4gICAgICovXG4gICAgZnVuY3Rpb24gbWluUGF0aFN1bSgkZ3JpZCkge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjI1NS42S1wiLCBcInRvdGFsU3VibWlzc2lvblwiOiBcIjUyOC45S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogMjU1NTY4LCBcInRvdGFsU3VibWlzc2lvblJhd1wiOiA1Mjg4OTAsIFwiYWNSYXRlXCI6IFwiNDguMyVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICI2OCIsCiAgICAgICJjYW5TZWVEZXRhaWwiOiBmYWxzZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAiW1sxLDMsMV0sWzEsNSwxXSxbNCwyLDFdXSIsCiAgICAibWV0YURhdGEiOiAie1xyXG4gIFwibmFtZVwiOiBcIm1pblBhdGhTdW1cIixcclxuICBcInBhcmFtc1wiOiBbXHJcbiAgICB7XHJcbiAgICAgIFwibmFtZVwiOiBcImdyaWRcIixcclxuICAgICAgXCJ0eXBlXCI6IFwiaW50ZWdlcltdW11cIlxyXG4gICAgfVxyXG4gIF0sXHJcbiAgXCJyZXR1cm5cIjoge1xyXG4gICAgXCJ0eXBlXCI6IFwiaW50ZWdlclwiXHJcbiAgfVxyXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogW10sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcImNwcFwiOiBbXCJDKytcIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPmcrKyA4LjI8L2NvZGU+IHVzaW5nIHRoZSBsYXRlc3QgQysrIDE3IHN0YW5kYXJkLjwvcD5cXHJcXG5cXHJcXG48cD5Zb3VyIGNvZGUgaXMgY29tcGlsZWQgd2l0aCBsZXZlbCBvbmUgb3B0aW1pemF0aW9uICg8Y29kZT4tTzE8L2NvZGU+KS4gPGEgaHJlZj1cXFwiaHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9zYW5pdGl6ZXJzL3dpa2kvQWRkcmVzc1Nhbml0aXplclxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPkFkZHJlc3NTYW5pdGl6ZXI8L2E+IGlzIGFsc28gZW5hYmxlZCB0byBoZWxwIGRldGVjdCBvdXQtb2YtYm91bmRzIGFuZCB1c2UtYWZ0ZXItZnJlZSBidWdzLjwvcD5cXHJcXG5cXHJcXG48cD5Nb3N0IHN0YW5kYXJkIGxpYnJhcnkgaGVhZGVycyBhcmUgYWxyZWFkeSBpbmNsdWRlZCBhdXRvbWF0aWNhbGx5IGZvciB5b3VyIGNvbnZlbmllbmNlLjwvcD5cIl0sIFwiamF2YVwiOiBbXCJKYXZhXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5qYXZhIDEuOC4wPC9jb2RlPiB0YWtpbmcgYWR2YW50YWdlIG9mIHRoZSBsYXRlc3QgSmF2YSA4IGZlYXR1cmVzIHN1Y2ggYXMgbGFtYmRhIGV4cHJlc3Npb25zIGFuZCBzdHJlYW0gQVBJLjwvcD5cXG5cXG48cD5Nb3N0IHN0YW5kYXJkIGxpYnJhcnkgaGVhZGVycyBhcmUgYWxyZWFkeSBpbmNsdWRlZCBhdXRvbWF0aWNhbGx5IGZvciB5b3VyIGNvbnZlbmllbmNlLjwvcD5cIl0sIFwicHl0aG9uXCI6IFtcIlB5dGhvblwiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+cHl0aG9uIDIuNy4xMjwvY29kZT4uPC9wPlxcblxcbjxwPk1vc3QgbGlicmFyaWVzIGFyZSBhbHJlYWR5IGltcG9ydGVkIGF1dG9tYXRpY2FsbHkgZm9yIHlvdXIgY29udmVuaWVuY2UsIHN1Y2ggYXMgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMi9saWJyYXJ5L2FycmF5Lmh0bWxcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5hcnJheTwvYT4sIDxhIGhyZWY9XFxcImh0dHBzOi8vZG9jcy5weXRob24ub3JnLzIvbGlicmFyeS9iaXNlY3QuaHRtbFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmJpc2VjdDwvYT4sIDxhIGhyZWY9XFxcImh0dHBzOi8vZG9jcy5weXRob24ub3JnLzIvbGlicmFyeS9jb2xsZWN0aW9ucy5odG1sXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+Y29sbGVjdGlvbnM8L2E+LiBJZiB5b3UgbmVlZCBtb3JlIGxpYnJhcmllcywgeW91IGNhbiBpbXBvcnQgaXQgeW91cnNlbGYuPC9wPlxcblxcbjxwPk5vdGUgdGhhdCBQeXRob24gMi43IDxhIGhyZWY9XFxcImh0dHBzOi8vd3d3LnB5dGhvbi5vcmcvZGV2L3BlcHMvcGVwLTAzNzMvXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+d2lsbCBub3QgYmUgbWFpbnRhaW5lZCBwYXN0IDIwMjA8L2E+LiBGb3IgdGhlIGxhdGVzdCBQeXRob24sIHBsZWFzZSBjaG9vc2UgUHl0aG9uMyBpbnN0ZWFkLjwvcD5cIl0sIFwiY1wiOiBbXCJDXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5nY2MgOC4yPC9jb2RlPiB1c2luZyB0aGUgZ251OTkgc3RhbmRhcmQuPC9wPlxcclxcblxcclxcbjxwPllvdXIgY29kZSBpcyBjb21waWxlZCB3aXRoIGxldmVsIG9uZSBvcHRpbWl6YXRpb24gKDxjb2RlPi1PMTwvY29kZT4pLiA8YSBocmVmPVxcXCJodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xlL3Nhbml0aXplcnMvd2lraS9BZGRyZXNzU2FuaXRpemVyXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+QWRkcmVzc1Nhbml0aXplcjwvYT4gaXMgYWxzbyBlbmFibGVkIHRvIGhlbHAgZGV0ZWN0IG91dC1vZi1ib3VuZHMgYW5kIHVzZS1hZnRlci1mcmVlIGJ1Z3MuPC9wPlxcclxcblxcclxcbjxwPk1vc3Qgc3RhbmRhcmQgbGlicmFyeSBoZWFkZXJzIGFyZSBhbHJlYWR5IGluY2x1ZGVkIGF1dG9tYXRpY2FsbHkgZm9yIHlvdXIgY29udmVuaWVuY2UuPC9wPlxcclxcblxcclxcbjxwPkZvciBoYXNoIHRhYmxlIG9wZXJhdGlvbnMsIHlvdSBtYXkgdXNlIDxhIGhyZWY9XFxcImh0dHBzOi8vdHJveWRoYW5zb24uZ2l0aHViLmlvL3V0aGFzaC9cXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj51dGhhc2g8L2E+LiBcXFwidXRoYXNoLmhcXFwiIGlzIGluY2x1ZGVkIGJ5IGRlZmF1bHQuIEJlbG93IGFyZSBzb21lIGV4YW1wbGVzOjwvcD5cXHJcXG5cXHJcXG48cD48Yj4xLiBBZGRpbmcgYW4gaXRlbSB0byBhIGhhc2guPC9iPlxcclxcbjxwcmU+XFxyXFxuc3RydWN0IGhhc2hfZW50cnkge1xcclxcbiAgICBpbnQgaWQ7ICAgICAgICAgICAgLyogd2UnbGwgdXNlIHRoaXMgZmllbGQgYXMgdGhlIGtleSAqL1xcclxcbiAgICBjaGFyIG5hbWVbMTBdO1xcclxcbiAgICBVVF9oYXNoX2hhbmRsZSBoaDsgLyogbWFrZXMgdGhpcyBzdHJ1Y3R1cmUgaGFzaGFibGUgKi9cXHJcXG59O1xcclxcblxcclxcbnN0cnVjdCBoYXNoX2VudHJ5ICp1c2VycyA9IE5VTEw7XFxyXFxuXFxyXFxudm9pZCBhZGRfdXNlcihzdHJ1Y3QgaGFzaF9lbnRyeSAqcykge1xcclxcbiAgICBIQVNIX0FERF9JTlQodXNlcnMsIGlkLCBzKTtcXHJcXG59XFxyXFxuPC9wcmU+XFxyXFxuPC9wPlxcclxcblxcclxcbjxwPjxiPjIuIExvb2tpbmcgdXAgYW4gaXRlbSBpbiBhIGhhc2g6PC9iPlxcclxcbjxwcmU+XFxyXFxuc3RydWN0IGhhc2hfZW50cnkgKmZpbmRfdXNlcihpbnQgdXNlcl9pZCkge1xcclxcbiAgICBzdHJ1Y3QgaGFzaF9lbnRyeSAqcztcXHJcXG4gICAgSEFTSF9GSU5EX0lOVCh1c2VycywgJnVzZXJfaWQsIHMpO1xcclxcbiAgICByZXR1cm4gcztcXHJcXG59XFxyXFxuPC9wcmU+XFxyXFxuPC9wPlxcclxcblxcclxcbjxwPjxiPjMuIERlbGV0aW5nIGFuIGl0ZW0gaW4gYSBoYXNoOjwvYj5cXHJcXG48cHJlPlxcclxcbnZvaWQgZGVsZXRlX3VzZXIoc3RydWN0IGhhc2hfZW50cnkgKnVzZXIpIHtcXHJcXG4gICAgSEFTSF9ERUwodXNlcnMsIHVzZXIpOyAgXFxyXFxufVxcclxcbjwvcHJlPlxcclxcbjwvcD5cIl0sIFwiY3NoYXJwXCI6IFtcIkMjXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5tb25vIDUuMTguMDwvY29kZT4gcHJvdmlkaW5nIDxhIGhyZWY9XFxcImh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL2RvdG5ldC9jc2hhcnAvd2hhdHMtbmV3L2NzaGFycC03XFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+ZnVsbCBzdXBwb3J0IGZvciBDIyA3PC9hPi48L3A+XFxyXFxuXFxyXFxuPHA+WW91ciBjb2RlIGlzIGNvbXBpbGVkIHdpdGggZGVidWcgZmxhZyBlbmFibGVkICg8Y29kZT4vZGVidWc8L2NvZGU+KS48L3A+XCJdLCBcImphdmFzY3JpcHRcIjogW1wiSmF2YVNjcmlwdFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm5vZGVqcyAxMC4xNS4wPC9jb2RlPi48L3A+XFxyXFxuXFxyXFxuPHA+WW91ciBjb2RlIGlzIHJ1biB3aXRoIDxjb2RlPi0taGFybW9ueTwvY29kZT4gZmxhZywgZW5hYmxpbmcgPGEgaHJlZj1cXFwiaHR0cDovL25vZGUuZ3JlZW4vXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+bmV3IEVTNiBmZWF0dXJlczwvYT4uPC9wPlxcclxcblxcclxcbjxwPjxhIGhyZWY9XFxcImh0dHBzOi8vbG9kYXNoLmNvbVxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmxvZGFzaC5qczwvYT4gbGlicmFyeSBpcyBpbmNsdWRlZCBieSBkZWZhdWx0LjwvcD5cIl0sIFwicnVieVwiOiBbXCJSdWJ5XCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+cnVieSAyLjQuNTwvY29kZT4uPC9wPlwiXSwgXCJzd2lmdFwiOiBbXCJTd2lmdFwiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+c3dpZnQgNS4wLjE8L2NvZGU+LjwvcD5cXHJcXG5cXHJcXG48cD5XZSB1c3VhbGx5IGtlZXAgdXAgd2l0aCB0aGUgPGEgaHJlZj1cXFwiaHR0cHM6Ly9zd2lmdC5vcmcvZG93bmxvYWQvXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+bGF0ZXN0IFN3aWZ0IHJlbGVhc2VkIGJ5IEFwcGxlPC9hPiwgaWYgbm90IHBsZWFzZSBsZXQgdXMga25vdyBhbmQgd2Ugd2lsbCB1cGRhdGUgaXQgYXMgc29vbiBhcyBwb3NzaWJsZSE8L3A+XCJdLCBcImdvbGFuZ1wiOiBbXCJHb1wiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+Z28gMS4xMS40PC9jb2RlPi48L3A+XCJdLCBcInB5dGhvbjNcIjogW1wiUHl0aG9uM1wiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPnB5dGhvbiAzLjY8L2NvZGU+LjwvcD5cXG5cXG48cD5Nb3N0IGxpYnJhcmllcyBhcmUgYWxyZWFkeSBpbXBvcnRlZCBhdXRvbWF0aWNhbGx5IGZvciB5b3VyIGNvbnZlbmllbmNlLCBzdWNoIGFzIDxhIGhyZWY9XFxcImh0dHBzOi8vZG9jcy5weXRob24ub3JnLzMvbGlicmFyeS9hcnJheS5odG1sXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+YXJyYXk8L2E+LCA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8zL2xpYnJhcnkvYmlzZWN0Lmh0bWxcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5iaXNlY3Q8L2E+LCA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8zL2xpYnJhcnkvY29sbGVjdGlvbnMuaHRtbFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmNvbGxlY3Rpb25zPC9hPi4gSWYgeW91IG5lZWQgbW9yZSBsaWJyYXJpZXMsIHlvdSBjYW4gaW1wb3J0IGl0IHlvdXJzZWxmLjwvcD5cIl0sIFwic2NhbGFcIjogW1wiU2NhbGFcIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPnNjYWxhIDIuMTEuMTI8L2NvZGU+LjwvcD5cIl0sIFwia290bGluXCI6IFtcIktvdGxpblwiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+a290bGluIDEuMy4xMDwvY29kZT4uPC9wPlwiXSwgXCJydXN0XCI6IFtcIlJ1c3RcIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPnJ1c3QgMS4zMS4wIChlZGl0aW9uID0gMjAxOCk8L2NvZGU+PC9wPlxcclxcblxcclxcbjxwPlN1cHBvcnRzIDxhIGhyZWY9XFxcImh0dHBzOi8vY3JhdGVzLmlvL2NyYXRlcy9yYW5kXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+cmFuZDwvYT5cXHUwMGEwZnJvbSBjcmF0ZXMuaW88L3A+XCJdLCBcInBocFwiOiBbXCJQSFBcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5QSFAgNy4yPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "64",
+    "questionFrontendId": "64",
+    "boundTopicId": null,
+    "title": "Minimum Path Sum",
+    "titleSlug": "minimum-path-sum",
+    "content": "<p>Given a <em>m</em> x <em>n</em> grid filled with non-negative numbers, find a path from top left to bottom right which <em>minimizes</em> the sum of all numbers along its path.</p>\r\n\r\n<p><strong>Note:</strong> You can only move either down or right at any point in time.</p>\r\n\r\n<p><strong>Example:</strong></p>\r\n\r\n<pre>\r\n<strong>Input:</strong>\r\n[\r\n&nbsp; [1,3,1],\r\n  [1,5,1],\r\n  [4,2,1]\r\n]\r\n<strong>Output:</strong> 7\r\n<strong>Explanation:</strong> Because the path 1&rarr;3&rarr;1&rarr;1&rarr;1 minimizes the sum.\r\n</pre>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Medium",
+    "likes": 1582,
+    "dislikes": 42,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Unique Paths\", \"titleSlug\": \"unique-paths\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Dungeon Game\", \"titleSlug\": \"dungeon-game\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Cherry Pickup\", \"titleSlug\": \"cherry-pickup\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": true, \"python\": true, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array",
+        "translatedName": null,
+        "__typename": "TopicTagNode"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming",
+        "translatedName": null,
+        "__typename": "TopicTagNode"
+      }
+    ],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "C++",
+        "langSlug": "cpp",
+        "code": "class Solution {\npublic:\n    int minPathSum(vector<vector<int>>& grid) {\n        \n    }\n};",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Java",
+        "langSlug": "java",
+        "code": "class Solution {\n    public int minPathSum(int[][] grid) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Python",
+        "langSlug": "python",
+        "code": "class Solution(object):\n    def minPathSum(self, grid):\n        \"\"\"\n        :type grid: List[List[int]]\n        :rtype: int\n        \"\"\"\n        ",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Python3",
+        "langSlug": "python3",
+        "code": "class Solution:\n    def minPathSum(self, grid: List[List[int]]) -> int:\n        ",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "C",
+        "langSlug": "c",
+        "code": "\n\nint minPathSum(int** grid, int gridSize, int* gridColSize){\n\n}\n\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "C#",
+        "langSlug": "csharp",
+        "code": "public class Solution {\n    public int MinPathSum(int[][] grid) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "JavaScript",
+        "langSlug": "javascript",
+        "code": "/**\n * @param {number[][]} grid\n * @return {number}\n */\nvar minPathSum = function(grid) {\n    \n};",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Ruby",
+        "langSlug": "ruby",
+        "code": "# @param {Integer[][]} grid\n# @return {Integer}\ndef min_path_sum(grid)\n    \nend",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Swift",
+        "langSlug": "swift",
+        "code": "class Solution {\n    func minPathSum(_ grid: [[Int]]) -> Int {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Go",
+        "langSlug": "golang",
+        "code": "func minPathSum(grid [][]int) int {\n    \n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Scala",
+        "langSlug": "scala",
+        "code": "object Solution {\n    def minPathSum(grid: Array[Array[Int]]): Int = {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Kotlin",
+        "langSlug": "kotlin",
+        "code": "class Solution {\n    fun minPathSum(grid: Array<IntArray>): Int {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Rust",
+        "langSlug": "rust",
+        "code": "impl Solution {\n    pub fn min_path_sum(grid: Vec<Vec<i32>>) -> i32 {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "PHP",
+        "langSlug": "php",
+        "code": "class Solution {\n\n    /**\n     * @param Integer[][] $grid\n     * @return Integer\n     */\n    function minPathSum($grid) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"255.6K\", \"totalSubmission\": \"528.9K\", \"totalAcceptedRaw\": 255568, \"totalSubmissionRaw\": 528890, \"acRate\": \"48.3%\"}",
+    "hints": [],
+    "solution": {
+      "id": "68",
+      "canSeeDetail": false,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "[[1,3,1],[1,5,1],[4,2,1]]",
+    "metaData": "{\r\n  \"name\": \"minPathSum\",\r\n  \"params\": [\r\n    {\r\n      \"name\": \"grid\",\r\n      \"type\": \"integer[][]\"\r\n    }\r\n  ],\r\n  \"return\": {\r\n    \"type\": \"integer\"\r\n  }\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"cpp\": [\"C++\", \"<p>Compiled with <code>g++ 8.2</code> using the latest C++ 17 standard.</p>\\r\\n\\r\\n<p>Your code is compiled with level one optimization (<code>-O1</code>). <a href=\\\"https://github.com/google/sanitizers/wiki/AddressSanitizer\\\" target=\\\"_blank\\\">AddressSanitizer</a> is also enabled to help detect out-of-bounds and use-after-free bugs.</p>\\r\\n\\r\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"java\": [\"Java\", \"<p>Compiled with <code>java 1.8.0</code> taking advantage of the latest Java 8 features such as lambda expressions and stream API.</p>\\n\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"python\": [\"Python\", \"<p>Compiled with <code>python 2.7.12</code>.</p>\\n\\n<p>Most libraries are already imported automatically for your convenience, such as <a href=\\\"https://docs.python.org/2/library/array.html\\\" target=\\\"_blank\\\">array</a>, <a href=\\\"https://docs.python.org/2/library/bisect.html\\\" target=\\\"_blank\\\">bisect</a>, <a href=\\\"https://docs.python.org/2/library/collections.html\\\" target=\\\"_blank\\\">collections</a>. If you need more libraries, you can import it yourself.</p>\\n\\n<p>Note that Python 2.7 <a href=\\\"https://www.python.org/dev/peps/pep-0373/\\\" target=\\\"_blank\\\">will not be maintained past 2020</a>. For the latest Python, please choose Python3 instead.</p>\"], \"c\": [\"C\", \"<p>Compiled with <code>gcc 8.2</code> using the gnu99 standard.</p>\\r\\n\\r\\n<p>Your code is compiled with level one optimization (<code>-O1</code>). <a href=\\\"https://github.com/google/sanitizers/wiki/AddressSanitizer\\\" target=\\\"_blank\\\">AddressSanitizer</a> is also enabled to help detect out-of-bounds and use-after-free bugs.</p>\\r\\n\\r\\n<p>Most standard library headers are already included automatically for your convenience.</p>\\r\\n\\r\\n<p>For hash table operations, you may use <a href=\\\"https://troydhanson.github.io/uthash/\\\" target=\\\"_blank\\\">uthash</a>. \\\"uthash.h\\\" is included by default. Below are some examples:</p>\\r\\n\\r\\n<p><b>1. Adding an item to a hash.</b>\\r\\n<pre>\\r\\nstruct hash_entry {\\r\\n    int id;            /* we'll use this field as the key */\\r\\n    char name[10];\\r\\n    UT_hash_handle hh; /* makes this structure hashable */\\r\\n};\\r\\n\\r\\nstruct hash_entry *users = NULL;\\r\\n\\r\\nvoid add_user(struct hash_entry *s) {\\r\\n    HASH_ADD_INT(users, id, s);\\r\\n}\\r\\n</pre>\\r\\n</p>\\r\\n\\r\\n<p><b>2. Looking up an item in a hash:</b>\\r\\n<pre>\\r\\nstruct hash_entry *find_user(int user_id) {\\r\\n    struct hash_entry *s;\\r\\n    HASH_FIND_INT(users, &user_id, s);\\r\\n    return s;\\r\\n}\\r\\n</pre>\\r\\n</p>\\r\\n\\r\\n<p><b>3. Deleting an item in a hash:</b>\\r\\n<pre>\\r\\nvoid delete_user(struct hash_entry *user) {\\r\\n    HASH_DEL(users, user);  \\r\\n}\\r\\n</pre>\\r\\n</p>\"], \"csharp\": [\"C#\", \"<p>Compiled with <code>mono 5.18.0</code> providing <a href=\\\"https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7\\\" target=\\\"_blank\\\">full support for C# 7</a>.</p>\\r\\n\\r\\n<p>Your code is compiled with debug flag enabled (<code>/debug</code>).</p>\"], \"javascript\": [\"JavaScript\", \"<p>Run with <code>nodejs 10.15.0</code>.</p>\\r\\n\\r\\n<p>Your code is run with <code>--harmony</code> flag, enabling <a href=\\\"http://node.green/\\\" target=\\\"_blank\\\">new ES6 features</a>.</p>\\r\\n\\r\\n<p><a href=\\\"https://lodash.com\\\" target=\\\"_blank\\\">lodash.js</a> library is included by default.</p>\"], \"ruby\": [\"Ruby\", \"<p>Run with <code>ruby 2.4.5</code>.</p>\"], \"swift\": [\"Swift\", \"<p>Compiled with <code>swift 5.0.1</code>.</p>\\r\\n\\r\\n<p>We usually keep up with the <a href=\\\"https://swift.org/download/\\\" target=\\\"_blank\\\">latest Swift released by Apple</a>, if not please let us know and we will update it as soon as possible!</p>\"], \"golang\": [\"Go\", \"<p>Compiled with <code>go 1.11.4</code>.</p>\"], \"python3\": [\"Python3\", \"<p>Run with <code>python 3.6</code>.</p>\\n\\n<p>Most libraries are already imported automatically for your convenience, such as <a href=\\\"https://docs.python.org/3/library/array.html\\\" target=\\\"_blank\\\">array</a>, <a href=\\\"https://docs.python.org/3/library/bisect.html\\\" target=\\\"_blank\\\">bisect</a>, <a href=\\\"https://docs.python.org/3/library/collections.html\\\" target=\\\"_blank\\\">collections</a>. If you need more libraries, you can import it yourself.</p>\"], \"scala\": [\"Scala\", \"<p>Compiled with <code>scala 2.11.12</code>.</p>\"], \"kotlin\": [\"Kotlin\", \"<p>Compiled with <code>kotlin 1.3.10</code>.</p>\"], \"rust\": [\"Rust\", \"<p>Compiled with <code>rust 1.31.0 (edition = 2018)</code></p>\\r\\n\\r\\n<p>Supports <a href=\\\"https://crates.io/crates/rand\\\" target=\\\"_blank\\\">rand</a>\\u00a0from crates.io</p>\"], \"php\": [\"PHP\", \"<p>Run with <code>PHP 7.2</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

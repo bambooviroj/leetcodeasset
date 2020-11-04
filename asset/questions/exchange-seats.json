@@ -1,1 +1,75 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYyNiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYyNiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJFeGNoYW5nZSBTZWF0cyIsCiAgICAidGl0bGVTbHVnIjogImV4Y2hhbmdlLXNlYXRzIiwKICAgICJjb250ZW50IjogIjxwPk1hcnkgaXMgYSB0ZWFjaGVyIGluIGEgbWlkZGxlIHNjaG9vbCBhbmQgc2hlIGhhcyBhIHRhYmxlIDxjb2RlPnNlYXQ8L2NvZGU+IHN0b3Jpbmcgc3R1ZGVudHMmIzM5OyBuYW1lcyBhbmQgdGhlaXIgY29ycmVzcG9uZGluZyBzZWF0IGlkcy48L3A+XHJcblRoZSBjb2x1bW4gPGI+aWQ8L2I+IGlzIGNvbnRpbnVvdXMgaW5jcmVtZW50LlxyXG5cclxuPHA+Jm5ic3A7PC9wPlxyXG5NYXJ5IHdhbnRzIHRvIGNoYW5nZSBzZWF0cyBmb3IgdGhlIGFkamFjZW50IHN0dWRlbnRzLlxyXG5cclxuPHA+Jm5ic3A7PC9wPlxyXG5DYW4geW91IHdyaXRlIGEgU1FMIHF1ZXJ5IHRvIG91dHB1dCB0aGUgcmVzdWx0IGZvciBNYXJ5P1xyXG5cclxuPHA+Jm5ic3A7PC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0tLS0tLSstLS0tLS0tLS0rXHJcbnwgICAgaWQgICB8IHN0dWRlbnQgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLStcclxufCAgICAxICAgIHwgQWJib3QgICB8XHJcbnwgICAgMiAgICB8IERvcmlzICAgfFxyXG58ICAgIDMgICAgfCBFbWVyc29uIHxcclxufCAgICA0ICAgIHwgR3JlZW4gICB8XHJcbnwgICAgNSAgICB8IEplYW1lcyAgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLStcclxuPC9wcmU+XHJcbkZvciB0aGUgc2FtcGxlIGlucHV0LCB0aGUgb3V0cHV0IGlzOlxyXG5cclxuPHA+Jm5ic3A7PC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0tLS0tLSstLS0tLS0tLS0rXHJcbnwgICAgaWQgICB8IHN0dWRlbnQgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLStcclxufCAgICAxICAgIHwgRG9yaXMgICB8XHJcbnwgICAgMiAgICB8IEFiYm90ICAgfFxyXG58ICAgIDMgICAgfCBHcmVlbiAgIHxcclxufCAgICA0ICAgIHwgRW1lcnNvbiB8XHJcbnwgICAgNSAgICB8IEplYW1lcyAgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLStcclxuPC9wcmU+XHJcblxyXG48cD48Yj5Ob3RlOjwvYj48YnIgLz5cclxuSWYgdGhlIG51bWJlciBvZiBzdHVkZW50cyBpcyBvZGQsIHRoZXJlIGlzIG5vIG5lZWQgdG8gY2hhbmdlIHRoZSBsYXN0IG9uZSYjMzk7cyBzZWF0LjwvcD5cclxuIiwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogZmFsc2UsCiAgICAiZGlmZmljdWx0eSI6ICJNZWRpdW0iLAogICAgImxpa2VzIjogMTk3LAogICAgImRpc2xpa2VzIjogMTgyLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFsKICAgICAgewogICAgICAgICJ1c2VybmFtZSI6ICJhcnRpc3RzY3JpcHQiLAogICAgICAgICJwcm9maWxlVXJsIjogIi9hcnRpc3RzY3JpcHQvIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvMWQxODZmNDI2ODFhMTU3YjJjY2UzZWJmOWY5YzA5MTEucG5nP3M9MjAwIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogIntcImNwcFwiOiBmYWxzZSwgXCJqYXZhXCI6IGZhbHNlLCBcInB5dGhvblwiOiBmYWxzZSwgXCJweXRob24zXCI6IGZhbHNlLCBcIm15c3FsXCI6IGZhbHNlLCBcIm1zc3FsXCI6IGZhbHNlLCBcIm9yYWNsZXNxbFwiOiBmYWxzZSwgXCJjXCI6IGZhbHNlLCBcImNzaGFycFwiOiBmYWxzZSwgXCJqYXZhc2NyaXB0XCI6IGZhbHNlLCBcInJ1YnlcIjogZmFsc2UsIFwiYmFzaFwiOiBmYWxzZSwgXCJzd2lmdFwiOiBmYWxzZSwgXCJnb2xhbmdcIjogZmFsc2UsIFwic2NhbGFcIjogZmFsc2UsIFwiaHRtbFwiOiBmYWxzZSwgXCJweXRob25tbFwiOiBmYWxzZSwgXCJrb3RsaW5cIjogZmFsc2UsIFwicnVzdFwiOiBmYWxzZSwgXCJwaHBcIjogZmFsc2V9IiwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IFsKICAgICAgewogICAgICAgICJsYW5nIjogIk15U1FMIiwKICAgICAgICAibGFuZ1NsdWciOiAibXlzcWwiLAogICAgICAgICJjb2RlIjogIiMgV3JpdGUgeW91ciBNeVNRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3dcbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiTVMgU1FMIFNlcnZlciIsCiAgICAgICAgImxhbmdTbHVnIjogIm1zc3FsIiwKICAgICAgICAiY29kZSI6ICIvKiBXcml0ZSB5b3VyIFQtU1FMIHF1ZXJ5IHN0YXRlbWVudCBiZWxvdyAqL1xuIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJPcmFjbGUiLAogICAgICAgICJsYW5nU2x1ZyI6ICJvcmFjbGVzcWwiLAogICAgICAgICJjb2RlIjogIi8qIFdyaXRlIHlvdXIgUEwvU1FMIHF1ZXJ5IHN0YXRlbWVudCBiZWxvdyAqL1xuIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjI5LjJLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiNTIuNUtcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDI5MjE5LCBcInRvdGFsU3VibWlzc2lvblJhd1wiOiA1MjQ5MiwgXCJhY1JhdGVcIjogXCI1NS43JVwifSIsCiAgICAiaGludHMiOiBbXSwKICAgICJzb2x1dGlvbiI6IHsKICAgICAgImlkIjogIjE5NSIsCiAgICAgICJjYW5TZWVEZXRhaWwiOiB0cnVlLAogICAgICAiX190eXBlbmFtZSI6ICJBcnRpY2xlTm9kZSIKICAgIH0sCiAgICAic3RhdHVzIjogbnVsbCwKICAgICJzYW1wbGVUZXN0Q2FzZSI6ICJ7XCJoZWFkZXJzXCI6IHtcInNlYXRcIjogW1wiaWRcIixcInN0dWRlbnRcIl19LCBcInJvd3NcIjoge1wic2VhdFwiOiBbWzEsXCJBYmJvdFwiXSxbMixcIkRvcmlzXCJdLFszLFwiRW1lcnNvblwiXSxbNCxcIkdyZWVuXCJdLFs1LFwiSmVhbWVzXCJdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIHNlYXQoaWQgaW50LCBzdHVkZW50IHZhcmNoYXIoMjU1KSlcIlxyXG4gIF0sXHJcbiAgXCJtc3NxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBzZWF0KGlkIGludCwgc3R1ZGVudCB2YXJjaGFyKDI1NSkpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIHNlYXQoaWQgaW50LCBzdHVkZW50IHZhcmNoYXIoMjU1KSlcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBzZWF0KGlkIGludCwgc3R1ZGVudCB2YXJjaGFyKDI1NSkpIiwKICAgICAgIlRydW5jYXRlIHRhYmxlIHNlYXQiLAogICAgICAiaW5zZXJ0IGludG8gc2VhdCAoaWQsIHN0dWRlbnQpIHZhbHVlcyAoJzEnLCAnQWJib3QnKSIsCiAgICAgICJpbnNlcnQgaW50byBzZWF0IChpZCwgc3R1ZGVudCkgdmFsdWVzICgnMicsICdEb3JpcycpIiwKICAgICAgImluc2VydCBpbnRvIHNlYXQgKGlkLCBzdHVkZW50KSB2YWx1ZXMgKCczJywgJ0VtZXJzb24nKSIsCiAgICAgICJpbnNlcnQgaW50byBzZWF0IChpZCwgc3R1ZGVudCkgdmFsdWVzICgnNCcsICdHcmVlbicpIiwKICAgICAgImluc2VydCBpbnRvIHNlYXQgKGlkLCBzdHVkZW50KSB2YWx1ZXMgKCc1JywgJ0plYW1lcycpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "626",
+    "questionFrontendId": "626",
+    "boundTopicId": null,
+    "title": "Exchange Seats",
+    "titleSlug": "exchange-seats",
+    "content": "<p>Mary is a teacher in a middle school and she has a table <code>seat</code> storing students&#39; names and their corresponding seat ids.</p>\r\nThe column <b>id</b> is continuous increment.\r\n\r\n<p>&nbsp;</p>\r\nMary wants to change seats for the adjacent students.\r\n\r\n<p>&nbsp;</p>\r\nCan you write a SQL query to output the result for Mary?\r\n\r\n<p>&nbsp;</p>\r\n\r\n<pre>\r\n+---------+---------+\r\n|    id   | student |\r\n+---------+---------+\r\n|    1    | Abbot   |\r\n|    2    | Doris   |\r\n|    3    | Emerson |\r\n|    4    | Green   |\r\n|    5    | Jeames  |\r\n+---------+---------+\r\n</pre>\r\nFor the sample input, the output is:\r\n\r\n<p>&nbsp;</p>\r\n\r\n<pre>\r\n+---------+---------+\r\n|    id   | student |\r\n+---------+---------+\r\n|    1    | Doris   |\r\n|    2    | Abbot   |\r\n|    3    | Green   |\r\n|    4    | Emerson |\r\n|    5    | Jeames  |\r\n+---------+---------+\r\n</pre>\r\n\r\n<p><b>Note:</b><br />\r\nIf the number of students is odd, there is no need to change the last one&#39;s seat.</p>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Medium",
+    "likes": 197,
+    "dislikes": 182,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "artistscript",
+        "profileUrl": "/artistscript/",
+        "avatarUrl": "https://www.gravatar.com/avatar/1d186f42681a157b2cce3ebf9f9c0911.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"29.2K\", \"totalSubmission\": \"52.5K\", \"totalAcceptedRaw\": 29219, \"totalSubmissionRaw\": 52492, \"acRate\": \"55.7%\"}",
+    "hints": [],
+    "solution": {
+      "id": "195",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"seat\": [\"id\",\"student\"]}, \"rows\": {\"seat\": [[1,\"Abbot\"],[2,\"Doris\"],[3,\"Emerson\"],[4,\"Green\"],[5,\"Jeames\"]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists seat(id int, student varchar(255))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table seat(id int, student varchar(255))\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table seat(id int, student varchar(255))\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists seat(id int, student varchar(255))",
+      "Truncate table seat",
+      "insert into seat (id, student) values ('1', 'Abbot')",
+      "insert into seat (id, student) values ('2', 'Doris')",
+      "insert into seat (id, student) values ('3', 'Emerson')",
+      "insert into seat (id, student) values ('4', 'Green')",
+      "insert into seat (id, student) values ('5', 'Jeames')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

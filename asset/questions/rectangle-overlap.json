@@ -1,1 +1,140 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjg2NiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjgzNiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJSZWN0YW5nbGUgT3ZlcmxhcCIsCiAgICAidGl0bGVTbHVnIjogInJlY3RhbmdsZS1vdmVybGFwIiwKICAgICJjb250ZW50IjogIjxwPkEgcmVjdGFuZ2xlIGlzJm5ic3A7cmVwcmVzZW50ZWQgYXMgYSZuYnNwO2xpc3QgPGNvZGU+W3gxLCB5MSwgeDIsIHkyXTwvY29kZT4sIHdoZXJlJm5ic3A7PGNvZGU+KHgxLCB5MSk8L2NvZGU+Jm5ic3A7YXJlIHRoZSBjb29yZGluYXRlcyBvZiBpdHMgYm90dG9tLWxlZnQgY29ybmVyLCBhbmQgPGNvZGU+KHgyLCZuYnNwO3kyKTwvY29kZT4mbmJzcDthcmUgdGhlIGNvb3JkaW5hdGVzIG9mIGl0cyB0b3AtcmlnaHQgY29ybmVyLjwvcD5cclxuXHJcbjxwPlR3byByZWN0YW5nbGVzIG92ZXJsYXAgaWYgdGhlIGFyZWEgb2YgdGhlaXIgaW50ZXJzZWN0aW9uIGlzIHBvc2l0aXZlLiZuYnNwOyBUbyBiZSBjbGVhciwgdHdvIHJlY3RhbmdsZXMgdGhhdCBvbmx5IHRvdWNoIGF0IHRoZSBjb3JuZXIgb3IgZWRnZXMgZG8gbm90IG92ZXJsYXAuPC9wPlxyXG5cclxuPHA+R2l2ZW4gdHdvIChheGlzLWFsaWduZWQpIHJlY3RhbmdsZXMsIHJldHVybiB3aGV0aGVyJm5ic3A7dGhleSBvdmVybGFwLjwvcD5cclxuXHJcbjxwPjxzdHJvbmc+RXhhbXBsZSAxOjwvc3Ryb25nPjwvcD5cclxuXHJcbjxwcmU+XHJcbjxzdHJvbmc+SW5wdXQ6IDwvc3Ryb25nPnJlYzEgPSBbMCwwLDIsMl0sIHJlYzIgPSBbMSwxLDMsM11cclxuPHN0cm9uZz5PdXRwdXQ6IDwvc3Ryb25nPnRydWVcclxuPC9wcmU+XHJcblxyXG48cD48c3Ryb25nPkV4YW1wbGUgMjo8L3N0cm9uZz48L3A+XHJcblxyXG48cHJlPlxyXG48c3Ryb25nPklucHV0OiA8L3N0cm9uZz5yZWMxID0gWzAsMCwxLDFdLCByZWMyID0gWzEsMCwyLDFdXHJcbjxzdHJvbmc+T3V0cHV0OiA8L3N0cm9uZz5mYWxzZVxyXG48L3ByZT5cclxuXHJcbjxwPjxzdHJvbmc+Tm90ZXM6PC9zdHJvbmc+PC9wPlxyXG5cclxuPG9sPlxyXG5cdDxsaT5Cb3RoIHJlY3RhbmdsZXMgPGNvZGU+cmVjMTwvY29kZT4gYW5kIDxjb2RlPnJlYzI8L2NvZGU+IGFyZSBsaXN0cyBvZiA0IGludGVnZXJzLjwvbGk+XHJcblx0PGxpPkFsbCBjb29yZGluYXRlcyBpbiByZWN0YW5nbGVzIHdpbGwgYmUgYmV0d2VlbiZuYnNwOzxjb2RlPi0xMF45IDwvY29kZT5hbmQ8Y29kZT4gMTBeOTwvY29kZT4uPC9saT5cclxuPC9vbD5cclxuIiwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogZmFsc2UsCiAgICAiZGlmZmljdWx0eSI6ICJFYXN5IiwKICAgICJsaWtlcyI6IDM5MiwKICAgICJkaXNsaWtlcyI6IDc4LAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW3tcInRpdGxlXCI6IFwiUmVjdGFuZ2xlIEFyZWFcIiwgXCJ0aXRsZVNsdWdcIjogXCJyZWN0YW5nbGUtYXJlYVwiLCBcImRpZmZpY3VsdHlcIjogXCJNZWRpdW1cIiwgXCJ0cmFuc2xhdGVkVGl0bGVcIjogbnVsbH1dIiwKICAgICJjb250cmlidXRvcnMiOiBbCiAgICAgIHsKICAgICAgICAidXNlcm5hbWUiOiAibGVlMjE1IiwKICAgICAgICAicHJvZmlsZVVybCI6ICIvbGVlMjE1LyIsCiAgICAgICAgImF2YXRhclVybCI6ICJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvbGVlMjE1L2F2YXRhcl8xNTUxNTQxODg5LnBuZyIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29udHJpYnV0b3JOb2RlIgogICAgICB9CiAgICBdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6ICJ7XCJjcHBcIjogdHJ1ZSwgXCJqYXZhXCI6IHRydWUsIFwicHl0aG9uXCI6IHRydWUsIFwicHl0aG9uM1wiOiB0cnVlLCBcIm15c3FsXCI6IGZhbHNlLCBcIm1zc3FsXCI6IGZhbHNlLCBcIm9yYWNsZXNxbFwiOiBmYWxzZSwgXCJjXCI6IGZhbHNlLCBcImNzaGFycFwiOiBmYWxzZSwgXCJqYXZhc2NyaXB0XCI6IGZhbHNlLCBcInJ1YnlcIjogZmFsc2UsIFwiYmFzaFwiOiBmYWxzZSwgXCJzd2lmdFwiOiBmYWxzZSwgXCJnb2xhbmdcIjogZmFsc2UsIFwic2NhbGFcIjogZmFsc2UsIFwiaHRtbFwiOiBmYWxzZSwgXCJweXRob25tbFwiOiBmYWxzZSwgXCJrb3RsaW5cIjogZmFsc2UsIFwicnVzdFwiOiBmYWxzZSwgXCJwaHBcIjogZmFsc2V9IiwKICAgICJ0b3BpY1RhZ3MiOiBbCiAgICAgIHsKICAgICAgICAibmFtZSI6ICJNYXRoIiwKICAgICAgICAic2x1ZyI6ICJtYXRoIiwKICAgICAgICAidHJhbnNsYXRlZE5hbWUiOiBudWxsLAogICAgICAgICJfX3R5cGVuYW1lIjogIlRvcGljVGFnTm9kZSIKICAgICAgfQogICAgXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IFsKICAgICAgewogICAgICAgICJsYW5nIjogIkMrKyIsCiAgICAgICAgImxhbmdTbHVnIjogImNwcCIsCiAgICAgICAgImNvZGUiOiAiY2xhc3MgU29sdXRpb24ge1xucHVibGljOlxuICAgIGJvb2wgaXNSZWN0YW5nbGVPdmVybGFwKHZlY3RvcjxpbnQ+JiByZWMxLCB2ZWN0b3I8aW50PiYgcmVjMikge1xuICAgICAgICBcbiAgICB9XG59OyIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiSmF2YSIsCiAgICAgICAgImxhbmdTbHVnIjogImphdmEiLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uIHtcbiAgICBwdWJsaWMgYm9vbGVhbiBpc1JlY3RhbmdsZU92ZXJsYXAoaW50W10gcmVjMSwgaW50W10gcmVjMikge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJQeXRob24iLAogICAgICAgICJsYW5nU2x1ZyI6ICJweXRob24iLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uKG9iamVjdCk6XG4gICAgZGVmIGlzUmVjdGFuZ2xlT3ZlcmxhcChzZWxmLCByZWMxLCByZWMyKTpcbiAgICAgICAgXCJcIlwiXG4gICAgICAgIDp0eXBlIHJlYzE6IExpc3RbaW50XVxuICAgICAgICA6dHlwZSByZWMyOiBMaXN0W2ludF1cbiAgICAgICAgOnJ0eXBlOiBib29sXG4gICAgICAgIFwiXCJcIlxuICAgICAgICAiLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlB5dGhvbjMiLAogICAgICAgICJsYW5nU2x1ZyI6ICJweXRob24zIiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbjpcbiAgICBkZWYgaXNSZWN0YW5nbGVPdmVybGFwKHNlbGYsIHJlYzE6IExpc3RbaW50XSwgcmVjMjogTGlzdFtpbnRdKSAtPiBib29sOlxuICAgICAgICAiLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIkMiLAogICAgICAgICJsYW5nU2x1ZyI6ICJjIiwKICAgICAgICAiY29kZSI6ICJcblxuYm9vbCBpc1JlY3RhbmdsZU92ZXJsYXAoaW50KiByZWMxLCBpbnQgcmVjMVNpemUsIGludCogcmVjMiwgaW50IHJlYzJTaXplKXtcblxufVxuXG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIkMjIiwKICAgICAgICAibGFuZ1NsdWciOiAiY3NoYXJwIiwKICAgICAgICAiY29kZSI6ICJwdWJsaWMgY2xhc3MgU29sdXRpb24ge1xuICAgIHB1YmxpYyBib29sIElzUmVjdGFuZ2xlT3ZlcmxhcChpbnRbXSByZWMxLCBpbnRbXSByZWMyKSB7XG4gICAgICAgIFxuICAgIH1cbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIkphdmFTY3JpcHQiLAogICAgICAgICJsYW5nU2x1ZyI6ICJqYXZhc2NyaXB0IiwKICAgICAgICAiY29kZSI6ICIvKipcbiAqIEBwYXJhbSB7bnVtYmVyW119IHJlYzFcbiAqIEBwYXJhbSB7bnVtYmVyW119IHJlYzJcbiAqIEByZXR1cm4ge2Jvb2xlYW59XG4gKi9cbnZhciBpc1JlY3RhbmdsZU92ZXJsYXAgPSBmdW5jdGlvbihyZWMxLCByZWMyKSB7XG4gICAgXG59OyIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiUnVieSIsCiAgICAgICAgImxhbmdTbHVnIjogInJ1YnkiLAogICAgICAgICJjb2RlIjogIiMgQHBhcmFtIHtJbnRlZ2VyW119IHJlYzFcbiMgQHBhcmFtIHtJbnRlZ2VyW119IHJlYzJcbiMgQHJldHVybiB7Qm9vbGVhbn1cbmRlZiBpc19yZWN0YW5nbGVfb3ZlcmxhcChyZWMxLCByZWMyKVxuICAgIFxuZW5kIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJTd2lmdCIsCiAgICAgICAgImxhbmdTbHVnIjogInN3aWZ0IiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbiB7XG4gICAgZnVuYyBpc1JlY3RhbmdsZU92ZXJsYXAoXyByZWMxOiBbSW50XSwgXyByZWMyOiBbSW50XSkgLT4gQm9vbCB7XG4gICAgICAgIFxuICAgIH1cbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIkdvIiwKICAgICAgICAibGFuZ1NsdWciOiAiZ29sYW5nIiwKICAgICAgICAiY29kZSI6ICJmdW5jIGlzUmVjdGFuZ2xlT3ZlcmxhcChyZWMxIFtdaW50LCByZWMyIFtdaW50KSBib29sIHtcbiAgICBcbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlNjYWxhIiwKICAgICAgICAibGFuZ1NsdWciOiAic2NhbGEiLAogICAgICAgICJjb2RlIjogIm9iamVjdCBTb2x1dGlvbiB7XG4gICAgZGVmIGlzUmVjdGFuZ2xlT3ZlcmxhcChyZWMxOiBBcnJheVtJbnRdLCByZWMyOiBBcnJheVtJbnRdKTogQm9vbGVhbiA9IHtcbiAgICAgICAgXG4gICAgfVxufSIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiS290bGluIiwKICAgICAgICAibGFuZ1NsdWciOiAia290bGluIiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbiB7XG4gICAgZnVuIGlzUmVjdGFuZ2xlT3ZlcmxhcChyZWMxOiBJbnRBcnJheSwgcmVjMjogSW50QXJyYXkpOiBCb29sZWFuIHtcbiAgICAgICAgXG4gICAgfVxufSIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiUnVzdCIsCiAgICAgICAgImxhbmdTbHVnIjogInJ1c3QiLAogICAgICAgICJjb2RlIjogImltcGwgU29sdXRpb24ge1xuICAgIHB1YiBmbiBpc19yZWN0YW5nbGVfb3ZlcmxhcChyZWMxOiBWZWM8aTMyPiwgcmVjMjogVmVjPGkzMj4pIC0+IGJvb2wge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJQSFAiLAogICAgICAgICJsYW5nU2x1ZyI6ICJwaHAiLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uIHtcblxuICAgIC8qKlxuICAgICAqIEBwYXJhbSBJbnRlZ2VyW10gJHJlYzFcbiAgICAgKiBAcGFyYW0gSW50ZWdlcltdICRyZWMyXG4gICAgICogQHJldHVybiBCb29sZWFuXG4gICAgICovXG4gICAgZnVuY3Rpb24gaXNSZWN0YW5nbGVPdmVybGFwKCRyZWMxLCAkcmVjMikge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjI5LjdLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiNjNLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiAyOTY5OSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogNjMwNTAsIFwiYWNSYXRlXCI6IFwiNDcuMSVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICI0NjgiLAogICAgICAiY2FuU2VlRGV0YWlsIjogdHJ1ZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAiWzAsMCwyLDJdXG5bMSwxLDMsM10iLAogICAgIm1ldGFEYXRhIjogIntcclxuICBcIm5hbWVcIjogXCJpc1JlY3RhbmdsZU92ZXJsYXBcIixcclxuICBcInBhcmFtc1wiOiBbXHJcbiAgICB7XHJcbiAgICAgIFwibmFtZVwiOiBcInJlYzFcIixcclxuICAgICAgXCJ0eXBlXCI6IFwiaW50ZWdlcltdXCJcclxuICAgIH0sXHJcbiAgICB7XHJcbiAgICAgIFwibmFtZVwiOiBcInJlYzJcIixcclxuICAgICAgXCJ0eXBlXCI6IFwiaW50ZWdlcltdXCJcclxuICAgIH1cclxuICBdLFxyXG4gIFwicmV0dXJuXCI6IHtcclxuICAgIFwidHlwZVwiOiBcImJvb2xlYW5cIlxyXG4gIH1cclxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFtdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJjcHBcIjogW1wiQysrXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5nKysgOC4yPC9jb2RlPiB1c2luZyB0aGUgbGF0ZXN0IEMrKyAxNyBzdGFuZGFyZC48L3A+XFxyXFxuXFxyXFxuPHA+WW91ciBjb2RlIGlzIGNvbXBpbGVkIHdpdGggbGV2ZWwgb25lIG9wdGltaXphdGlvbiAoPGNvZGU+LU8xPC9jb2RlPikuIDxhIGhyZWY9XFxcImh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGUvc2FuaXRpemVycy93aWtpL0FkZHJlc3NTYW5pdGl6ZXJcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5BZGRyZXNzU2FuaXRpemVyPC9hPiBpcyBhbHNvIGVuYWJsZWQgdG8gaGVscCBkZXRlY3Qgb3V0LW9mLWJvdW5kcyBhbmQgdXNlLWFmdGVyLWZyZWUgYnVncy48L3A+XFxyXFxuXFxyXFxuPHA+TW9zdCBzdGFuZGFyZCBsaWJyYXJ5IGhlYWRlcnMgYXJlIGFscmVhZHkgaW5jbHVkZWQgYXV0b21hdGljYWxseSBmb3IgeW91ciBjb252ZW5pZW5jZS48L3A+XCJdLCBcImphdmFcIjogW1wiSmF2YVwiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+amF2YSAxLjguMDwvY29kZT4gdGFraW5nIGFkdmFudGFnZSBvZiB0aGUgbGF0ZXN0IEphdmEgOCBmZWF0dXJlcyBzdWNoIGFzIGxhbWJkYSBleHByZXNzaW9ucyBhbmQgc3RyZWFtIEFQSS48L3A+XFxuXFxuPHA+TW9zdCBzdGFuZGFyZCBsaWJyYXJ5IGhlYWRlcnMgYXJlIGFscmVhZHkgaW5jbHVkZWQgYXV0b21hdGljYWxseSBmb3IgeW91ciBjb252ZW5pZW5jZS48L3A+XCJdLCBcInB5dGhvblwiOiBbXCJQeXRob25cIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPnB5dGhvbiAyLjcuMTI8L2NvZGU+LjwvcD5cXG5cXG48cD5Nb3N0IGxpYnJhcmllcyBhcmUgYWxyZWFkeSBpbXBvcnRlZCBhdXRvbWF0aWNhbGx5IGZvciB5b3VyIGNvbnZlbmllbmNlLCBzdWNoIGFzIDxhIGhyZWY9XFxcImh0dHBzOi8vZG9jcy5weXRob24ub3JnLzIvbGlicmFyeS9hcnJheS5odG1sXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+YXJyYXk8L2E+LCA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8yL2xpYnJhcnkvYmlzZWN0Lmh0bWxcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5iaXNlY3Q8L2E+LCA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8yL2xpYnJhcnkvY29sbGVjdGlvbnMuaHRtbFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmNvbGxlY3Rpb25zPC9hPi4gSWYgeW91IG5lZWQgbW9yZSBsaWJyYXJpZXMsIHlvdSBjYW4gaW1wb3J0IGl0IHlvdXJzZWxmLjwvcD5cXG5cXG48cD5Ob3RlIHRoYXQgUHl0aG9uIDIuNyA8YSBocmVmPVxcXCJodHRwczovL3d3dy5weXRob24ub3JnL2Rldi9wZXBzL3BlcC0wMzczL1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPndpbGwgbm90IGJlIG1haW50YWluZWQgcGFzdCAyMDIwPC9hPi4gRm9yIHRoZSBsYXRlc3QgUHl0aG9uLCBwbGVhc2UgY2hvb3NlIFB5dGhvbjMgaW5zdGVhZC48L3A+XCJdLCBcImNcIjogW1wiQ1wiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+Z2NjIDguMjwvY29kZT4gdXNpbmcgdGhlIGdudTk5IHN0YW5kYXJkLjwvcD5cXHJcXG5cXHJcXG48cD5Zb3VyIGNvZGUgaXMgY29tcGlsZWQgd2l0aCBsZXZlbCBvbmUgb3B0aW1pemF0aW9uICg8Y29kZT4tTzE8L2NvZGU+KS4gPGEgaHJlZj1cXFwiaHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9zYW5pdGl6ZXJzL3dpa2kvQWRkcmVzc1Nhbml0aXplclxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPkFkZHJlc3NTYW5pdGl6ZXI8L2E+IGlzIGFsc28gZW5hYmxlZCB0byBoZWxwIGRldGVjdCBvdXQtb2YtYm91bmRzIGFuZCB1c2UtYWZ0ZXItZnJlZSBidWdzLjwvcD5cXHJcXG5cXHJcXG48cD5Nb3N0IHN0YW5kYXJkIGxpYnJhcnkgaGVhZGVycyBhcmUgYWxyZWFkeSBpbmNsdWRlZCBhdXRvbWF0aWNhbGx5IGZvciB5b3VyIGNvbnZlbmllbmNlLjwvcD5cXHJcXG5cXHJcXG48cD5Gb3IgaGFzaCB0YWJsZSBvcGVyYXRpb25zLCB5b3UgbWF5IHVzZSA8YSBocmVmPVxcXCJodHRwczovL3Ryb3lkaGFuc29uLmdpdGh1Yi5pby91dGhhc2gvXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+dXRoYXNoPC9hPi4gXFxcInV0aGFzaC5oXFxcIiBpcyBpbmNsdWRlZCBieSBkZWZhdWx0LiBCZWxvdyBhcmUgc29tZSBleGFtcGxlczo8L3A+XFxyXFxuXFxyXFxuPHA+PGI+MS4gQWRkaW5nIGFuIGl0ZW0gdG8gYSBoYXNoLjwvYj5cXHJcXG48cHJlPlxcclxcbnN0cnVjdCBoYXNoX2VudHJ5IHtcXHJcXG4gICAgaW50IGlkOyAgICAgICAgICAgIC8qIHdlJ2xsIHVzZSB0aGlzIGZpZWxkIGFzIHRoZSBrZXkgKi9cXHJcXG4gICAgY2hhciBuYW1lWzEwXTtcXHJcXG4gICAgVVRfaGFzaF9oYW5kbGUgaGg7IC8qIG1ha2VzIHRoaXMgc3RydWN0dXJlIGhhc2hhYmxlICovXFxyXFxufTtcXHJcXG5cXHJcXG5zdHJ1Y3QgaGFzaF9lbnRyeSAqdXNlcnMgPSBOVUxMO1xcclxcblxcclxcbnZvaWQgYWRkX3VzZXIoc3RydWN0IGhhc2hfZW50cnkgKnMpIHtcXHJcXG4gICAgSEFTSF9BRERfSU5UKHVzZXJzLCBpZCwgcyk7XFxyXFxufVxcclxcbjwvcHJlPlxcclxcbjwvcD5cXHJcXG5cXHJcXG48cD48Yj4yLiBMb29raW5nIHVwIGFuIGl0ZW0gaW4gYSBoYXNoOjwvYj5cXHJcXG48cHJlPlxcclxcbnN0cnVjdCBoYXNoX2VudHJ5ICpmaW5kX3VzZXIoaW50IHVzZXJfaWQpIHtcXHJcXG4gICAgc3RydWN0IGhhc2hfZW50cnkgKnM7XFxyXFxuICAgIEhBU0hfRklORF9JTlQodXNlcnMsICZ1c2VyX2lkLCBzKTtcXHJcXG4gICAgcmV0dXJuIHM7XFxyXFxufVxcclxcbjwvcHJlPlxcclxcbjwvcD5cXHJcXG5cXHJcXG48cD48Yj4zLiBEZWxldGluZyBhbiBpdGVtIGluIGEgaGFzaDo8L2I+XFxyXFxuPHByZT5cXHJcXG52b2lkIGRlbGV0ZV91c2VyKHN0cnVjdCBoYXNoX2VudHJ5ICp1c2VyKSB7XFxyXFxuICAgIEhBU0hfREVMKHVzZXJzLCB1c2VyKTsgIFxcclxcbn1cXHJcXG48L3ByZT5cXHJcXG48L3A+XCJdLCBcImNzaGFycFwiOiBbXCJDI1wiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+bW9ubyA1LjE4LjA8L2NvZGU+IHByb3ZpZGluZyA8YSBocmVmPVxcXCJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9kb3RuZXQvY3NoYXJwL3doYXRzLW5ldy9jc2hhcnAtN1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmZ1bGwgc3VwcG9ydCBmb3IgQyMgNzwvYT4uPC9wPlxcclxcblxcclxcbjxwPllvdXIgY29kZSBpcyBjb21waWxlZCB3aXRoIGRlYnVnIGZsYWcgZW5hYmxlZCAoPGNvZGU+L2RlYnVnPC9jb2RlPikuPC9wPlwiXSwgXCJqYXZhc2NyaXB0XCI6IFtcIkphdmFTY3JpcHRcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5ub2RlanMgMTAuMTUuMDwvY29kZT4uPC9wPlxcclxcblxcclxcbjxwPllvdXIgY29kZSBpcyBydW4gd2l0aCA8Y29kZT4tLWhhcm1vbnk8L2NvZGU+IGZsYWcsIGVuYWJsaW5nIDxhIGhyZWY9XFxcImh0dHA6Ly9ub2RlLmdyZWVuL1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPm5ldyBFUzYgZmVhdHVyZXM8L2E+LjwvcD5cXHJcXG5cXHJcXG48cD48YSBocmVmPVxcXCJodHRwczovL2xvZGFzaC5jb21cXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5sb2Rhc2guanM8L2E+IGxpYnJhcnkgaXMgaW5jbHVkZWQgYnkgZGVmYXVsdC48L3A+XCJdLCBcInJ1YnlcIjogW1wiUnVieVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPnJ1YnkgMi40LjU8L2NvZGU+LjwvcD5cIl0sIFwic3dpZnRcIjogW1wiU3dpZnRcIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPnN3aWZ0IDUuMC4xPC9jb2RlPi48L3A+XFxyXFxuXFxyXFxuPHA+V2UgdXN1YWxseSBrZWVwIHVwIHdpdGggdGhlIDxhIGhyZWY9XFxcImh0dHBzOi8vc3dpZnQub3JnL2Rvd25sb2FkL1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmxhdGVzdCBTd2lmdCByZWxlYXNlZCBieSBBcHBsZTwvYT4sIGlmIG5vdCBwbGVhc2UgbGV0IHVzIGtub3cgYW5kIHdlIHdpbGwgdXBkYXRlIGl0IGFzIHNvb24gYXMgcG9zc2libGUhPC9wPlwiXSwgXCJnb2xhbmdcIjogW1wiR29cIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPmdvIDEuMTEuNDwvY29kZT4uPC9wPlwiXSwgXCJweXRob24zXCI6IFtcIlB5dGhvbjNcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5weXRob24gMy42PC9jb2RlPi48L3A+XFxuXFxuPHA+TW9zdCBsaWJyYXJpZXMgYXJlIGFscmVhZHkgaW1wb3J0ZWQgYXV0b21hdGljYWxseSBmb3IgeW91ciBjb252ZW5pZW5jZSwgc3VjaCBhcyA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8zL2xpYnJhcnkvYXJyYXkuaHRtbFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmFycmF5PC9hPiwgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy9saWJyYXJ5L2Jpc2VjdC5odG1sXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+YmlzZWN0PC9hPiwgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy9saWJyYXJ5L2NvbGxlY3Rpb25zLmh0bWxcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5jb2xsZWN0aW9uczwvYT4uIElmIHlvdSBuZWVkIG1vcmUgbGlicmFyaWVzLCB5b3UgY2FuIGltcG9ydCBpdCB5b3Vyc2VsZi48L3A+XCJdLCBcInNjYWxhXCI6IFtcIlNjYWxhXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5zY2FsYSAyLjExLjEyPC9jb2RlPi48L3A+XCJdLCBcImtvdGxpblwiOiBbXCJLb3RsaW5cIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPmtvdGxpbiAxLjMuMTA8L2NvZGU+LjwvcD5cIl0sIFwicnVzdFwiOiBbXCJSdXN0XCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5ydXN0IDEuMzEuMCAoZWRpdGlvbiA9IDIwMTgpPC9jb2RlPjwvcD5cXHJcXG5cXHJcXG48cD5TdXBwb3J0cyA8YSBocmVmPVxcXCJodHRwczovL2NyYXRlcy5pby9jcmF0ZXMvcmFuZFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPnJhbmQ8L2E+XFx1MDBhMGZyb20gY3JhdGVzLmlvPC9wPlwiXSwgXCJwaHBcIjogW1wiUEhQXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+UEhQIDcuMjwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "866",
+    "questionFrontendId": "836",
+    "boundTopicId": null,
+    "title": "Rectangle Overlap",
+    "titleSlug": "rectangle-overlap",
+    "content": "<p>A rectangle is&nbsp;represented as a&nbsp;list <code>[x1, y1, x2, y2]</code>, where&nbsp;<code>(x1, y1)</code>&nbsp;are the coordinates of its bottom-left corner, and <code>(x2,&nbsp;y2)</code>&nbsp;are the coordinates of its top-right corner.</p>\r\n\r\n<p>Two rectangles overlap if the area of their intersection is positive.&nbsp; To be clear, two rectangles that only touch at the corner or edges do not overlap.</p>\r\n\r\n<p>Given two (axis-aligned) rectangles, return whether&nbsp;they overlap.</p>\r\n\r\n<p><strong>Example 1:</strong></p>\r\n\r\n<pre>\r\n<strong>Input: </strong>rec1 = [0,0,2,2], rec2 = [1,1,3,3]\r\n<strong>Output: </strong>true\r\n</pre>\r\n\r\n<p><strong>Example 2:</strong></p>\r\n\r\n<pre>\r\n<strong>Input: </strong>rec1 = [0,0,1,1], rec2 = [1,0,2,1]\r\n<strong>Output: </strong>false\r\n</pre>\r\n\r\n<p><strong>Notes:</strong></p>\r\n\r\n<ol>\r\n\t<li>Both rectangles <code>rec1</code> and <code>rec2</code> are lists of 4 integers.</li>\r\n\t<li>All coordinates in rectangles will be between&nbsp;<code>-10^9 </code>and<code> 10^9</code>.</li>\r\n</ol>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 392,
+    "dislikes": 78,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Rectangle Area\", \"titleSlug\": \"rectangle-area\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "contributors": [
+      {
+        "username": "lee215",
+        "profileUrl": "/lee215/",
+        "avatarUrl": "https://assets.leetcode.com/users/lee215/avatar_1551541889.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": "{\"cpp\": true, \"java\": true, \"python\": true, \"python3\": true, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math",
+        "translatedName": null,
+        "__typename": "TopicTagNode"
+      }
+    ],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "C++",
+        "langSlug": "cpp",
+        "code": "class Solution {\npublic:\n    bool isRectangleOverlap(vector<int>& rec1, vector<int>& rec2) {\n        \n    }\n};",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Java",
+        "langSlug": "java",
+        "code": "class Solution {\n    public boolean isRectangleOverlap(int[] rec1, int[] rec2) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Python",
+        "langSlug": "python",
+        "code": "class Solution(object):\n    def isRectangleOverlap(self, rec1, rec2):\n        \"\"\"\n        :type rec1: List[int]\n        :type rec2: List[int]\n        :rtype: bool\n        \"\"\"\n        ",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Python3",
+        "langSlug": "python3",
+        "code": "class Solution:\n    def isRectangleOverlap(self, rec1: List[int], rec2: List[int]) -> bool:\n        ",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "C",
+        "langSlug": "c",
+        "code": "\n\nbool isRectangleOverlap(int* rec1, int rec1Size, int* rec2, int rec2Size){\n\n}\n\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "C#",
+        "langSlug": "csharp",
+        "code": "public class Solution {\n    public bool IsRectangleOverlap(int[] rec1, int[] rec2) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "JavaScript",
+        "langSlug": "javascript",
+        "code": "/**\n * @param {number[]} rec1\n * @param {number[]} rec2\n * @return {boolean}\n */\nvar isRectangleOverlap = function(rec1, rec2) {\n    \n};",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Ruby",
+        "langSlug": "ruby",
+        "code": "# @param {Integer[]} rec1\n# @param {Integer[]} rec2\n# @return {Boolean}\ndef is_rectangle_overlap(rec1, rec2)\n    \nend",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Swift",
+        "langSlug": "swift",
+        "code": "class Solution {\n    func isRectangleOverlap(_ rec1: [Int], _ rec2: [Int]) -> Bool {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Go",
+        "langSlug": "golang",
+        "code": "func isRectangleOverlap(rec1 []int, rec2 []int) bool {\n    \n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Scala",
+        "langSlug": "scala",
+        "code": "object Solution {\n    def isRectangleOverlap(rec1: Array[Int], rec2: Array[Int]): Boolean = {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Kotlin",
+        "langSlug": "kotlin",
+        "code": "class Solution {\n    fun isRectangleOverlap(rec1: IntArray, rec2: IntArray): Boolean {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Rust",
+        "langSlug": "rust",
+        "code": "impl Solution {\n    pub fn is_rectangle_overlap(rec1: Vec<i32>, rec2: Vec<i32>) -> bool {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "PHP",
+        "langSlug": "php",
+        "code": "class Solution {\n\n    /**\n     * @param Integer[] $rec1\n     * @param Integer[] $rec2\n     * @return Boolean\n     */\n    function isRectangleOverlap($rec1, $rec2) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"29.7K\", \"totalSubmission\": \"63K\", \"totalAcceptedRaw\": 29699, \"totalSubmissionRaw\": 63050, \"acRate\": \"47.1%\"}",
+    "hints": [],
+    "solution": {
+      "id": "468",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "[0,0,2,2]\n[1,1,3,3]",
+    "metaData": "{\r\n  \"name\": \"isRectangleOverlap\",\r\n  \"params\": [\r\n    {\r\n      \"name\": \"rec1\",\r\n      \"type\": \"integer[]\"\r\n    },\r\n    {\r\n      \"name\": \"rec2\",\r\n      \"type\": \"integer[]\"\r\n    }\r\n  ],\r\n  \"return\": {\r\n    \"type\": \"boolean\"\r\n  }\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"cpp\": [\"C++\", \"<p>Compiled with <code>g++ 8.2</code> using the latest C++ 17 standard.</p>\\r\\n\\r\\n<p>Your code is compiled with level one optimization (<code>-O1</code>). <a href=\\\"https://github.com/google/sanitizers/wiki/AddressSanitizer\\\" target=\\\"_blank\\\">AddressSanitizer</a> is also enabled to help detect out-of-bounds and use-after-free bugs.</p>\\r\\n\\r\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"java\": [\"Java\", \"<p>Compiled with <code>java 1.8.0</code> taking advantage of the latest Java 8 features such as lambda expressions and stream API.</p>\\n\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"python\": [\"Python\", \"<p>Compiled with <code>python 2.7.12</code>.</p>\\n\\n<p>Most libraries are already imported automatically for your convenience, such as <a href=\\\"https://docs.python.org/2/library/array.html\\\" target=\\\"_blank\\\">array</a>, <a href=\\\"https://docs.python.org/2/library/bisect.html\\\" target=\\\"_blank\\\">bisect</a>, <a href=\\\"https://docs.python.org/2/library/collections.html\\\" target=\\\"_blank\\\">collections</a>. If you need more libraries, you can import it yourself.</p>\\n\\n<p>Note that Python 2.7 <a href=\\\"https://www.python.org/dev/peps/pep-0373/\\\" target=\\\"_blank\\\">will not be maintained past 2020</a>. For the latest Python, please choose Python3 instead.</p>\"], \"c\": [\"C\", \"<p>Compiled with <code>gcc 8.2</code> using the gnu99 standard.</p>\\r\\n\\r\\n<p>Your code is compiled with level one optimization (<code>-O1</code>). <a href=\\\"https://github.com/google/sanitizers/wiki/AddressSanitizer\\\" target=\\\"_blank\\\">AddressSanitizer</a> is also enabled to help detect out-of-bounds and use-after-free bugs.</p>\\r\\n\\r\\n<p>Most standard library headers are already included automatically for your convenience.</p>\\r\\n\\r\\n<p>For hash table operations, you may use <a href=\\\"https://troydhanson.github.io/uthash/\\\" target=\\\"_blank\\\">uthash</a>. \\\"uthash.h\\\" is included by default. Below are some examples:</p>\\r\\n\\r\\n<p><b>1. Adding an item to a hash.</b>\\r\\n<pre>\\r\\nstruct hash_entry {\\r\\n    int id;            /* we'll use this field as the key */\\r\\n    char name[10];\\r\\n    UT_hash_handle hh; /* makes this structure hashable */\\r\\n};\\r\\n\\r\\nstruct hash_entry *users = NULL;\\r\\n\\r\\nvoid add_user(struct hash_entry *s) {\\r\\n    HASH_ADD_INT(users, id, s);\\r\\n}\\r\\n</pre>\\r\\n</p>\\r\\n\\r\\n<p><b>2. Looking up an item in a hash:</b>\\r\\n<pre>\\r\\nstruct hash_entry *find_user(int user_id) {\\r\\n    struct hash_entry *s;\\r\\n    HASH_FIND_INT(users, &user_id, s);\\r\\n    return s;\\r\\n}\\r\\n</pre>\\r\\n</p>\\r\\n\\r\\n<p><b>3. Deleting an item in a hash:</b>\\r\\n<pre>\\r\\nvoid delete_user(struct hash_entry *user) {\\r\\n    HASH_DEL(users, user);  \\r\\n}\\r\\n</pre>\\r\\n</p>\"], \"csharp\": [\"C#\", \"<p>Compiled with <code>mono 5.18.0</code> providing <a href=\\\"https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7\\\" target=\\\"_blank\\\">full support for C# 7</a>.</p>\\r\\n\\r\\n<p>Your code is compiled with debug flag enabled (<code>/debug</code>).</p>\"], \"javascript\": [\"JavaScript\", \"<p>Run with <code>nodejs 10.15.0</code>.</p>\\r\\n\\r\\n<p>Your code is run with <code>--harmony</code> flag, enabling <a href=\\\"http://node.green/\\\" target=\\\"_blank\\\">new ES6 features</a>.</p>\\r\\n\\r\\n<p><a href=\\\"https://lodash.com\\\" target=\\\"_blank\\\">lodash.js</a> library is included by default.</p>\"], \"ruby\": [\"Ruby\", \"<p>Run with <code>ruby 2.4.5</code>.</p>\"], \"swift\": [\"Swift\", \"<p>Compiled with <code>swift 5.0.1</code>.</p>\\r\\n\\r\\n<p>We usually keep up with the <a href=\\\"https://swift.org/download/\\\" target=\\\"_blank\\\">latest Swift released by Apple</a>, if not please let us know and we will update it as soon as possible!</p>\"], \"golang\": [\"Go\", \"<p>Compiled with <code>go 1.11.4</code>.</p>\"], \"python3\": [\"Python3\", \"<p>Run with <code>python 3.6</code>.</p>\\n\\n<p>Most libraries are already imported automatically for your convenience, such as <a href=\\\"https://docs.python.org/3/library/array.html\\\" target=\\\"_blank\\\">array</a>, <a href=\\\"https://docs.python.org/3/library/bisect.html\\\" target=\\\"_blank\\\">bisect</a>, <a href=\\\"https://docs.python.org/3/library/collections.html\\\" target=\\\"_blank\\\">collections</a>. If you need more libraries, you can import it yourself.</p>\"], \"scala\": [\"Scala\", \"<p>Compiled with <code>scala 2.11.12</code>.</p>\"], \"kotlin\": [\"Kotlin\", \"<p>Compiled with <code>kotlin 1.3.10</code>.</p>\"], \"rust\": [\"Rust\", \"<p>Compiled with <code>rust 1.31.0 (edition = 2018)</code></p>\\r\\n\\r\\n<p>Supports <a href=\\\"https://crates.io/crates/rand\\\" target=\\\"_blank\\\">rand</a>\\u00a0from crates.io</p>\"], \"php\": [\"PHP\", \"<p>Run with <code>PHP 7.2</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

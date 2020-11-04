@@ -1,1 +1,140 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjExMzMiLAogICAgInF1ZXN0aW9uRnJvbnRlbmRJZCI6ICIxMTYzIiwKICAgICJib3VuZFRvcGljSWQiOiBudWxsLAogICAgInRpdGxlIjogIkxhc3QgU3Vic3RyaW5nIGluIExleGljb2dyYXBoaWNhbCBPcmRlciIsCiAgICAidGl0bGVTbHVnIjogImxhc3Qtc3Vic3RyaW5nLWluLWxleGljb2dyYXBoaWNhbC1vcmRlciIsCiAgICAiY29udGVudCI6ICI8cD5HaXZlbiBhIHN0cmluZyA8Y29kZT5zPC9jb2RlPiwgcmV0dXJuIHRoZSBsYXN0IHN1YnN0cmluZyBvZiA8Y29kZT5zPC9jb2RlPiBpbiBsZXhpY29ncmFwaGljYWwgb3JkZXIuPC9wPlxuXG48cD4mbmJzcDs8L3A+XG5cbjxwPjxzdHJvbmc+RXhhbXBsZSAxOjwvc3Ryb25nPjwvcD5cblxuPHByZT5cbjxzdHJvbmc+SW5wdXQ6IDwvc3Ryb25nPjxzcGFuIGlkPVwiZXhhbXBsZS1pbnB1dC0xLTFcIj4mcXVvdDthYmFiJnF1b3Q7PC9zcGFuPlxuPHN0cm9uZz5PdXRwdXQ6IDwvc3Ryb25nPjxzcGFuIGlkPVwiZXhhbXBsZS1vdXRwdXQtMVwiPiZxdW90O2JhYiZxdW90Ozwvc3Bhbj5cbjxzdHJvbmc+RXhwbGFuYXRpb246IDwvc3Ryb25nPlRoZSBzdWJzdHJpbmdzIGFyZSBbJnF1b3Q7YSZxdW90OywgJnF1b3Q7YWImcXVvdDssICZxdW90O2FiYSZxdW90OywgJnF1b3Q7YWJhYiZxdW90OywgJnF1b3Q7YiZxdW90OywgJnF1b3Q7YmEmcXVvdDssICZxdW90O2JhYiZxdW90O10uIFRoZSBsZXhpY29ncmFwaGljYWxseSBtYXhpbXVtIHN1YnN0cmluZyBpcyAmcXVvdDtiYWImcXVvdDsuXG48L3ByZT5cblxuPHA+PHN0cm9uZz5FeGFtcGxlIDI6PC9zdHJvbmc+PC9wPlxuXG48cHJlPlxuPHN0cm9uZz5JbnB1dDogPC9zdHJvbmc+PHNwYW4gaWQ9XCJleGFtcGxlLWlucHV0LTItMVwiPiZxdW90O2xlZXRjb2RlJnF1b3Q7PC9zcGFuPlxuPHN0cm9uZz5PdXRwdXQ6IDwvc3Ryb25nPjxzcGFuIGlkPVwiZXhhbXBsZS1vdXRwdXQtMlwiPiZxdW90O3Rjb2RlJnF1b3Q7PC9zcGFuPlxuPC9wcmU+XG5cbjxwPiZuYnNwOzwvcD5cblxuPHA+PHN0cm9uZz5Ob3RlOjwvc3Ryb25nPjwvcD5cblxuPG9sPlxuXHQ8bGk+PGNvZGU+MSAmbHQ7PSBzLmxlbmd0aCAmbHQ7PSA0Jm5ic3A7KiAxMF41PC9jb2RlPjwvbGk+XG5cdDxsaT48Zm9udCBmYWNlPVwibW9ub3NwYWNlXCI+czwvZm9udD4gY29udGFpbnMgb25seSBsb3dlcmNhc2UgRW5nbGlzaCBsZXR0ZXJzLjwvbGk+XG48L29sPlxuIiwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogZmFsc2UsCiAgICAiZGlmZmljdWx0eSI6ICJIYXJkIiwKICAgICJsaWtlcyI6IDQ3LAogICAgImRpc2xpa2VzIjogMTMxLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6ICJ7XCJjcHBcIjogdHJ1ZSwgXCJqYXZhXCI6IHRydWUsIFwicHl0aG9uXCI6IHRydWUsIFwicHl0aG9uM1wiOiB0cnVlLCBcIm15c3FsXCI6IGZhbHNlLCBcIm1zc3FsXCI6IGZhbHNlLCBcIm9yYWNsZXNxbFwiOiBmYWxzZSwgXCJjXCI6IGZhbHNlLCBcImNzaGFycFwiOiBmYWxzZSwgXCJqYXZhc2NyaXB0XCI6IGZhbHNlLCBcInJ1YnlcIjogZmFsc2UsIFwiYmFzaFwiOiBmYWxzZSwgXCJzd2lmdFwiOiBmYWxzZSwgXCJnb2xhbmdcIjogZmFsc2UsIFwic2NhbGFcIjogZmFsc2UsIFwiaHRtbFwiOiBmYWxzZSwgXCJweXRob25tbFwiOiBmYWxzZSwgXCJrb3RsaW5cIjogZmFsc2UsIFwicnVzdFwiOiBmYWxzZSwgXCJwaHBcIjogZmFsc2V9IiwKICAgICJ0b3BpY1RhZ3MiOiBbCiAgICAgIHsKICAgICAgICAibmFtZSI6ICJTdHJpbmciLAogICAgICAgICJzbHVnIjogInN0cmluZyIsCiAgICAgICAgInRyYW5zbGF0ZWROYW1lIjogbnVsbCwKICAgICAgICAiX190eXBlbmFtZSI6ICJUb3BpY1RhZ05vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibmFtZSI6ICJTdWZmaXggQXJyYXkiLAogICAgICAgICJzbHVnIjogInN1ZmZpeC1hcnJheSIsCiAgICAgICAgInRyYW5zbGF0ZWROYW1lIjogbnVsbCwKICAgICAgICAiX190eXBlbmFtZSI6ICJUb3BpY1RhZ05vZGUiCiAgICAgIH0KICAgIF0sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBbCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJDKysiLAogICAgICAgICJsYW5nU2x1ZyI6ICJjcHAiLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uIHtcbnB1YmxpYzpcbiAgICBzdHJpbmcgbGFzdFN1YnN0cmluZyhzdHJpbmcgcykge1xuICAgICAgICBcbiAgICB9XG59OyIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiSmF2YSIsCiAgICAgICAgImxhbmdTbHVnIjogImphdmEiLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uIHtcbiAgICBwdWJsaWMgU3RyaW5nIGxhc3RTdWJzdHJpbmcoU3RyaW5nIHMpIHtcbiAgICAgICAgXG4gICAgfVxufSIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiUHl0aG9uIiwKICAgICAgICAibGFuZ1NsdWciOiAicHl0aG9uIiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbihvYmplY3QpOlxuICAgIGRlZiBsYXN0U3Vic3RyaW5nKHNlbGYsIHMpOlxuICAgICAgICBcIlwiXCJcbiAgICAgICAgOnR5cGUgczogc3RyXG4gICAgICAgIDpydHlwZTogc3RyXG4gICAgICAgIFwiXCJcIlxuICAgICAgICAiLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlB5dGhvbjMiLAogICAgICAgICJsYW5nU2x1ZyI6ICJweXRob24zIiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbjpcbiAgICBkZWYgbGFzdFN1YnN0cmluZyhzZWxmLCBzOiBzdHIpIC0+IHN0cjpcbiAgICAgICAgIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJDIiwKICAgICAgICAibGFuZ1NsdWciOiAiYyIsCiAgICAgICAgImNvZGUiOiAiXG5cbmNoYXIgKiBsYXN0U3Vic3RyaW5nKGNoYXIgKiBzKXtcblxufVxuXG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIkMjIiwKICAgICAgICAibGFuZ1NsdWciOiAiY3NoYXJwIiwKICAgICAgICAiY29kZSI6ICJwdWJsaWMgY2xhc3MgU29sdXRpb24ge1xuICAgIHB1YmxpYyBzdHJpbmcgTGFzdFN1YnN0cmluZyhzdHJpbmcgcykge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJKYXZhU2NyaXB0IiwKICAgICAgICAibGFuZ1NsdWciOiAiamF2YXNjcmlwdCIsCiAgICAgICAgImNvZGUiOiAiLyoqXG4gKiBAcGFyYW0ge3N0cmluZ30gc1xuICogQHJldHVybiB7c3RyaW5nfVxuICovXG52YXIgbGFzdFN1YnN0cmluZyA9IGZ1bmN0aW9uKHMpIHtcbiAgICBcbn07IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJSdWJ5IiwKICAgICAgICAibGFuZ1NsdWciOiAicnVieSIsCiAgICAgICAgImNvZGUiOiAiIyBAcGFyYW0ge1N0cmluZ30gc1xuIyBAcmV0dXJuIHtTdHJpbmd9XG5kZWYgbGFzdF9zdWJzdHJpbmcocylcbiAgICBcbmVuZCIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiU3dpZnQiLAogICAgICAgICJsYW5nU2x1ZyI6ICJzd2lmdCIsCiAgICAgICAgImNvZGUiOiAiY2xhc3MgU29sdXRpb24ge1xuICAgIGZ1bmMgbGFzdFN1YnN0cmluZyhfIHM6IFN0cmluZykgLT4gU3RyaW5nIHtcbiAgICAgICAgXG4gICAgfVxufSIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiR28iLAogICAgICAgICJsYW5nU2x1ZyI6ICJnb2xhbmciLAogICAgICAgICJjb2RlIjogImZ1bmMgbGFzdFN1YnN0cmluZyhzIHN0cmluZykgc3RyaW5nIHtcbiAgICBcbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIlNjYWxhIiwKICAgICAgICAibGFuZ1NsdWciOiAic2NhbGEiLAogICAgICAgICJjb2RlIjogIm9iamVjdCBTb2x1dGlvbiB7XG4gICAgZGVmIGxhc3RTdWJzdHJpbmcoczogU3RyaW5nKTogU3RyaW5nID0ge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJLb3RsaW4iLAogICAgICAgICJsYW5nU2x1ZyI6ICJrb3RsaW4iLAogICAgICAgICJjb2RlIjogImNsYXNzIFNvbHV0aW9uIHtcbiAgICBmdW4gbGFzdFN1YnN0cmluZyhzOiBTdHJpbmcpOiBTdHJpbmcge1xuICAgICAgICBcbiAgICB9XG59IiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJSdXN0IiwKICAgICAgICAibGFuZ1NsdWciOiAicnVzdCIsCiAgICAgICAgImNvZGUiOiAiaW1wbCBTb2x1dGlvbiB7XG4gICAgcHViIGZuIGxhc3Rfc3Vic3RyaW5nKHM6IFN0cmluZykgLT4gU3RyaW5nIHtcbiAgICAgICAgXG4gICAgfVxufSIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiUEhQIiwKICAgICAgICAibGFuZ1NsdWciOiAicGhwIiwKICAgICAgICAiY29kZSI6ICJjbGFzcyBTb2x1dGlvbiB7XG5cbiAgICAvKipcbiAgICAgKiBAcGFyYW0gU3RyaW5nICRzXG4gICAgICogQHJldHVybiBTdHJpbmdcbiAgICAgKi9cbiAgICBmdW5jdGlvbiBsYXN0U3Vic3RyaW5nKCRzKSB7XG4gICAgICAgIFxuICAgIH1cbn0iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfQogICAgXSwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiNEtcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIxMy41S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogNDAzMywgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMTM1MDEsIFwiYWNSYXRlXCI6IFwiMjkuOSVcIn0iLAogICAgImhpbnRzIjogWwogICAgICAiQXNzdW1lIHRoYXQgdGhlIGFuc3dlciBpcyBhIHN1Yi1zdHJpbmcgZnJvbSBpbmRleCBpIHRvIGouIElmIHlvdSBhZGQgdGhlIGNoYXJhY3RlciBhdCBpbmRleCBqKzEgeW91IGdldCBhIGJldHRlciBhbnN3ZXIuIiwKICAgICAgIlRoZSBhbnN3ZXIgaXMgYWx3YXlzIGEgc3VmZml4IG9mIHRoZSBnaXZlbiBzdHJpbmcuIiwKICAgICAgIlNpbmNlIHRoZSBsaW1pdHMgYXJlIGhpZ2gsIHdlIG5lZWQgYW4gZWZmaWNpZW50IGRhdGEgc3RydWN0dXJlLiIsCiAgICAgICJVc2Ugc3VmZml4IGFycmF5LiIKICAgIF0sCiAgICAic29sdXRpb24iOiBudWxsLAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAiXCJhYmFiXCJcciIsCiAgICAibWV0YURhdGEiOiAie1xuICBcIm5hbWVcIjogXCJsYXN0U3Vic3RyaW5nXCIsXG4gIFwicGFyYW1zXCI6IFtcbiAgICB7XG4gICAgICBcIm5hbWVcIjogXCJzXCIsXG4gICAgICBcInR5cGVcIjogXCJzdHJpbmdcIlxuICAgIH1cbiAgXSxcbiAgXCJyZXR1cm5cIjoge1xuICAgIFwidHlwZVwiOiBcInN0cmluZ1wiXG4gIH1cbn1cbiIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFtdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJjcHBcIjogW1wiQysrXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5nKysgOC4yPC9jb2RlPiB1c2luZyB0aGUgbGF0ZXN0IEMrKyAxNyBzdGFuZGFyZC48L3A+XFxyXFxuXFxyXFxuPHA+WW91ciBjb2RlIGlzIGNvbXBpbGVkIHdpdGggbGV2ZWwgb25lIG9wdGltaXphdGlvbiAoPGNvZGU+LU8xPC9jb2RlPikuIDxhIGhyZWY9XFxcImh0dHBzOi8vZ2l0aHViLmNvbS9nb29nbGUvc2FuaXRpemVycy93aWtpL0FkZHJlc3NTYW5pdGl6ZXJcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5BZGRyZXNzU2FuaXRpemVyPC9hPiBpcyBhbHNvIGVuYWJsZWQgdG8gaGVscCBkZXRlY3Qgb3V0LW9mLWJvdW5kcyBhbmQgdXNlLWFmdGVyLWZyZWUgYnVncy48L3A+XFxyXFxuXFxyXFxuPHA+TW9zdCBzdGFuZGFyZCBsaWJyYXJ5IGhlYWRlcnMgYXJlIGFscmVhZHkgaW5jbHVkZWQgYXV0b21hdGljYWxseSBmb3IgeW91ciBjb252ZW5pZW5jZS48L3A+XCJdLCBcImphdmFcIjogW1wiSmF2YVwiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+amF2YSAxLjguMDwvY29kZT4gdGFraW5nIGFkdmFudGFnZSBvZiB0aGUgbGF0ZXN0IEphdmEgOCBmZWF0dXJlcyBzdWNoIGFzIGxhbWJkYSBleHByZXNzaW9ucyBhbmQgc3RyZWFtIEFQSS48L3A+XFxuXFxuPHA+TW9zdCBzdGFuZGFyZCBsaWJyYXJ5IGhlYWRlcnMgYXJlIGFscmVhZHkgaW5jbHVkZWQgYXV0b21hdGljYWxseSBmb3IgeW91ciBjb252ZW5pZW5jZS48L3A+XCJdLCBcInB5dGhvblwiOiBbXCJQeXRob25cIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPnB5dGhvbiAyLjcuMTI8L2NvZGU+LjwvcD5cXG5cXG48cD5Nb3N0IGxpYnJhcmllcyBhcmUgYWxyZWFkeSBpbXBvcnRlZCBhdXRvbWF0aWNhbGx5IGZvciB5b3VyIGNvbnZlbmllbmNlLCBzdWNoIGFzIDxhIGhyZWY9XFxcImh0dHBzOi8vZG9jcy5weXRob24ub3JnLzIvbGlicmFyeS9hcnJheS5odG1sXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+YXJyYXk8L2E+LCA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8yL2xpYnJhcnkvYmlzZWN0Lmh0bWxcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5iaXNlY3Q8L2E+LCA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8yL2xpYnJhcnkvY29sbGVjdGlvbnMuaHRtbFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmNvbGxlY3Rpb25zPC9hPi4gSWYgeW91IG5lZWQgbW9yZSBsaWJyYXJpZXMsIHlvdSBjYW4gaW1wb3J0IGl0IHlvdXJzZWxmLjwvcD5cXG5cXG48cD5Ob3RlIHRoYXQgUHl0aG9uIDIuNyA8YSBocmVmPVxcXCJodHRwczovL3d3dy5weXRob24ub3JnL2Rldi9wZXBzL3BlcC0wMzczL1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPndpbGwgbm90IGJlIG1haW50YWluZWQgcGFzdCAyMDIwPC9hPi4gRm9yIHRoZSBsYXRlc3QgUHl0aG9uLCBwbGVhc2UgY2hvb3NlIFB5dGhvbjMgaW5zdGVhZC48L3A+XCJdLCBcImNcIjogW1wiQ1wiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+Z2NjIDguMjwvY29kZT4gdXNpbmcgdGhlIGdudTk5IHN0YW5kYXJkLjwvcD5cXHJcXG5cXHJcXG48cD5Zb3VyIGNvZGUgaXMgY29tcGlsZWQgd2l0aCBsZXZlbCBvbmUgb3B0aW1pemF0aW9uICg8Y29kZT4tTzE8L2NvZGU+KS4gPGEgaHJlZj1cXFwiaHR0cHM6Ly9naXRodWIuY29tL2dvb2dsZS9zYW5pdGl6ZXJzL3dpa2kvQWRkcmVzc1Nhbml0aXplclxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPkFkZHJlc3NTYW5pdGl6ZXI8L2E+IGlzIGFsc28gZW5hYmxlZCB0byBoZWxwIGRldGVjdCBvdXQtb2YtYm91bmRzIGFuZCB1c2UtYWZ0ZXItZnJlZSBidWdzLjwvcD5cXHJcXG5cXHJcXG48cD5Nb3N0IHN0YW5kYXJkIGxpYnJhcnkgaGVhZGVycyBhcmUgYWxyZWFkeSBpbmNsdWRlZCBhdXRvbWF0aWNhbGx5IGZvciB5b3VyIGNvbnZlbmllbmNlLjwvcD5cXHJcXG5cXHJcXG48cD5Gb3IgaGFzaCB0YWJsZSBvcGVyYXRpb25zLCB5b3UgbWF5IHVzZSA8YSBocmVmPVxcXCJodHRwczovL3Ryb3lkaGFuc29uLmdpdGh1Yi5pby91dGhhc2gvXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+dXRoYXNoPC9hPi4gXFxcInV0aGFzaC5oXFxcIiBpcyBpbmNsdWRlZCBieSBkZWZhdWx0LiBCZWxvdyBhcmUgc29tZSBleGFtcGxlczo8L3A+XFxyXFxuXFxyXFxuPHA+PGI+MS4gQWRkaW5nIGFuIGl0ZW0gdG8gYSBoYXNoLjwvYj5cXHJcXG48cHJlPlxcclxcbnN0cnVjdCBoYXNoX2VudHJ5IHtcXHJcXG4gICAgaW50IGlkOyAgICAgICAgICAgIC8qIHdlJ2xsIHVzZSB0aGlzIGZpZWxkIGFzIHRoZSBrZXkgKi9cXHJcXG4gICAgY2hhciBuYW1lWzEwXTtcXHJcXG4gICAgVVRfaGFzaF9oYW5kbGUgaGg7IC8qIG1ha2VzIHRoaXMgc3RydWN0dXJlIGhhc2hhYmxlICovXFxyXFxufTtcXHJcXG5cXHJcXG5zdHJ1Y3QgaGFzaF9lbnRyeSAqdXNlcnMgPSBOVUxMO1xcclxcblxcclxcbnZvaWQgYWRkX3VzZXIoc3RydWN0IGhhc2hfZW50cnkgKnMpIHtcXHJcXG4gICAgSEFTSF9BRERfSU5UKHVzZXJzLCBpZCwgcyk7XFxyXFxufVxcclxcbjwvcHJlPlxcclxcbjwvcD5cXHJcXG5cXHJcXG48cD48Yj4yLiBMb29raW5nIHVwIGFuIGl0ZW0gaW4gYSBoYXNoOjwvYj5cXHJcXG48cHJlPlxcclxcbnN0cnVjdCBoYXNoX2VudHJ5ICpmaW5kX3VzZXIoaW50IHVzZXJfaWQpIHtcXHJcXG4gICAgc3RydWN0IGhhc2hfZW50cnkgKnM7XFxyXFxuICAgIEhBU0hfRklORF9JTlQodXNlcnMsICZ1c2VyX2lkLCBzKTtcXHJcXG4gICAgcmV0dXJuIHM7XFxyXFxufVxcclxcbjwvcHJlPlxcclxcbjwvcD5cXHJcXG5cXHJcXG48cD48Yj4zLiBEZWxldGluZyBhbiBpdGVtIGluIGEgaGFzaDo8L2I+XFxyXFxuPHByZT5cXHJcXG52b2lkIGRlbGV0ZV91c2VyKHN0cnVjdCBoYXNoX2VudHJ5ICp1c2VyKSB7XFxyXFxuICAgIEhBU0hfREVMKHVzZXJzLCB1c2VyKTsgIFxcclxcbn1cXHJcXG48L3ByZT5cXHJcXG48L3A+XCJdLCBcImNzaGFycFwiOiBbXCJDI1wiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+bW9ubyA1LjE4LjA8L2NvZGU+IHByb3ZpZGluZyA8YSBocmVmPVxcXCJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9kb3RuZXQvY3NoYXJwL3doYXRzLW5ldy9jc2hhcnAtN1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmZ1bGwgc3VwcG9ydCBmb3IgQyMgNzwvYT4uPC9wPlxcclxcblxcclxcbjxwPllvdXIgY29kZSBpcyBjb21waWxlZCB3aXRoIGRlYnVnIGZsYWcgZW5hYmxlZCAoPGNvZGU+L2RlYnVnPC9jb2RlPikuPC9wPlwiXSwgXCJqYXZhc2NyaXB0XCI6IFtcIkphdmFTY3JpcHRcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5ub2RlanMgMTAuMTUuMDwvY29kZT4uPC9wPlxcclxcblxcclxcbjxwPllvdXIgY29kZSBpcyBydW4gd2l0aCA8Y29kZT4tLWhhcm1vbnk8L2NvZGU+IGZsYWcsIGVuYWJsaW5nIDxhIGhyZWY9XFxcImh0dHA6Ly9ub2RlLmdyZWVuL1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPm5ldyBFUzYgZmVhdHVyZXM8L2E+LjwvcD5cXHJcXG5cXHJcXG48cD48YSBocmVmPVxcXCJodHRwczovL2xvZGFzaC5jb21cXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5sb2Rhc2guanM8L2E+IGxpYnJhcnkgaXMgaW5jbHVkZWQgYnkgZGVmYXVsdC48L3A+XCJdLCBcInJ1YnlcIjogW1wiUnVieVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPnJ1YnkgMi40LjU8L2NvZGU+LjwvcD5cIl0sIFwic3dpZnRcIjogW1wiU3dpZnRcIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPnN3aWZ0IDUuMC4xPC9jb2RlPi48L3A+XFxyXFxuXFxyXFxuPHA+V2UgdXN1YWxseSBrZWVwIHVwIHdpdGggdGhlIDxhIGhyZWY9XFxcImh0dHBzOi8vc3dpZnQub3JnL2Rvd25sb2FkL1xcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmxhdGVzdCBTd2lmdCByZWxlYXNlZCBieSBBcHBsZTwvYT4sIGlmIG5vdCBwbGVhc2UgbGV0IHVzIGtub3cgYW5kIHdlIHdpbGwgdXBkYXRlIGl0IGFzIHNvb24gYXMgcG9zc2libGUhPC9wPlwiXSwgXCJnb2xhbmdcIjogW1wiR29cIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPmdvIDEuMTEuNDwvY29kZT4uPC9wPlwiXSwgXCJweXRob24zXCI6IFtcIlB5dGhvbjNcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5weXRob24gMy42PC9jb2RlPi48L3A+XFxuXFxuPHA+TW9zdCBsaWJyYXJpZXMgYXJlIGFscmVhZHkgaW1wb3J0ZWQgYXV0b21hdGljYWxseSBmb3IgeW91ciBjb252ZW5pZW5jZSwgc3VjaCBhcyA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8zL2xpYnJhcnkvYXJyYXkuaHRtbFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmFycmF5PC9hPiwgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy9saWJyYXJ5L2Jpc2VjdC5odG1sXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+YmlzZWN0PC9hPiwgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy9saWJyYXJ5L2NvbGxlY3Rpb25zLmh0bWxcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5jb2xsZWN0aW9uczwvYT4uIElmIHlvdSBuZWVkIG1vcmUgbGlicmFyaWVzLCB5b3UgY2FuIGltcG9ydCBpdCB5b3Vyc2VsZi48L3A+XCJdLCBcInNjYWxhXCI6IFtcIlNjYWxhXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5zY2FsYSAyLjExLjEyPC9jb2RlPi48L3A+XCJdLCBcImtvdGxpblwiOiBbXCJLb3RsaW5cIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPmtvdGxpbiAxLjMuMTA8L2NvZGU+LjwvcD5cIl0sIFwicnVzdFwiOiBbXCJSdXN0XCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5ydXN0IDEuMzEuMCAoZWRpdGlvbiA9IDIwMTgpPC9jb2RlPjwvcD5cXHJcXG5cXHJcXG48cD5TdXBwb3J0cyA8YSBocmVmPVxcXCJodHRwczovL2NyYXRlcy5pby9jcmF0ZXMvcmFuZFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPnJhbmQ8L2E+XFx1MDBhMGZyb20gY3JhdGVzLmlvPC9wPlwiXSwgXCJwaHBcIjogW1wiUEhQXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+UEhQIDcuMjwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "1133",
+    "questionFrontendId": "1163",
+    "boundTopicId": null,
+    "title": "Last Substring in Lexicographical Order",
+    "titleSlug": "last-substring-in-lexicographical-order",
+    "content": "<p>Given a string <code>s</code>, return the last substring of <code>s</code> in lexicographical order.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre>\n<strong>Input: </strong><span id=\"example-input-1-1\">&quot;abab&quot;</span>\n<strong>Output: </strong><span id=\"example-output-1\">&quot;bab&quot;</span>\n<strong>Explanation: </strong>The substrings are [&quot;a&quot;, &quot;ab&quot;, &quot;aba&quot;, &quot;abab&quot;, &quot;b&quot;, &quot;ba&quot;, &quot;bab&quot;]. The lexicographically maximum substring is &quot;bab&quot;.\n</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre>\n<strong>Input: </strong><span id=\"example-input-2-1\">&quot;leetcode&quot;</span>\n<strong>Output: </strong><span id=\"example-output-2\">&quot;tcode&quot;</span>\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Note:</strong></p>\n\n<ol>\n\t<li><code>1 &lt;= s.length &lt;= 4&nbsp;* 10^5</code></li>\n\t<li><font face=\"monospace\">s</font> contains only lowercase English letters.</li>\n</ol>\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Hard",
+    "likes": 47,
+    "dislikes": 131,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": true, \"java\": true, \"python\": true, \"python3\": true, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string",
+        "translatedName": null,
+        "__typename": "TopicTagNode"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array",
+        "translatedName": null,
+        "__typename": "TopicTagNode"
+      }
+    ],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "C++",
+        "langSlug": "cpp",
+        "code": "class Solution {\npublic:\n    string lastSubstring(string s) {\n        \n    }\n};",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Java",
+        "langSlug": "java",
+        "code": "class Solution {\n    public String lastSubstring(String s) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Python",
+        "langSlug": "python",
+        "code": "class Solution(object):\n    def lastSubstring(self, s):\n        \"\"\"\n        :type s: str\n        :rtype: str\n        \"\"\"\n        ",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Python3",
+        "langSlug": "python3",
+        "code": "class Solution:\n    def lastSubstring(self, s: str) -> str:\n        ",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "C",
+        "langSlug": "c",
+        "code": "\n\nchar * lastSubstring(char * s){\n\n}\n\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "C#",
+        "langSlug": "csharp",
+        "code": "public class Solution {\n    public string LastSubstring(string s) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "JavaScript",
+        "langSlug": "javascript",
+        "code": "/**\n * @param {string} s\n * @return {string}\n */\nvar lastSubstring = function(s) {\n    \n};",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Ruby",
+        "langSlug": "ruby",
+        "code": "# @param {String} s\n# @return {String}\ndef last_substring(s)\n    \nend",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Swift",
+        "langSlug": "swift",
+        "code": "class Solution {\n    func lastSubstring(_ s: String) -> String {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Go",
+        "langSlug": "golang",
+        "code": "func lastSubstring(s string) string {\n    \n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Scala",
+        "langSlug": "scala",
+        "code": "object Solution {\n    def lastSubstring(s: String): String = {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Kotlin",
+        "langSlug": "kotlin",
+        "code": "class Solution {\n    fun lastSubstring(s: String): String {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Rust",
+        "langSlug": "rust",
+        "code": "impl Solution {\n    pub fn last_substring(s: String) -> String {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "PHP",
+        "langSlug": "php",
+        "code": "class Solution {\n\n    /**\n     * @param String $s\n     * @return String\n     */\n    function lastSubstring($s) {\n        \n    }\n}",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"4K\", \"totalSubmission\": \"13.5K\", \"totalAcceptedRaw\": 4033, \"totalSubmissionRaw\": 13501, \"acRate\": \"29.9%\"}",
+    "hints": [
+      "Assume that the answer is a sub-string from index i to j. If you add the character at index j+1 you get a better answer.",
+      "The answer is always a suffix of the given string.",
+      "Since the limits are high, we need an efficient data structure.",
+      "Use suffix array."
+    ],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "\"abab\"\r",
+    "metaData": "{\n  \"name\": \"lastSubstring\",\n  \"params\": [\n    {\n      \"name\": \"s\",\n      \"type\": \"string\"\n    }\n  ],\n  \"return\": {\n    \"type\": \"string\"\n  }\n}\n",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"cpp\": [\"C++\", \"<p>Compiled with <code>g++ 8.2</code> using the latest C++ 17 standard.</p>\\r\\n\\r\\n<p>Your code is compiled with level one optimization (<code>-O1</code>). <a href=\\\"https://github.com/google/sanitizers/wiki/AddressSanitizer\\\" target=\\\"_blank\\\">AddressSanitizer</a> is also enabled to help detect out-of-bounds and use-after-free bugs.</p>\\r\\n\\r\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"java\": [\"Java\", \"<p>Compiled with <code>java 1.8.0</code> taking advantage of the latest Java 8 features such as lambda expressions and stream API.</p>\\n\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"python\": [\"Python\", \"<p>Compiled with <code>python 2.7.12</code>.</p>\\n\\n<p>Most libraries are already imported automatically for your convenience, such as <a href=\\\"https://docs.python.org/2/library/array.html\\\" target=\\\"_blank\\\">array</a>, <a href=\\\"https://docs.python.org/2/library/bisect.html\\\" target=\\\"_blank\\\">bisect</a>, <a href=\\\"https://docs.python.org/2/library/collections.html\\\" target=\\\"_blank\\\">collections</a>. If you need more libraries, you can import it yourself.</p>\\n\\n<p>Note that Python 2.7 <a href=\\\"https://www.python.org/dev/peps/pep-0373/\\\" target=\\\"_blank\\\">will not be maintained past 2020</a>. For the latest Python, please choose Python3 instead.</p>\"], \"c\": [\"C\", \"<p>Compiled with <code>gcc 8.2</code> using the gnu99 standard.</p>\\r\\n\\r\\n<p>Your code is compiled with level one optimization (<code>-O1</code>). <a href=\\\"https://github.com/google/sanitizers/wiki/AddressSanitizer\\\" target=\\\"_blank\\\">AddressSanitizer</a> is also enabled to help detect out-of-bounds and use-after-free bugs.</p>\\r\\n\\r\\n<p>Most standard library headers are already included automatically for your convenience.</p>\\r\\n\\r\\n<p>For hash table operations, you may use <a href=\\\"https://troydhanson.github.io/uthash/\\\" target=\\\"_blank\\\">uthash</a>. \\\"uthash.h\\\" is included by default. Below are some examples:</p>\\r\\n\\r\\n<p><b>1. Adding an item to a hash.</b>\\r\\n<pre>\\r\\nstruct hash_entry {\\r\\n    int id;            /* we'll use this field as the key */\\r\\n    char name[10];\\r\\n    UT_hash_handle hh; /* makes this structure hashable */\\r\\n};\\r\\n\\r\\nstruct hash_entry *users = NULL;\\r\\n\\r\\nvoid add_user(struct hash_entry *s) {\\r\\n    HASH_ADD_INT(users, id, s);\\r\\n}\\r\\n</pre>\\r\\n</p>\\r\\n\\r\\n<p><b>2. Looking up an item in a hash:</b>\\r\\n<pre>\\r\\nstruct hash_entry *find_user(int user_id) {\\r\\n    struct hash_entry *s;\\r\\n    HASH_FIND_INT(users, &user_id, s);\\r\\n    return s;\\r\\n}\\r\\n</pre>\\r\\n</p>\\r\\n\\r\\n<p><b>3. Deleting an item in a hash:</b>\\r\\n<pre>\\r\\nvoid delete_user(struct hash_entry *user) {\\r\\n    HASH_DEL(users, user);  \\r\\n}\\r\\n</pre>\\r\\n</p>\"], \"csharp\": [\"C#\", \"<p>Compiled with <code>mono 5.18.0</code> providing <a href=\\\"https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7\\\" target=\\\"_blank\\\">full support for C# 7</a>.</p>\\r\\n\\r\\n<p>Your code is compiled with debug flag enabled (<code>/debug</code>).</p>\"], \"javascript\": [\"JavaScript\", \"<p>Run with <code>nodejs 10.15.0</code>.</p>\\r\\n\\r\\n<p>Your code is run with <code>--harmony</code> flag, enabling <a href=\\\"http://node.green/\\\" target=\\\"_blank\\\">new ES6 features</a>.</p>\\r\\n\\r\\n<p><a href=\\\"https://lodash.com\\\" target=\\\"_blank\\\">lodash.js</a> library is included by default.</p>\"], \"ruby\": [\"Ruby\", \"<p>Run with <code>ruby 2.4.5</code>.</p>\"], \"swift\": [\"Swift\", \"<p>Compiled with <code>swift 5.0.1</code>.</p>\\r\\n\\r\\n<p>We usually keep up with the <a href=\\\"https://swift.org/download/\\\" target=\\\"_blank\\\">latest Swift released by Apple</a>, if not please let us know and we will update it as soon as possible!</p>\"], \"golang\": [\"Go\", \"<p>Compiled with <code>go 1.11.4</code>.</p>\"], \"python3\": [\"Python3\", \"<p>Run with <code>python 3.6</code>.</p>\\n\\n<p>Most libraries are already imported automatically for your convenience, such as <a href=\\\"https://docs.python.org/3/library/array.html\\\" target=\\\"_blank\\\">array</a>, <a href=\\\"https://docs.python.org/3/library/bisect.html\\\" target=\\\"_blank\\\">bisect</a>, <a href=\\\"https://docs.python.org/3/library/collections.html\\\" target=\\\"_blank\\\">collections</a>. If you need more libraries, you can import it yourself.</p>\"], \"scala\": [\"Scala\", \"<p>Compiled with <code>scala 2.11.12</code>.</p>\"], \"kotlin\": [\"Kotlin\", \"<p>Compiled with <code>kotlin 1.3.10</code>.</p>\"], \"rust\": [\"Rust\", \"<p>Compiled with <code>rust 1.31.0 (edition = 2018)</code></p>\\r\\n\\r\\n<p>Supports <a href=\\\"https://crates.io/crates/rand\\\" target=\\\"_blank\\\">rand</a>\\u00a0from crates.io</p>\"], \"php\": [\"PHP\", \"<p>Run with <code>PHP 7.2</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

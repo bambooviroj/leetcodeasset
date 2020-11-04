@@ -1,1 +1,70 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE4MCIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE4MCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJDb25zZWN1dGl2ZSBOdW1iZXJzIiwKICAgICJ0aXRsZVNsdWciOiAiY29uc2VjdXRpdmUtbnVtYmVycyIsCiAgICAiY29udGVudCI6ICI8cD5Xcml0ZSBhIFNRTCBxdWVyeSB0byBmaW5kIGFsbCBudW1iZXJzIHRoYXQgYXBwZWFyIGF0IGxlYXN0IHRocmVlIHRpbWVzIGNvbnNlY3V0aXZlbHkuPC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0rLS0tLS0rXHJcbnwgSWQgfCBOdW0gfFxyXG4rLS0tLSstLS0tLStcclxufCAxICB8ICAxICB8XHJcbnwgMiAgfCAgMSAgfFxyXG58IDMgIHwgIDEgIHxcclxufCA0ICB8ICAyICB8XHJcbnwgNSAgfCAgMSAgfFxyXG58IDYgIHwgIDIgIHxcclxufCA3ICB8ICAyICB8XHJcbistLS0tKy0tLS0tK1xyXG48L3ByZT5cclxuXHJcbjxwPkZvciBleGFtcGxlLCBnaXZlbiB0aGUgYWJvdmUgPGNvZGU+TG9nczwvY29kZT4gdGFibGUsIDxjb2RlPjE8L2NvZGU+IGlzIHRoZSBvbmx5IG51bWJlciB0aGF0IGFwcGVhcnMgY29uc2VjdXRpdmVseSBmb3IgYXQgbGVhc3QgdGhyZWUgdGltZXMuPC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0tLS0tLS0tLS0tLS0tK1xyXG58IENvbnNlY3V0aXZlTnVtcyB8XHJcbistLS0tLS0tLS0tLS0tLS0tLStcclxufCAxICAgICAgICAgICAgICAgfFxyXG4rLS0tLS0tLS0tLS0tLS0tLS0rXHJcbjwvcHJlPlxyXG4iLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiBmYWxzZSwKICAgICJkaWZmaWN1bHR5IjogIk1lZGl1bSIsCiAgICAibGlrZXMiOiAyNzksCiAgICAiZGlzbGlrZXMiOiA2NywKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIltdIiwKICAgICJjb250cmlidXRvcnMiOiBbXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiAie1wiY3BwXCI6IGZhbHNlLCBcImphdmFcIjogZmFsc2UsIFwicHl0aG9uXCI6IGZhbHNlLCBcInB5dGhvbjNcIjogZmFsc2UsIFwibXlzcWxcIjogZmFsc2UsIFwibXNzcWxcIjogZmFsc2UsIFwib3JhY2xlc3FsXCI6IGZhbHNlLCBcImNcIjogZmFsc2UsIFwiY3NoYXJwXCI6IGZhbHNlLCBcImphdmFzY3JpcHRcIjogZmFsc2UsIFwicnVieVwiOiBmYWxzZSwgXCJiYXNoXCI6IGZhbHNlLCBcInN3aWZ0XCI6IGZhbHNlLCBcImdvbGFuZ1wiOiBmYWxzZSwgXCJzY2FsYVwiOiBmYWxzZSwgXCJodG1sXCI6IGZhbHNlLCBcInB5dGhvbm1sXCI6IGZhbHNlLCBcImtvdGxpblwiOiBmYWxzZSwgXCJydXN0XCI6IGZhbHNlLCBcInBocFwiOiBmYWxzZX0iLAogICAgInRvcGljVGFncyI6IFtdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogWwogICAgICB7CiAgICAgICAgImxhbmciOiAiTXlTUUwiLAogICAgICAgICJsYW5nU2x1ZyI6ICJteXNxbCIsCiAgICAgICAgImNvZGUiOiAiIyBXcml0ZSB5b3VyIE15U1FMIHF1ZXJ5IHN0YXRlbWVudCBiZWxvd1xuIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJNUyBTUUwgU2VydmVyIiwKICAgICAgICAibGFuZ1NsdWciOiAibXNzcWwiLAogICAgICAgICJjb2RlIjogIi8qIFdyaXRlIHlvdXIgVC1TUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93ICovXG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIk9yYWNsZSIsCiAgICAgICAgImxhbmdTbHVnIjogIm9yYWNsZXNxbCIsCiAgICAgICAgImNvZGUiOiAiLyogV3JpdGUgeW91ciBQTC9TUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93ICovXG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfQogICAgXSwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiNjEuM0tcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIxNzUuN0tcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDYxMjcwLCBcInRvdGFsU3VibWlzc2lvblJhd1wiOiAxNzU2NjUsIFwiYWNSYXRlXCI6IFwiMzQuOSVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICIyMTYiLAogICAgICAiY2FuU2VlRGV0YWlsIjogdHJ1ZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOiB7XCJMb2dzXCI6IFtcIklkXCIsIFwiTnVtXCJdfSwgXCJyb3dzXCI6IHtcIkxvZ3NcIjogW1sxLCAxXSwgWzIsIDFdLCBbMywgMV0sIFs0LCAyXSwgWzUsIDFdLCBbNiwgMl0sIFs3LCAyXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xuICBcIm15c3FsXCI6IFtcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIExvZ3MgKElkIGludCwgTnVtIGludClcIlxuICBdLFxuICBcIm1zc3FsXCI6IFtcbiAgICBcImNyZWF0ZSB0YWJsZSBMb2dzICggSWQgaW50LCBOdW0gaW50IClcIlxuICBdLFxuICBcIm9yYWNsZXNxbFwiOiBbXG4gICAgXCJjcmVhdGUgdGFibGUgTG9ncyAoIElkIGludCwgTnVtIGludCApXCJcbiAgXSxcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogWwogICAgICAiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgTG9ncyAoSWQgaW50LCBOdW0gaW50KSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBMb2dzIiwKICAgICAgImluc2VydCBpbnRvIExvZ3MgKElkLCBOdW0pIHZhbHVlcyAoJzEnLCAnMScpIiwKICAgICAgImluc2VydCBpbnRvIExvZ3MgKElkLCBOdW0pIHZhbHVlcyAoJzInLCAnMScpIiwKICAgICAgImluc2VydCBpbnRvIExvZ3MgKElkLCBOdW0pIHZhbHVlcyAoJzMnLCAnMScpIiwKICAgICAgImluc2VydCBpbnRvIExvZ3MgKElkLCBOdW0pIHZhbHVlcyAoJzQnLCAnMicpIiwKICAgICAgImluc2VydCBpbnRvIExvZ3MgKElkLCBOdW0pIHZhbHVlcyAoJzUnLCAnMScpIiwKICAgICAgImluc2VydCBpbnRvIExvZ3MgKElkLCBOdW0pIHZhbHVlcyAoJzYnLCAnMicpIiwKICAgICAgImluc2VydCBpbnRvIExvZ3MgKElkLCBOdW0pIHZhbHVlcyAoJzcnLCAnMicpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "180",
+    "questionFrontendId": "180",
+    "boundTopicId": null,
+    "title": "Consecutive Numbers",
+    "titleSlug": "consecutive-numbers",
+    "content": "<p>Write a SQL query to find all numbers that appear at least three times consecutively.</p>\r\n\r\n<pre>\r\n+----+-----+\r\n| Id | Num |\r\n+----+-----+\r\n| 1  |  1  |\r\n| 2  |  1  |\r\n| 3  |  1  |\r\n| 4  |  2  |\r\n| 5  |  1  |\r\n| 6  |  2  |\r\n| 7  |  2  |\r\n+----+-----+\r\n</pre>\r\n\r\n<p>For example, given the above <code>Logs</code> table, <code>1</code> is the only number that appears consecutively for at least three times.</p>\r\n\r\n<pre>\r\n+-----------------+\r\n| ConsecutiveNums |\r\n+-----------------+\r\n| 1               |\r\n+-----------------+\r\n</pre>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Medium",
+    "likes": 279,
+    "dislikes": 67,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"61.3K\", \"totalSubmission\": \"175.7K\", \"totalAcceptedRaw\": 61270, \"totalSubmissionRaw\": 175665, \"acRate\": \"34.9%\"}",
+    "hints": [],
+    "solution": {
+      "id": "216",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Logs\": [\"Id\", \"Num\"]}, \"rows\": {\"Logs\": [[1, 1], [2, 1], [3, 1], [4, 2], [5, 1], [6, 2], [7, 2]]}}",
+    "metaData": "{\n  \"mysql\": [\n    \"Create table If Not Exists Logs (Id int, Num int)\"\n  ],\n  \"mssql\": [\n    \"create table Logs ( Id int, Num int )\"\n  ],\n  \"oraclesql\": [\n    \"create table Logs ( Id int, Num int )\"\n  ],\n  \"database\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Logs (Id int, Num int)",
+      "Truncate table Logs",
+      "insert into Logs (Id, Num) values ('1', '1')",
+      "insert into Logs (Id, Num) values ('2', '1')",
+      "insert into Logs (Id, Num) values ('3', '1')",
+      "insert into Logs (Id, Num) values ('4', '2')",
+      "insert into Logs (Id, Num) values ('5', '1')",
+      "insert into Logs (Id, Num) values ('6', '2')",
+      "insert into Logs (Id, Num) values ('7', '2')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

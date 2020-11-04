@@ -1,1 +1,44 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE5MiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE5MiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJXb3JkIEZyZXF1ZW5jeSIsCiAgICAidGl0bGVTbHVnIjogIndvcmQtZnJlcXVlbmN5IiwKICAgICJjb250ZW50IjogIjxwPldyaXRlIGEgYmFzaCBzY3JpcHQgdG8gY2FsY3VsYXRlIHRoZSBmcmVxdWVuY3kgb2YgZWFjaCB3b3JkIGluIGEgdGV4dCBmaWxlIDxjb2RlPndvcmRzLnR4dDwvY29kZT4uPC9wPlxyXG5cclxuPHA+Rm9yIHNpbXBsaWNpdHkgc2FrZSwgeW91IG1heSBhc3N1bWU6PC9wPlxyXG5cclxuPHVsPlxyXG5cdDxsaT48Y29kZT53b3Jkcy50eHQ8L2NvZGU+IGNvbnRhaW5zIG9ubHkgbG93ZXJjYXNlIGNoYXJhY3RlcnMgYW5kIHNwYWNlIDxjb2RlPiYjMzk7ICYjMzk7PC9jb2RlPiBjaGFyYWN0ZXJzLjwvbGk+XHJcblx0PGxpPkVhY2ggd29yZCBtdXN0IGNvbnNpc3Qgb2YgbG93ZXJjYXNlIGNoYXJhY3RlcnMgb25seS48L2xpPlxyXG5cdDxsaT5Xb3JkcyBhcmUgc2VwYXJhdGVkIGJ5IG9uZSBvciBtb3JlIHdoaXRlc3BhY2UgY2hhcmFjdGVycy48L2xpPlxyXG48L3VsPlxyXG5cclxuPHA+PHN0cm9uZz5FeGFtcGxlOjwvc3Ryb25nPjwvcD5cclxuXHJcbjxwPkFzc3VtZSB0aGF0IDxjb2RlPndvcmRzLnR4dDwvY29kZT4gaGFzIHRoZSBmb2xsb3dpbmcgY29udGVudDo8L3A+XHJcblxyXG48cHJlPlxyXG50aGUgZGF5IGlzIHN1bm55IHRoZSB0aGVcclxudGhlIHN1bm55IGlzIGlzXHJcbjwvcHJlPlxyXG5cclxuPHA+WW91ciBzY3JpcHQgc2hvdWxkIG91dHB1dCB0aGUgZm9sbG93aW5nLCBzb3J0ZWQgYnkgZGVzY2VuZGluZyBmcmVxdWVuY3k6PC9wPlxyXG5cclxuPHByZT5cclxudGhlIDRcclxuaXMgM1xyXG5zdW5ueSAyXHJcbmRheSAxXHJcbjwvcHJlPlxyXG5cclxuPHA+PGI+Tm90ZTo8L2I+PC9wPlxyXG5cclxuPHVsPlxyXG5cdDxsaT5Eb24mIzM5O3Qgd29ycnkgYWJvdXQgaGFuZGxpbmcgdGllcywgaXQgaXMgZ3VhcmFudGVlZCB0aGF0IGVhY2ggd29yZCYjMzk7cyBmcmVxdWVuY3kgY291bnQgaXMgdW5pcXVlLjwvbGk+XHJcblx0PGxpPkNvdWxkIHlvdSB3cml0ZSBpdCBpbiBvbmUtbGluZSB1c2luZyA8YSBocmVmPVwiaHR0cDovL3RsZHAub3JnL0hPV1RPL0Jhc2gtUHJvZy1JbnRyby1IT1dUTy00Lmh0bWxcIj5Vbml4IHBpcGVzPC9hPj88L2xpPlxyXG48L3VsPlxyXG4iLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiBmYWxzZSwKICAgICJkaWZmaWN1bHR5IjogIk1lZGl1bSIsCiAgICAibGlrZXMiOiAxNDcsCiAgICAiZGlzbGlrZXMiOiA4MSwKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIlt7XCJ0aXRsZVwiOiBcIlRvcCBLIEZyZXF1ZW50IEVsZW1lbnRzXCIsIFwidGl0bGVTbHVnXCI6IFwidG9wLWstZnJlcXVlbnQtZWxlbWVudHNcIiwgXCJkaWZmaWN1bHR5XCI6IFwiTWVkaXVtXCIsIFwidHJhbnNsYXRlZFRpdGxlXCI6IG51bGx9XSIsCiAgICAiY29udHJpYnV0b3JzIjogW10sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogIntcImNwcFwiOiBmYWxzZSwgXCJqYXZhXCI6IGZhbHNlLCBcInB5dGhvblwiOiBmYWxzZSwgXCJweXRob24zXCI6IGZhbHNlLCBcIm15c3FsXCI6IGZhbHNlLCBcIm1zc3FsXCI6IGZhbHNlLCBcIm9yYWNsZXNxbFwiOiBmYWxzZSwgXCJjXCI6IGZhbHNlLCBcImNzaGFycFwiOiBmYWxzZSwgXCJqYXZhc2NyaXB0XCI6IGZhbHNlLCBcInJ1YnlcIjogZmFsc2UsIFwiYmFzaFwiOiBmYWxzZSwgXCJzd2lmdFwiOiBmYWxzZSwgXCJnb2xhbmdcIjogZmFsc2UsIFwic2NhbGFcIjogZmFsc2UsIFwiaHRtbFwiOiBmYWxzZSwgXCJweXRob25tbFwiOiBmYWxzZSwgXCJrb3RsaW5cIjogZmFsc2UsIFwicnVzdFwiOiBmYWxzZSwgXCJwaHBcIjogZmFsc2V9IiwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IFsKICAgICAgewogICAgICAgICJsYW5nIjogIkJhc2giLAogICAgICAgICJsYW5nU2x1ZyI6ICJiYXNoIiwKICAgICAgICAiY29kZSI6ICIjIFJlYWQgZnJvbSB0aGUgZmlsZSB3b3Jkcy50eHQgYW5kIG91dHB1dCB0aGUgd29yZCBmcmVxdWVuY3kgbGlzdCB0byBzdGRvdXQuXHJcbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9CiAgICBdLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCIyMC42S1wiLCBcInRvdGFsU3VibWlzc2lvblwiOiBcIjc2LjlLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiAyMDY0NSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogNzY4NTIsIFwiYWNSYXRlXCI6IFwiMjYuOSVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiBudWxsLAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAiYSIsCiAgICAibWV0YURhdGEiOiAie1xuICBcInNoZWxsXCI6IHRydWUsXG4gIFwibWFudWFsXCI6IHRydWVcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbXSwKICAgICJlbmFibGVSdW5Db2RlIjogZmFsc2UsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcImJhc2hcIjogW1wiQmFzaFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPmJhc2ggNC4zLjMwPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "192",
+    "questionFrontendId": "192",
+    "boundTopicId": null,
+    "title": "Word Frequency",
+    "titleSlug": "word-frequency",
+    "content": "<p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>\r\n\r\n<p>For simplicity sake, you may assume:</p>\r\n\r\n<ul>\r\n\t<li><code>words.txt</code> contains only lowercase characters and space <code>&#39; &#39;</code> characters.</li>\r\n\t<li>Each word must consist of lowercase characters only.</li>\r\n\t<li>Words are separated by one or more whitespace characters.</li>\r\n</ul>\r\n\r\n<p><strong>Example:</strong></p>\r\n\r\n<p>Assume that <code>words.txt</code> has the following content:</p>\r\n\r\n<pre>\r\nthe day is sunny the the\r\nthe sunny is is\r\n</pre>\r\n\r\n<p>Your script should output the following, sorted by descending frequency:</p>\r\n\r\n<pre>\r\nthe 4\r\nis 3\r\nsunny 2\r\nday 1\r\n</pre>\r\n\r\n<p><b>Note:</b></p>\r\n\r\n<ul>\r\n\t<li>Don&#39;t worry about handling ties, it is guaranteed that each word&#39;s frequency count is unique.</li>\r\n\t<li>Could you write it in one-line using <a href=\"http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-4.html\">Unix pipes</a>?</li>\r\n</ul>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Medium",
+    "likes": 147,
+    "dislikes": 81,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Top K Frequent Elements\", \"titleSlug\": \"top-k-frequent-elements\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "Bash",
+        "langSlug": "bash",
+        "code": "# Read from the file words.txt and output the word frequency list to stdout.\r\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"20.6K\", \"totalSubmission\": \"76.9K\", \"totalAcceptedRaw\": 20645, \"totalSubmissionRaw\": 76852, \"acRate\": \"26.9%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "a",
+    "metaData": "{\n  \"shell\": true,\n  \"manual\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": false,
+    "enableTestMode": false,
+    "envInfo": "{\"bash\": [\"Bash\", \"<p>Run with <code>bash 4.3.30</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

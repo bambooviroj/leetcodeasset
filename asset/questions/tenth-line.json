@@ -1,1 +1,44 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE5NSIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE5NSIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJUZW50aCBMaW5lIiwKICAgICJ0aXRsZVNsdWciOiAidGVudGgtbGluZSIsCiAgICAiY29udGVudCI6ICI8cD5HaXZlbiBhIHRleHQgZmlsZSZuYnNwOzxjb2RlPmZpbGUudHh0PC9jb2RlPiwgcHJpbnQmbmJzcDtqdXN0IHRoZSAxMHRoIGxpbmUgb2YgdGhlJm5ic3A7ZmlsZS48L3A+XHJcblxyXG48cD48c3Ryb25nPkV4YW1wbGU6PC9zdHJvbmc+PC9wPlxyXG5cclxuPHA+QXNzdW1lIHRoYXQgPGNvZGU+ZmlsZS50eHQ8L2NvZGU+IGhhcyB0aGUgZm9sbG93aW5nIGNvbnRlbnQ6PC9wPlxyXG5cclxuPHByZT5cclxuTGluZSAxXHJcbkxpbmUgMlxyXG5MaW5lIDNcclxuTGluZSA0XHJcbkxpbmUgNVxyXG5MaW5lIDZcclxuTGluZSA3XHJcbkxpbmUgOFxyXG5MaW5lIDlcclxuTGluZSAxMFxyXG48L3ByZT5cclxuXHJcbjxwPllvdXIgc2NyaXB0IHNob3VsZCBvdXRwdXQgdGhlIHRlbnRoIGxpbmUsIHdoaWNoIGlzOjwvcD5cclxuXHJcbjxwcmU+XHJcbkxpbmUgMTBcclxuPC9wcmU+XHJcblxyXG48ZGl2IGNsYXNzPVwic3BvaWxlcnNcIj48Yj5Ob3RlOjwvYj48YnIgLz5cclxuMS4gSWYgdGhlIGZpbGUgY29udGFpbnMgbGVzcyB0aGFuIDEwIGxpbmVzLCB3aGF0IHNob3VsZCB5b3Ugb3V0cHV0PzxiciAvPlxyXG4yLiBUaGVyZSYjMzk7cyBhdCBsZWFzdCB0aHJlZSBkaWZmZXJlbnQgc29sdXRpb25zLiBUcnkgdG8gZXhwbG9yZSBhbGwgcG9zc2liaWxpdGllcy48L2Rpdj5cclxuIiwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogZmFsc2UsCiAgICAiZGlmZmljdWx0eSI6ICJFYXN5IiwKICAgICJsaWtlcyI6IDEyOCwKICAgICJkaXNsaWtlcyI6IDExNiwKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIltdIiwKICAgICJjb250cmlidXRvcnMiOiBbXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiAie1wiY3BwXCI6IGZhbHNlLCBcImphdmFcIjogZmFsc2UsIFwicHl0aG9uXCI6IGZhbHNlLCBcInB5dGhvbjNcIjogZmFsc2UsIFwibXlzcWxcIjogZmFsc2UsIFwibXNzcWxcIjogZmFsc2UsIFwib3JhY2xlc3FsXCI6IGZhbHNlLCBcImNcIjogZmFsc2UsIFwiY3NoYXJwXCI6IGZhbHNlLCBcImphdmFzY3JpcHRcIjogZmFsc2UsIFwicnVieVwiOiBmYWxzZSwgXCJiYXNoXCI6IGZhbHNlLCBcInN3aWZ0XCI6IGZhbHNlLCBcImdvbGFuZ1wiOiBmYWxzZSwgXCJzY2FsYVwiOiBmYWxzZSwgXCJodG1sXCI6IGZhbHNlLCBcInB5dGhvbm1sXCI6IGZhbHNlLCBcImtvdGxpblwiOiBmYWxzZSwgXCJydXN0XCI6IGZhbHNlLCBcInBocFwiOiBmYWxzZX0iLAogICAgInRvcGljVGFncyI6IFtdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogWwogICAgICB7CiAgICAgICAgImxhbmciOiAiQmFzaCIsCiAgICAgICAgImxhbmdTbHVnIjogImJhc2giLAogICAgICAgICJjb2RlIjogIiMgUmVhZCBmcm9tIHRoZSBmaWxlIGZpbGUudHh0IGFuZCBvdXRwdXQgdGhlIHRlbnRoIGxpbmUgdG8gc3Rkb3V0LlxyXG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfQogICAgXSwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiNDJLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMTI0LjFLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiA0MjAzMiwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMTI0MTAxLCBcImFjUmF0ZVwiOiBcIjMzLjklXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogbnVsbCwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIkxpbmUgMVxcbkxpbmUgMlxcbkxpbmUgM1xcbkxpbmUgNFxcbkxpbmUgNVxcbkxpbmUgNlxcbkxpbmUgN1xcbkxpbmUgOFxcbkxpbmUgOVxcbkxpbmUgMTAiLAogICAgIm1ldGFEYXRhIjogIntcbiAgXCJzaGVsbFwiOiB0cnVlLFxuICBcIm1hbnVhbFwiOiB0cnVlXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogW10sCiAgICAiZW5hYmxlUnVuQ29kZSI6IGZhbHNlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJiYXNoXCI6IFtcIkJhc2hcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5iYXNoIDQuMy4zMDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "195",
+    "questionFrontendId": "195",
+    "boundTopicId": null,
+    "title": "Tenth Line",
+    "titleSlug": "tenth-line",
+    "content": "<p>Given a text file&nbsp;<code>file.txt</code>, print&nbsp;just the 10th line of the&nbsp;file.</p>\r\n\r\n<p><strong>Example:</strong></p>\r\n\r\n<p>Assume that <code>file.txt</code> has the following content:</p>\r\n\r\n<pre>\r\nLine 1\r\nLine 2\r\nLine 3\r\nLine 4\r\nLine 5\r\nLine 6\r\nLine 7\r\nLine 8\r\nLine 9\r\nLine 10\r\n</pre>\r\n\r\n<p>Your script should output the tenth line, which is:</p>\r\n\r\n<pre>\r\nLine 10\r\n</pre>\r\n\r\n<div class=\"spoilers\"><b>Note:</b><br />\r\n1. If the file contains less than 10 lines, what should you output?<br />\r\n2. There&#39;s at least three different solutions. Try to explore all possibilities.</div>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 128,
+    "dislikes": 116,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "Bash",
+        "langSlug": "bash",
+        "code": "# Read from the file file.txt and output the tenth line to stdout.\r\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"42K\", \"totalSubmission\": \"124.1K\", \"totalAcceptedRaw\": 42032, \"totalSubmissionRaw\": 124101, \"acRate\": \"33.9%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "Line 1\\nLine 2\\nLine 3\\nLine 4\\nLine 5\\nLine 6\\nLine 7\\nLine 8\\nLine 9\\nLine 10",
+    "metaData": "{\n  \"shell\": true,\n  \"manual\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": false,
+    "enableTestMode": false,
+    "envInfo": "{\"bash\": [\"Bash\", \"<p>Run with <code>bash 4.3.30</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

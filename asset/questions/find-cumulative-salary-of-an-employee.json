@@ -1,1 +1,64 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjU3OSIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjU3OSIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJGaW5kIEN1bXVsYXRpdmUgU2FsYXJ5IG9mIGFuIEVtcGxveWVlIiwKICAgICJ0aXRsZVNsdWciOiAiZmluZC1jdW11bGF0aXZlLXNhbGFyeS1vZi1hbi1lbXBsb3llZSIsCiAgICAiY29udGVudCI6IG51bGwsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IHRydWUsCiAgICAiZGlmZmljdWx0eSI6ICJIYXJkIiwKICAgICJsaWtlcyI6IDUzLAogICAgImRpc2xpa2VzIjogNjUsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogWwogICAgICB7CiAgICAgICAgInVzZXJuYW1lIjogImljaGFuZ2ltYXRoIiwKICAgICAgICAicHJvZmlsZVVybCI6ICIvaWNoYW5naW1hdGgvIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvODA3YWNiOGIyMjc5MDdkYmFhNGVkODRlMDI0MTE3MTkucG5nP3M9MjAwIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjUuNEtcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIxNS43S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogNTQzNSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMTU2NTEsIFwiYWNSYXRlXCI6IFwiMzQuNyVcIn0iLAogICAgImhpbnRzIjogWwogICAgICAiU2VlbSBoYXJkIGF0IGZpcnN0IGdsYW5jZT8gVHJ5IHRvIGRpdmlkZSB0aGlzIHByb2JsZW0gaW50byBzb21lIHN1Yi1wcm9ibGVtcy4gXHJcblRoaW5rIGFib3V0IGhvdyB0byBjYWxjdWxhdGUgdGhlIGN1bXVsYXRpdmUgc3VtIG9mIG9uZSBlbXBsb3llZSwgaG93IHRvIGdldCB0aGUgY3VtdWxhdGl2ZSBzdW0gZm9yIG1hbnkgZW1wbG95ZWVzLCBhbmQgaG93IHRvIGV4Y2VwdCB0aGUgbW9zdCByZWNlbnQgbW9udGggb2YgdGhlIHJlc3VsdC4iLAogICAgICAiVXNlIHRoZSB0ZWNobmlxdWUgb2Ygc2VsZi1qb2luIGlmIHlvdSBoYXZlIG9ubHkgb25lIHRhYmxlIGJ1dCB0byB3cml0ZSBhIGNvbXBsZXggcXVlcnkuIiwKICAgICAgIlN0aWxsIHJlbWVtYmVyIGhvdyB0byB1c2UgdGhlIGZ1bmN0aW9uIGBzdW1gIGFuZCBgbWF4YD8iCiAgICBdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMjA3IiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjoge1wiRW1wbG95ZWVcIjogW1wiSWRcIiwgXCJNb250aFwiLCBcIlNhbGFyeVwiXX0sIFwicm93c1wiOiB7XCJFbXBsb3llZVwiOiBbWzEsIDEsIDIwXSwgWzIsIDEsIDIwXSwgWzEsIDIsIDMwXSwgWzIsIDIsIDMwXSwgWzMsMiw0MF0sWzEsMyw0MF0sIFszLDMsNjBdLFsxLDQsNjBdLFszLDQsNzBdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIEVtcGxveWVlIChJZCBpbnQsIE1vbnRoIGludCwgU2FsYXJ5IGludClcIlxyXG4gIF0sXHJcbiAgXCJtc3NxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBFbXBsb3llZSAoSWQgaW50LCBNb250aCBpbnQsIFNhbGFyeSBpbnQpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIEVtcGxveWVlIChJZCBpbnQsIE1vbnRoIGludCwgU2FsYXJ5IGludClcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBFbXBsb3llZSAoSWQgaW50LCBNb250aCBpbnQsIFNhbGFyeSBpbnQpIiwKICAgICAgIlRydW5jYXRlIHRhYmxlIEVtcGxveWVlIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgTW9udGgsIFNhbGFyeSkgdmFsdWVzICgnMScsICcxJywgJzIwJykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBNb250aCwgU2FsYXJ5KSB2YWx1ZXMgKCcyJywgJzEnLCAnMjAnKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIE1vbnRoLCBTYWxhcnkpIHZhbHVlcyAoJzEnLCAnMicsICczMCcpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgTW9udGgsIFNhbGFyeSkgdmFsdWVzICgnMicsICcyJywgJzMwJykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBNb250aCwgU2FsYXJ5KSB2YWx1ZXMgKCczJywgJzInLCAnNDAnKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIE1vbnRoLCBTYWxhcnkpIHZhbHVlcyAoJzEnLCAnMycsICc0MCcpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgTW9udGgsIFNhbGFyeSkgdmFsdWVzICgnMycsICczJywgJzYwJykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBNb250aCwgU2FsYXJ5KSB2YWx1ZXMgKCcxJywgJzQnLCAnNjAnKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIE1vbnRoLCBTYWxhcnkpIHZhbHVlcyAoJzMnLCAnNCcsICc3MCcpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "579",
+    "questionFrontendId": "579",
+    "boundTopicId": null,
+    "title": "Find Cumulative Salary of an Employee",
+    "titleSlug": "find-cumulative-salary-of-an-employee",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Hard",
+    "likes": 53,
+    "dislikes": 65,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "ichangimath",
+        "profileUrl": "/ichangimath/",
+        "avatarUrl": "https://www.gravatar.com/avatar/807acb8b227907dbaa4ed84e02411719.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"5.4K\", \"totalSubmission\": \"15.7K\", \"totalAcceptedRaw\": 5435, \"totalSubmissionRaw\": 15651, \"acRate\": \"34.7%\"}",
+    "hints": [
+      "Seem hard at first glance? Try to divide this problem into some sub-problems. \r\nThink about how to calculate the cumulative sum of one employee, how to get the cumulative sum for many employees, and how to except the most recent month of the result.",
+      "Use the technique of self-join if you have only one table but to write a complex query.",
+      "Still remember how to use the function `sum` and `max`?"
+    ],
+    "solution": {
+      "id": "207",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Employee\": [\"Id\", \"Month\", \"Salary\"]}, \"rows\": {\"Employee\": [[1, 1, 20], [2, 1, 20], [1, 2, 30], [2, 2, 30], [3,2,40],[1,3,40], [3,3,60],[1,4,60],[3,4,70]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists Employee (Id int, Month int, Salary int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table Employee (Id int, Month int, Salary int)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table Employee (Id int, Month int, Salary int)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Employee (Id int, Month int, Salary int)",
+      "Truncate table Employee",
+      "insert into Employee (Id, Month, Salary) values ('1', '1', '20')",
+      "insert into Employee (Id, Month, Salary) values ('2', '1', '20')",
+      "insert into Employee (Id, Month, Salary) values ('1', '2', '30')",
+      "insert into Employee (Id, Month, Salary) values ('2', '2', '30')",
+      "insert into Employee (Id, Month, Salary) values ('3', '2', '40')",
+      "insert into Employee (Id, Month, Salary) values ('1', '3', '40')",
+      "insert into Employee (Id, Month, Salary) values ('3', '3', '60')",
+      "insert into Employee (Id, Month, Salary) values ('1', '4', '60')",
+      "insert into Employee (Id, Month, Salary) values ('3', '4', '70')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

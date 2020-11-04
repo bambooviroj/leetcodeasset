@@ -1,1 +1,51 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYxNCIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYxNCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJTZWNvbmQgRGVncmVlIEZvbGxvd2VyIiwKICAgICJ0aXRsZVNsdWciOiAic2Vjb25kLWRlZ3JlZS1mb2xsb3dlciIsCiAgICAiY29udGVudCI6IG51bGwsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IHRydWUsCiAgICAiZGlmZmljdWx0eSI6ICJNZWRpdW0iLAogICAgImxpa2VzIjogMzAsCiAgICAiZGlzbGlrZXMiOiAzMTQsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogWwogICAgICB7CiAgICAgICAgInVzZXJuYW1lIjogIkRvdWdsYXMxNjEyIiwKICAgICAgICAicHJvZmlsZVVybCI6ICIvZG91Z2xhczE2MTIvIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvOGU2MGE0YjU5NmI3YThiYTExOGM3NzZiYWMyYTBiMDQucG5nP3M9MjAwIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjguM0tcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIzNi40S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogODMzNCwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMzYzNjUsIFwiYWNSYXRlXCI6IFwiMjIuOSVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiBudWxsLAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOntcImZvbGxvd1wiOltcImZvbGxvd2VlXCIsIFwiZm9sbG93ZXJcIl19LFwicm93c1wiOntcImZvbGxvd1wiOltbXCJBXCIsIFwiQlwiXSwgW1wiQlwiLCBcIkNcIl0sIFtcIkJcIiwgXCJEXCJdLCBbXCJEXCIsIFwiRVwiXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xyXG4gIFwibXlzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBmb2xsb3cgKGZvbGxvd2VlIHZhcmNoYXIoMjU1KSwgZm9sbG93ZXIgdmFyY2hhcigyNTUpKVwiXHJcbiAgXSxcclxuICBcIm1zc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIGZvbGxvdyAoZm9sbG93ZWUgdmFyY2hhcigyNTUpLCBmb2xsb3dlciB2YXJjaGFyKDI1NSkpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIGZvbGxvdyAoZm9sbG93ZWUgdmFyY2hhcigyNTUpLCBmb2xsb3dlciB2YXJjaGFyKDI1NSkpXCJcclxuICBdLFxyXG4gIFwiZGF0YWJhc2VcIjogdHJ1ZVxyXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogWwogICAgICAiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgZm9sbG93IChmb2xsb3dlZSB2YXJjaGFyKDI1NSksIGZvbGxvd2VyIHZhcmNoYXIoMjU1KSkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgZm9sbG93IiwKICAgICAgImluc2VydCBpbnRvIGZvbGxvdyAoZm9sbG93ZWUsIGZvbGxvd2VyKSB2YWx1ZXMgKCdBJywgJ0InKSIsCiAgICAgICJpbnNlcnQgaW50byBmb2xsb3cgKGZvbGxvd2VlLCBmb2xsb3dlcikgdmFsdWVzICgnQicsICdDJykiLAogICAgICAiaW5zZXJ0IGludG8gZm9sbG93IChmb2xsb3dlZSwgZm9sbG93ZXIpIHZhbHVlcyAoJ0InLCAnRCcpIiwKICAgICAgImluc2VydCBpbnRvIGZvbGxvdyAoZm9sbG93ZWUsIGZvbGxvd2VyKSB2YWx1ZXMgKCdEJywgJ0UnKSIKICAgIF0sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcIm15c3FsXCI6IFtcIk15U1FMXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXlzcWwtc2VydmVyIDUuNy4yMTwvY29kZT4uPC9wPlwiXSwgXCJtc3NxbFwiOiBbXCJNUyBTUUwgU2VydmVyXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXNzcWw8L2NvZGU+LjwvcD5cIl0sIFwib3JhY2xlc3FsXCI6IFtcIk9yYWNsZVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm9yYWNsZSBzcWw8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "614",
+    "questionFrontendId": "614",
+    "boundTopicId": null,
+    "title": "Second Degree Follower",
+    "titleSlug": "second-degree-follower",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Medium",
+    "likes": 30,
+    "dislikes": 314,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Douglas1612",
+        "profileUrl": "/douglas1612/",
+        "avatarUrl": "https://www.gravatar.com/avatar/8e60a4b596b7a8ba118c776bac2a0b04.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"8.3K\", \"totalSubmission\": \"36.4K\", \"totalAcceptedRaw\": 8334, \"totalSubmissionRaw\": 36365, \"acRate\": \"22.9%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"follow\":[\"followee\", \"follower\"]},\"rows\":{\"follow\":[[\"A\", \"B\"], [\"B\", \"C\"], [\"B\", \"D\"], [\"D\", \"E\"]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists follow (followee varchar(255), follower varchar(255))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table follow (followee varchar(255), follower varchar(255))\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table follow (followee varchar(255), follower varchar(255))\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists follow (followee varchar(255), follower varchar(255))",
+      "Truncate table follow",
+      "insert into follow (followee, follower) values ('A', 'B')",
+      "insert into follow (followee, follower) values ('B', 'C')",
+      "insert into follow (followee, follower) values ('B', 'D')",
+      "insert into follow (followee, follower) values ('D', 'E')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

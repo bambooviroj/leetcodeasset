@@ -1,1 +1,57 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjU4NSIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjU4NSIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJJbnZlc3RtZW50cyBpbiAyMDE2IiwKICAgICJ0aXRsZVNsdWciOiAiaW52ZXN0bWVudHMtaW4tMjAxNiIsCiAgICAiY29udGVudCI6IG51bGwsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IHRydWUsCiAgICAiZGlmZmljdWx0eSI6ICJNZWRpdW0iLAogICAgImxpa2VzIjogNTksCiAgICAiZGlzbGlrZXMiOiA0NCwKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIltdIiwKICAgICJjb250cmlidXRvcnMiOiBbCiAgICAgIHsKICAgICAgICAidXNlcm5hbWUiOiAiTXItQmluIiwKICAgICAgICAicHJvZmlsZVVybCI6ICIvbXItYmluLyIsCiAgICAgICAgImF2YXRhclVybCI6ICJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvbXItYmluL2F2YXRhcl8xNTQ3NjU1MzA0LnBuZyIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29udHJpYnV0b3JOb2RlIgogICAgICB9CiAgICBdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6IG51bGwsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBudWxsLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCI5LjJLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMTguOUtcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDkyMTksIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDE4OTI3LCBcImFjUmF0ZVwiOiBcIjQ4LjclXCJ9IiwKICAgICJoaW50cyI6IFsKICAgICAgIk1ha2UgdGhlIChMQVQsIExPTikgYSBwYWlyIHRvIHJlcHJlc2VudCB0aGUgbG9jYXRpb24gaW5mb3JtYXRpb24iCiAgICBdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMTMwIiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjp7XCJpbnN1cmFuY2VcIjpbXCJQSURcIixcIlRJVl8yMDE1XCIsXCJUSVZfMjAxNlwiLFwiTEFUXCIsXCJMT05cIl19LFwicm93c1wiOntcImluc3VyYW5jZVwiOltbMSwxMCw1LDEwLDEwXSxbMiwyMCwyMCwyMCwyMF0sWzMsMTAsMzAsMjAsMjBdLFs0LDEwLDQwLDQwLDQwXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xyXG4gIFwibXlzcWxcIjogW1xyXG4gICAgXCJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBpbnN1cmFuY2UgKFBJRCBJTlRFR0VSKDExKSwgVElWXzIwMTUgTlVNRVJJQygxNSwyKSwgVElWXzIwMTYgTlVNRVJJQygxNSwyKSwgTEFUIE5VTUVSSUMoNSwyKSwgTE9OIE5VTUVSSUMoNSwyKSApXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDUkVBVEUgVEFCTEUgaW5zdXJhbmNlIChQSUQgSU5ULCBUSVZfMjAxNSBERUNJTUFMKDE1LDIpLCBUSVZfMjAxNiBERUNJTUFMKDE1LDIpLCBMQVQgREVDSU1BTCg1LDIpLCBMT04gREVDSU1BTCg1LDIpIClcIlxyXG4gIF0sXHJcbiAgXCJvcmFjbGVzcWxcIjogW1xyXG4gICAgXCJDUkVBVEUgVEFCTEUgaW5zdXJhbmNlIChQSUQgSU5ULCBUSVZfMjAxNSBOVU1CRVIoMTUsMiksIFRJVl8yMDE2IE5VTUJFUigxNSwyKSwgTEFUIE5VTUJFUig1LDIpLCBMT04gTlVNQkVSKDUsMikgKVwiXHJcbiAgXSxcclxuICBcImRhdGFiYXNlXCI6IHRydWVcclxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFsKICAgICAgIkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGluc3VyYW5jZSAoUElEIElOVEVHRVIoMTEpLCBUSVZfMjAxNSBOVU1FUklDKDE1LDIpLCBUSVZfMjAxNiBOVU1FUklDKDE1LDIpLCBMQVQgTlVNRVJJQyg1LDIpLCBMT04gTlVNRVJJQyg1LDIpICkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgaW5zdXJhbmNlIiwKICAgICAgImluc2VydCBpbnRvIGluc3VyYW5jZSAoUElELCBUSVZfMjAxNSwgVElWXzIwMTYsIExBVCwgTE9OKSB2YWx1ZXMgKCcxJywgJzEwJywgJzUnLCAnMTAnLCAnMTAnKSIsCiAgICAgICJpbnNlcnQgaW50byBpbnN1cmFuY2UgKFBJRCwgVElWXzIwMTUsIFRJVl8yMDE2LCBMQVQsIExPTikgdmFsdWVzICgnMicsICcyMCcsICcyMCcsICcyMCcsICcyMCcpIiwKICAgICAgImluc2VydCBpbnRvIGluc3VyYW5jZSAoUElELCBUSVZfMjAxNSwgVElWXzIwMTYsIExBVCwgTE9OKSB2YWx1ZXMgKCczJywgJzEwJywgJzMwJywgJzIwJywgJzIwJykiLAogICAgICAiaW5zZXJ0IGludG8gaW5zdXJhbmNlIChQSUQsIFRJVl8yMDE1LCBUSVZfMjAxNiwgTEFULCBMT04pIHZhbHVlcyAoJzQnLCAnMTAnLCAnNDAnLCAnNDAnLCAnNDAnKSIKICAgIF0sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcIm15c3FsXCI6IFtcIk15U1FMXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXlzcWwtc2VydmVyIDUuNy4yMTwvY29kZT4uPC9wPlwiXSwgXCJtc3NxbFwiOiBbXCJNUyBTUUwgU2VydmVyXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXNzcWw8L2NvZGU+LjwvcD5cIl0sIFwib3JhY2xlc3FsXCI6IFtcIk9yYWNsZVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm9yYWNsZSBzcWw8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "585",
+    "questionFrontendId": "585",
+    "boundTopicId": null,
+    "title": "Investments in 2016",
+    "titleSlug": "investments-in-2016",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Medium",
+    "likes": 59,
+    "dislikes": 44,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Mr-Bin",
+        "profileUrl": "/mr-bin/",
+        "avatarUrl": "https://assets.leetcode.com/users/mr-bin/avatar_1547655304.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"9.2K\", \"totalSubmission\": \"18.9K\", \"totalAcceptedRaw\": 9219, \"totalSubmissionRaw\": 18927, \"acRate\": \"48.7%\"}",
+    "hints": [
+      "Make the (LAT, LON) a pair to represent the location information"
+    ],
+    "solution": {
+      "id": "130",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"insurance\":[\"PID\",\"TIV_2015\",\"TIV_2016\",\"LAT\",\"LON\"]},\"rows\":{\"insurance\":[[1,10,5,10,10],[2,20,20,20,20],[3,10,30,20,20],[4,10,40,40,40]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"CREATE TABLE IF NOT EXISTS insurance (PID INTEGER(11), TIV_2015 NUMERIC(15,2), TIV_2016 NUMERIC(15,2), LAT NUMERIC(5,2), LON NUMERIC(5,2) )\"\r\n  ],\r\n  \"mssql\": [\r\n    \"CREATE TABLE insurance (PID INT, TIV_2015 DECIMAL(15,2), TIV_2016 DECIMAL(15,2), LAT DECIMAL(5,2), LON DECIMAL(5,2) )\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"CREATE TABLE insurance (PID INT, TIV_2015 NUMBER(15,2), TIV_2016 NUMBER(15,2), LAT NUMBER(5,2), LON NUMBER(5,2) )\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "CREATE TABLE IF NOT EXISTS insurance (PID INTEGER(11), TIV_2015 NUMERIC(15,2), TIV_2016 NUMERIC(15,2), LAT NUMERIC(5,2), LON NUMERIC(5,2) )",
+      "Truncate table insurance",
+      "insert into insurance (PID, TIV_2015, TIV_2016, LAT, LON) values ('1', '10', '5', '10', '10')",
+      "insert into insurance (PID, TIV_2015, TIV_2016, LAT, LON) values ('2', '20', '20', '20', '20')",
+      "insert into insurance (PID, TIV_2015, TIV_2016, LAT, LON) values ('3', '10', '30', '20', '20')",
+      "insert into insurance (PID, TIV_2015, TIV_2016, LAT, LON) values ('4', '10', '40', '40', '40')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

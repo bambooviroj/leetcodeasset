@@ -1,1 +1,51 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjU3MSIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjU3MSIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJGaW5kIE1lZGlhbiBHaXZlbiBGcmVxdWVuY3kgb2YgTnVtYmVycyIsCiAgICAidGl0bGVTbHVnIjogImZpbmQtbWVkaWFuLWdpdmVuLWZyZXF1ZW5jeS1vZi1udW1iZXJzIiwKICAgICJjb250ZW50IjogbnVsbCwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogdHJ1ZSwKICAgICJkaWZmaWN1bHR5IjogIkhhcmQiLAogICAgImxpa2VzIjogNTIsCiAgICAiZGlzbGlrZXMiOiAxOCwKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIlt7XCJ0aXRsZVwiOiBcIk1lZGlhbiBFbXBsb3llZSBTYWxhcnlcIiwgXCJ0aXRsZVNsdWdcIjogXCJtZWRpYW4tZW1wbG95ZWUtc2FsYXJ5XCIsIFwiZGlmZmljdWx0eVwiOiBcIkhhcmRcIiwgXCJ0cmFuc2xhdGVkVGl0bGVcIjogbnVsbH1dIiwKICAgICJjb250cmlidXRvcnMiOiBbCiAgICAgIHsKICAgICAgICAidXNlcm5hbWUiOiAiaGFoYW10eSIsCiAgICAgICAgInByb2ZpbGVVcmwiOiAiL2hhaGFtdHkvIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvNjFhNTkwYjRkZGNjYjYxZDI3OGU3NTM0NjU2YjYyNDMucG5nP3M9MjAwIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjQuNktcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCI5LjlLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiA0NTk4LCBcInRvdGFsU3VibWlzc2lvblJhd1wiOiA5ODc4LCBcImFjUmF0ZVwiOiBcIjQ2LjUlXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogbnVsbCwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjoge1wiTnVtYmVyc1wiOiBbXCJOdW1iZXJcIiwgXCJGcmVxdWVuY3lcIl19LCBcInJvd3NcIjoge1wiTnVtYmVyc1wiOiBbWzAsIDddLCBbMSwgMV0sIFsyLCAzXSwgWzMsIDFdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIE51bWJlcnMgKE51bWJlciBpbnQsIEZyZXF1ZW5jeSBpbnQpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgTnVtYmVycyAoTnVtYmVyIGludCwgRnJlcXVlbmN5IGludClcIlxyXG4gIF0sXHJcbiAgXCJvcmFjbGVzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgTnVtYmVycyAoTnVtYmVyIGludCwgRnJlcXVlbmN5IGludClcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBOdW1iZXJzIChOdW1iZXIgaW50LCBGcmVxdWVuY3kgaW50KSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBOdW1iZXJzIiwKICAgICAgImluc2VydCBpbnRvIE51bWJlcnMgKE51bWJlciwgRnJlcXVlbmN5KSB2YWx1ZXMgKCcwJywgJzcnKSIsCiAgICAgICJpbnNlcnQgaW50byBOdW1iZXJzIChOdW1iZXIsIEZyZXF1ZW5jeSkgdmFsdWVzICgnMScsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gTnVtYmVycyAoTnVtYmVyLCBGcmVxdWVuY3kpIHZhbHVlcyAoJzInLCAnMycpIiwKICAgICAgImluc2VydCBpbnRvIE51bWJlcnMgKE51bWJlciwgRnJlcXVlbmN5KSB2YWx1ZXMgKCczJywgJzEnKSIKICAgIF0sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcIm15c3FsXCI6IFtcIk15U1FMXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXlzcWwtc2VydmVyIDUuNy4yMTwvY29kZT4uPC9wPlwiXSwgXCJtc3NxbFwiOiBbXCJNUyBTUUwgU2VydmVyXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXNzcWw8L2NvZGU+LjwvcD5cIl0sIFwib3JhY2xlc3FsXCI6IFtcIk9yYWNsZVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm9yYWNsZSBzcWw8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "571",
+    "questionFrontendId": "571",
+    "boundTopicId": null,
+    "title": "Find Median Given Frequency of Numbers",
+    "titleSlug": "find-median-given-frequency-of-numbers",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Hard",
+    "likes": 52,
+    "dislikes": 18,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Median Employee Salary\", \"titleSlug\": \"median-employee-salary\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "contributors": [
+      {
+        "username": "hahamty",
+        "profileUrl": "/hahamty/",
+        "avatarUrl": "https://www.gravatar.com/avatar/61a590b4ddccb61d278e7534656b6243.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"4.6K\", \"totalSubmission\": \"9.9K\", \"totalAcceptedRaw\": 4598, \"totalSubmissionRaw\": 9878, \"acRate\": \"46.5%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Numbers\": [\"Number\", \"Frequency\"]}, \"rows\": {\"Numbers\": [[0, 7], [1, 1], [2, 3], [3, 1]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists Numbers (Number int, Frequency int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table Numbers (Number int, Frequency int)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table Numbers (Number int, Frequency int)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Numbers (Number int, Frequency int)",
+      "Truncate table Numbers",
+      "insert into Numbers (Number, Frequency) values ('0', '7')",
+      "insert into Numbers (Number, Frequency) values ('1', '1')",
+      "insert into Numbers (Number, Frequency) values ('2', '3')",
+      "insert into Numbers (Number, Frequency) values ('3', '1')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

@@ -1,1 +1,46 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjEyMjYiLAogICAgInF1ZXN0aW9uRnJvbnRlbmRJZCI6ICIxMTI3IiwKICAgICJib3VuZFRvcGljSWQiOiBudWxsLAogICAgInRpdGxlIjogIlVzZXIgUHVyY2hhc2UgUGxhdGZvcm0iLAogICAgInRpdGxlU2x1ZyI6ICJ1c2VyLXB1cmNoYXNlLXBsYXRmb3JtIiwKICAgICJjb250ZW50IjogbnVsbCwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogdHJ1ZSwKICAgICJkaWZmaWN1bHR5IjogIkhhcmQiLAogICAgImxpa2VzIjogMTgsCiAgICAiZGlzbGlrZXMiOiA0LAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6IG51bGwsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBudWxsLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCI1ODlcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIxLjNLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiA1ODksIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDEyOTksIFwiYWNSYXRlXCI6IFwiNDUuMyVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiBudWxsLAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOntcIlNwZW5kaW5nXCI6W1widXNlcl9pZFwiLFwic3BlbmRfZGF0ZVwiLFwicGxhdGZvcm1cIixcImFtb3VudFwiXX0sXCJyb3dzXCI6e1wiU3BlbmRpbmdcIjpbWzEsXCIyMDE5LTA3LTAxXCIsXCJtb2JpbGVcIiwxMDBdLFsxLFwiMjAxOS0wNy0wMVwiLFwiZGVza3RvcFwiLDEwMF0sWzIsXCIyMDE5LTA3LTAxXCIsXCJtb2JpbGVcIiwxMDBdLFsyLFwiMjAxOS0wNy0wMlwiLFwibW9iaWxlXCIsMTAwXSxbMyxcIjIwMTktMDctMDFcIixcImRlc2t0b3BcIiwxMDBdLFszLFwiMjAxOS0wNy0wMlwiLFwiZGVza3RvcFwiLDEwMF1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcbiAgXCJteXNxbFwiOiBbXG4gICAgXCJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBTcGVuZGluZyAodXNlcl9pZCBpbnQsIHNwZW5kX2RhdGUgZGF0ZSwgcGxhdGZvcm0gRU5VTSgnZGVza3RvcCcsICdtb2JpbGUnKSwgYW1vdW50IGludClcIlxuICBdLFxuICBcIm1zc3FsXCI6IFtcbiAgICBcImNyZWF0ZSB0YWJsZSBTcGVuZGluZyAodXNlcl9pZCBpbnQsIHNwZW5kX2RhdGUgZGF0ZSwgcGxhdGZvcm0gVkFSQ0hBUigxMCkgTk9UIE5VTEwgQ0hFQ0sgKHBsYXRmb3JtIElOICgnZGVza3RvcCcsICdtb2JpbGUnKSksIGFtb3VudCBpbnQpXCJcbiAgXSxcbiAgXCJvcmFjbGVzcWxcIjogW1xuICAgIFwiY3JlYXRlIHRhYmxlIFNwZW5kaW5nICh1c2VyX2lkIGludCwgc3BlbmRfZGF0ZSBkYXRlLCBwbGF0Zm9ybSBWQVJDSEFSKDEwKSBOT1QgTlVMTCBDSEVDSyAocGxhdGZvcm0gSU4gKCdkZXNrdG9wJywgJ21vYmlsZScpKSwgYW1vdW50IGludClcIixcbiAgICBcIkFMVEVSIFNFU1NJT04gU0VUIG5sc19kYXRlX2Zvcm1hdD0nWVlZWS1NTS1ERCdcIlxuICBdLFxuICBcImRhdGFiYXNlXCI6IHRydWVcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBTcGVuZGluZyAodXNlcl9pZCBpbnQsIHNwZW5kX2RhdGUgZGF0ZSwgcGxhdGZvcm0gRU5VTSgnZGVza3RvcCcsICdtb2JpbGUnKSwgYW1vdW50IGludCkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgU3BlbmRpbmciLAogICAgICAiaW5zZXJ0IGludG8gU3BlbmRpbmcgKHVzZXJfaWQsIHNwZW5kX2RhdGUsIHBsYXRmb3JtLCBhbW91bnQpIHZhbHVlcyAoJzEnLCAnMjAxOS0wNy0wMScsICdtb2JpbGUnLCAnMTAwJykiLAogICAgICAiaW5zZXJ0IGludG8gU3BlbmRpbmcgKHVzZXJfaWQsIHNwZW5kX2RhdGUsIHBsYXRmb3JtLCBhbW91bnQpIHZhbHVlcyAoJzEnLCAnMjAxOS0wNy0wMScsICdkZXNrdG9wJywgJzEwMCcpIiwKICAgICAgImluc2VydCBpbnRvIFNwZW5kaW5nICh1c2VyX2lkLCBzcGVuZF9kYXRlLCBwbGF0Zm9ybSwgYW1vdW50KSB2YWx1ZXMgKCcyJywgJzIwMTktMDctMDEnLCAnbW9iaWxlJywgJzEwMCcpIiwKICAgICAgImluc2VydCBpbnRvIFNwZW5kaW5nICh1c2VyX2lkLCBzcGVuZF9kYXRlLCBwbGF0Zm9ybSwgYW1vdW50KSB2YWx1ZXMgKCcyJywgJzIwMTktMDctMDInLCAnbW9iaWxlJywgJzEwMCcpIiwKICAgICAgImluc2VydCBpbnRvIFNwZW5kaW5nICh1c2VyX2lkLCBzcGVuZF9kYXRlLCBwbGF0Zm9ybSwgYW1vdW50KSB2YWx1ZXMgKCczJywgJzIwMTktMDctMDEnLCAnZGVza3RvcCcsICcxMDAnKSIsCiAgICAgICJpbnNlcnQgaW50byBTcGVuZGluZyAodXNlcl9pZCwgc3BlbmRfZGF0ZSwgcGxhdGZvcm0sIGFtb3VudCkgdmFsdWVzICgnMycsICcyMDE5LTA3LTAyJywgJ2Rlc2t0b3AnLCAnMTAwJykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "1226",
+    "questionFrontendId": "1127",
+    "boundTopicId": null,
+    "title": "User Purchase Platform",
+    "titleSlug": "user-purchase-platform",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Hard",
+    "likes": 18,
+    "dislikes": 4,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"589\", \"totalSubmission\": \"1.3K\", \"totalAcceptedRaw\": 589, \"totalSubmissionRaw\": 1299, \"acRate\": \"45.3%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"Spending\":[\"user_id\",\"spend_date\",\"platform\",\"amount\"]},\"rows\":{\"Spending\":[[1,\"2019-07-01\",\"mobile\",100],[1,\"2019-07-01\",\"desktop\",100],[2,\"2019-07-01\",\"mobile\",100],[2,\"2019-07-02\",\"mobile\",100],[3,\"2019-07-01\",\"desktop\",100],[3,\"2019-07-02\",\"desktop\",100]]}}",
+    "metaData": "{\n  \"mysql\": [\n    \"Create table If Not Exists Spending (user_id int, spend_date date, platform ENUM('desktop', 'mobile'), amount int)\"\n  ],\n  \"mssql\": [\n    \"create table Spending (user_id int, spend_date date, platform VARCHAR(10) NOT NULL CHECK (platform IN ('desktop', 'mobile')), amount int)\"\n  ],\n  \"oraclesql\": [\n    \"create table Spending (user_id int, spend_date date, platform VARCHAR(10) NOT NULL CHECK (platform IN ('desktop', 'mobile')), amount int)\",\n    \"ALTER SESSION SET nls_date_format='YYYY-MM-DD'\"\n  ],\n  \"database\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Spending (user_id int, spend_date date, platform ENUM('desktop', 'mobile'), amount int)",
+      "Truncate table Spending",
+      "insert into Spending (user_id, spend_date, platform, amount) values ('1', '2019-07-01', 'mobile', '100')",
+      "insert into Spending (user_id, spend_date, platform, amount) values ('1', '2019-07-01', 'desktop', '100')",
+      "insert into Spending (user_id, spend_date, platform, amount) values ('2', '2019-07-01', 'mobile', '100')",
+      "insert into Spending (user_id, spend_date, platform, amount) values ('2', '2019-07-02', 'mobile', '100')",
+      "insert into Spending (user_id, spend_date, platform, amount) values ('3', '2019-07-01', 'desktop', '100')",
+      "insert into Spending (user_id, spend_date, platform, amount) values ('3', '2019-07-02', 'desktop', '100')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

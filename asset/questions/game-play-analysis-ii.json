@@ -1,1 +1,45 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjExODAiLAogICAgInF1ZXN0aW9uRnJvbnRlbmRJZCI6ICI1MTIiLAogICAgImJvdW5kVG9waWNJZCI6IG51bGwsCiAgICAidGl0bGUiOiAiR2FtZSBQbGF5IEFuYWx5c2lzIElJIiwKICAgICJ0aXRsZVNsdWciOiAiZ2FtZS1wbGF5LWFuYWx5c2lzLWlpIiwKICAgICJjb250ZW50IjogbnVsbCwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogdHJ1ZSwKICAgICJkaWZmaWN1bHR5IjogIkVhc3kiLAogICAgImxpa2VzIjogMTAsCiAgICAiZGlzbGlrZXMiOiAwLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW3tcInRpdGxlXCI6IFwiR2FtZSBQbGF5IEFuYWx5c2lzIElcIiwgXCJ0aXRsZVNsdWdcIjogXCJnYW1lLXBsYXktYW5hbHlzaXMtaVwiLCBcImRpZmZpY3VsdHlcIjogXCJFYXN5XCIsIFwidHJhbnNsYXRlZFRpdGxlXCI6IG51bGx9LCB7XCJ0aXRsZVwiOiBcIkdhbWUgUGxheSBBbmFseXNpcyBJSUlcIiwgXCJ0aXRsZVNsdWdcIjogXCJnYW1lLXBsYXktYW5hbHlzaXMtaWlpXCIsIFwiZGlmZmljdWx0eVwiOiBcIk1lZGl1bVwiLCBcInRyYW5zbGF0ZWRUaXRsZVwiOiBudWxsfV0iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6IG51bGwsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBudWxsLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCIyLjZLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiNC43S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogMjU3MywgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogNDcxNiwgXCJhY1JhdGVcIjogXCI1NC42JVwifSIsCiAgICAiaGludHMiOiBbXSwKICAgICJzb2x1dGlvbiI6IG51bGwsCiAgICAic3RhdHVzIjogbnVsbCwKICAgICJzYW1wbGVUZXN0Q2FzZSI6ICJ7XCJoZWFkZXJzXCI6e1wiQWN0aXZpdHlcIjpbXCJwbGF5ZXJfaWRcIixcImRldmljZV9pZFwiLFwiZXZlbnRfZGF0ZVwiLFwiZ2FtZXNfcGxheWVkXCJdfSxcInJvd3NcIjp7XCJBY3Rpdml0eVwiOltbMSwyLFwiMjAxNi0wMy0wMVwiLDVdLFsxLDIsXCIyMDE2LTA1LTAyXCIsNl0sWzIsMyxcIjIwMTctMDYtMjVcIiwxXSxbMywxLFwiMjAxNi0wMy0wMlwiLDBdLFszLDQsXCIyMDE4LTA3LTAzXCIsNV1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcbiAgXCJteXNxbFwiOiBbXG4gICAgXCJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBBY3Rpdml0eSAocGxheWVyX2lkIGludCwgZGV2aWNlX2lkIGludCwgZXZlbnRfZGF0ZSBkYXRlLCBnYW1lc19wbGF5ZWQgaW50KVwiXG4gIF0sXG4gIFwibXNzcWxcIjogW1xuICAgIFwiQ3JlYXRlIHRhYmxlIEFjdGl2aXR5IChwbGF5ZXJfaWQgaW50LCBkZXZpY2VfaWQgaW50LCBldmVudF9kYXRlIGRhdGUsIGdhbWVzX3BsYXllZCBpbnQpXCJcbiAgXSxcbiAgXCJvcmFjbGVzcWxcIjogW1xuICAgIFwiQ3JlYXRlIHRhYmxlIEFjdGl2aXR5IChwbGF5ZXJfaWQgaW50LCBkZXZpY2VfaWQgaW50LCBldmVudF9kYXRlIGRhdGUsIGdhbWVzX3BsYXllZCBpbnQpXCIsXG4gICAgXCJBTFRFUiBTRVNTSU9OIFNFVCBubHNfZGF0ZV9mb3JtYXQ9J1lZWVktTU0tREQnXCJcbiAgXSxcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogWwogICAgICAiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgQWN0aXZpdHkgKHBsYXllcl9pZCBpbnQsIGRldmljZV9pZCBpbnQsIGV2ZW50X2RhdGUgZGF0ZSwgZ2FtZXNfcGxheWVkIGludCkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgQWN0aXZpdHkiLAogICAgICAiaW5zZXJ0IGludG8gQWN0aXZpdHkgKHBsYXllcl9pZCwgZGV2aWNlX2lkLCBldmVudF9kYXRlLCBnYW1lc19wbGF5ZWQpIHZhbHVlcyAoJzEnLCAnMicsICcyMDE2LTAzLTAxJywgJzUnKSIsCiAgICAgICJpbnNlcnQgaW50byBBY3Rpdml0eSAocGxheWVyX2lkLCBkZXZpY2VfaWQsIGV2ZW50X2RhdGUsIGdhbWVzX3BsYXllZCkgdmFsdWVzICgnMScsICcyJywgJzIwMTYtMDUtMDInLCAnNicpIiwKICAgICAgImluc2VydCBpbnRvIEFjdGl2aXR5IChwbGF5ZXJfaWQsIGRldmljZV9pZCwgZXZlbnRfZGF0ZSwgZ2FtZXNfcGxheWVkKSB2YWx1ZXMgKCcyJywgJzMnLCAnMjAxNy0wNi0yNScsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gQWN0aXZpdHkgKHBsYXllcl9pZCwgZGV2aWNlX2lkLCBldmVudF9kYXRlLCBnYW1lc19wbGF5ZWQpIHZhbHVlcyAoJzMnLCAnMScsICcyMDE2LTAzLTAyJywgJzAnKSIsCiAgICAgICJpbnNlcnQgaW50byBBY3Rpdml0eSAocGxheWVyX2lkLCBkZXZpY2VfaWQsIGV2ZW50X2RhdGUsIGdhbWVzX3BsYXllZCkgdmFsdWVzICgnMycsICc0JywgJzIwMTgtMDctMDMnLCAnNScpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "1180",
+    "questionFrontendId": "512",
+    "boundTopicId": null,
+    "title": "Game Play Analysis II",
+    "titleSlug": "game-play-analysis-ii",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Easy",
+    "likes": 10,
+    "dislikes": 0,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Game Play Analysis I\", \"titleSlug\": \"game-play-analysis-i\", \"difficulty\": \"Easy\", \"translatedTitle\": null}, {\"title\": \"Game Play Analysis III\", \"titleSlug\": \"game-play-analysis-iii\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "contributors": [],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"2.6K\", \"totalSubmission\": \"4.7K\", \"totalAcceptedRaw\": 2573, \"totalSubmissionRaw\": 4716, \"acRate\": \"54.6%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"Activity\":[\"player_id\",\"device_id\",\"event_date\",\"games_played\"]},\"rows\":{\"Activity\":[[1,2,\"2016-03-01\",5],[1,2,\"2016-05-02\",6],[2,3,\"2017-06-25\",1],[3,1,\"2016-03-02\",0],[3,4,\"2018-07-03\",5]]}}",
+    "metaData": "{\n  \"mysql\": [\n    \"Create table If Not Exists Activity (player_id int, device_id int, event_date date, games_played int)\"\n  ],\n  \"mssql\": [\n    \"Create table Activity (player_id int, device_id int, event_date date, games_played int)\"\n  ],\n  \"oraclesql\": [\n    \"Create table Activity (player_id int, device_id int, event_date date, games_played int)\",\n    \"ALTER SESSION SET nls_date_format='YYYY-MM-DD'\"\n  ],\n  \"database\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Activity (player_id int, device_id int, event_date date, games_played int)",
+      "Truncate table Activity",
+      "insert into Activity (player_id, device_id, event_date, games_played) values ('1', '2', '2016-03-01', '5')",
+      "insert into Activity (player_id, device_id, event_date, games_played) values ('1', '2', '2016-05-02', '6')",
+      "insert into Activity (player_id, device_id, event_date, games_played) values ('2', '3', '2017-06-25', '1')",
+      "insert into Activity (player_id, device_id, event_date, games_played) values ('3', '1', '2016-03-02', '0')",
+      "insert into Activity (player_id, device_id, event_date, games_played) values ('3', '4', '2018-07-03', '5')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

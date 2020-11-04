@@ -1,1 +1,67 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE5NyIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE5NyIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJSaXNpbmcgVGVtcGVyYXR1cmUiLAogICAgInRpdGxlU2x1ZyI6ICJyaXNpbmctdGVtcGVyYXR1cmUiLAogICAgImNvbnRlbnQiOiAiPHA+R2l2ZW4gYSA8Y29kZT5XZWF0aGVyPC9jb2RlPiB0YWJsZSwgd3JpdGUgYSBTUUwgcXVlcnkgdG8gZmluZCBhbGwgZGF0ZXMmIzM5OyBJZHMgd2l0aCBoaWdoZXIgdGVtcGVyYXR1cmUgY29tcGFyZWQgdG8gaXRzIHByZXZpb3VzICh5ZXN0ZXJkYXkmIzM5O3MpIGRhdGVzLjwvcD5cclxuXHJcbjxwcmU+XHJcbistLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLStcclxufCBJZChJTlQpIHwgUmVjb3JkRGF0ZShEQVRFKSB8IFRlbXBlcmF0dXJlKElOVCkgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0rXHJcbnwgICAgICAgMSB8ICAgICAgIDIwMTUtMDEtMDEgfCAgICAgICAgICAgICAgIDEwIHxcclxufCAgICAgICAyIHwgICAgICAgMjAxNS0wMS0wMiB8ICAgICAgICAgICAgICAgMjUgfFxyXG58ICAgICAgIDMgfCAgICAgICAyMDE1LTAxLTAzIHwgICAgICAgICAgICAgICAyMCB8XHJcbnwgICAgICAgNCB8ICAgICAgIDIwMTUtMDEtMDQgfCAgICAgICAgICAgICAgIDMwIHxcclxuKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tK1xyXG48L3ByZT5cclxuXHJcbjxwPkZvciBleGFtcGxlLCByZXR1cm4gdGhlIGZvbGxvd2luZyBJZHMgZm9yIHRoZSBhYm92ZSA8Y29kZT5XZWF0aGVyPC9jb2RlPiB0YWJsZTo8L3A+XHJcblxyXG48cHJlPlxyXG4rLS0tLStcclxufCBJZCB8XHJcbistLS0tK1xyXG58ICAyIHxcclxufCAgNCB8XHJcbistLS0tK1xyXG48L3ByZT5cclxuIiwKICAgICJ0cmFuc2xhdGVkVGl0bGUiOiBudWxsLAogICAgInRyYW5zbGF0ZWRDb250ZW50IjogbnVsbCwKICAgICJpc1BhaWRPbmx5IjogZmFsc2UsCiAgICAiZGlmZmljdWx0eSI6ICJFYXN5IiwKICAgICJsaWtlcyI6IDI2OSwKICAgICJkaXNsaWtlcyI6IDExMiwKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIltdIiwKICAgICJjb250cmlidXRvcnMiOiBbXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiAie1wiY3BwXCI6IGZhbHNlLCBcImphdmFcIjogZmFsc2UsIFwicHl0aG9uXCI6IGZhbHNlLCBcInB5dGhvbjNcIjogZmFsc2UsIFwibXlzcWxcIjogZmFsc2UsIFwibXNzcWxcIjogZmFsc2UsIFwib3JhY2xlc3FsXCI6IGZhbHNlLCBcImNcIjogZmFsc2UsIFwiY3NoYXJwXCI6IGZhbHNlLCBcImphdmFzY3JpcHRcIjogZmFsc2UsIFwicnVieVwiOiBmYWxzZSwgXCJiYXNoXCI6IGZhbHNlLCBcInN3aWZ0XCI6IGZhbHNlLCBcImdvbGFuZ1wiOiBmYWxzZSwgXCJzY2FsYVwiOiBmYWxzZSwgXCJodG1sXCI6IGZhbHNlLCBcInB5dGhvbm1sXCI6IGZhbHNlLCBcImtvdGxpblwiOiBmYWxzZSwgXCJydXN0XCI6IGZhbHNlLCBcInBocFwiOiBmYWxzZX0iLAogICAgInRvcGljVGFncyI6IFtdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogWwogICAgICB7CiAgICAgICAgImxhbmciOiAiTXlTUUwiLAogICAgICAgICJsYW5nU2x1ZyI6ICJteXNxbCIsCiAgICAgICAgImNvZGUiOiAiIyBXcml0ZSB5b3VyIE15U1FMIHF1ZXJ5IHN0YXRlbWVudCBiZWxvd1xuIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJNUyBTUUwgU2VydmVyIiwKICAgICAgICAibGFuZ1NsdWciOiAibXNzcWwiLAogICAgICAgICJjb2RlIjogIi8qIFdyaXRlIHlvdXIgVC1TUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93ICovXG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIk9yYWNsZSIsCiAgICAgICAgImxhbmdTbHVnIjogIm9yYWNsZXNxbCIsCiAgICAgICAgImNvZGUiOiAiLyogV3JpdGUgeW91ciBQTC9TUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93ICovXG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfQogICAgXSwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiODUuNktcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIyNDBLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiA4NTYxNSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMjQwMDA4LCBcImFjUmF0ZVwiOiBcIjM1LjclXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMjExIiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjoge1wiV2VhdGhlclwiOiBbXCJJZFwiLCBcIlJlY29yZERhdGVcIiwgXCJUZW1wZXJhdHVyZVwiXX0sIFwicm93c1wiOiB7XCJXZWF0aGVyXCI6IFtbMSwgXCIyMDE1LTAxLTAxXCIsIDEwXSwgWzIsIFwiMjAxNS0wMS0wMlwiLCAyNV0sIFszLCBcIjIwMTUtMDEtMDNcIiwgMjBdLCBbNCwgXCIyMDE1LTAxLTA0XCIsIDMwXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xyXG4gIFwibXlzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBXZWF0aGVyIChJZCBpbnQsIFJlY29yZERhdGUgZGF0ZSwgVGVtcGVyYXR1cmUgaW50KVwiXHJcbiAgXSxcclxuICBcIm1zc3FsXCI6IFtcclxuICAgIFwiY3JlYXRlIHRhYmxlIFdlYXRoZXIgKCBJZCBpbnQsIFJlY29yZERhdGUgZGF0ZSwgVGVtcGVyYXR1cmUgaW50IClcIlxyXG4gIF0sXHJcbiAgXCJvcmFjbGVzcWxcIjogW1xyXG4gICAgXCJjcmVhdGUgdGFibGUgV2VhdGhlciAoIElkIGludCwgUmVjb3JkRGF0ZSBkYXRlLCBUZW1wZXJhdHVyZSBpbnQgKVwiLFxyXG4gICAgXCJBTFRFUiBTRVNTSU9OIFNFVCBubHNfZGF0ZV9mb3JtYXQ9J1lZWVktTU0tREQnXCJcclxuICBdLFxyXG4gIFwiZGF0YWJhc2VcIjogdHJ1ZVxyXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogWwogICAgICAiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgV2VhdGhlciAoSWQgaW50LCBSZWNvcmREYXRlIGRhdGUsIFRlbXBlcmF0dXJlIGludCkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgV2VhdGhlciIsCiAgICAgICJpbnNlcnQgaW50byBXZWF0aGVyIChJZCwgUmVjb3JkRGF0ZSwgVGVtcGVyYXR1cmUpIHZhbHVlcyAoJzEnLCAnMjAxNS0wMS0wMScsICcxMCcpIiwKICAgICAgImluc2VydCBpbnRvIFdlYXRoZXIgKElkLCBSZWNvcmREYXRlLCBUZW1wZXJhdHVyZSkgdmFsdWVzICgnMicsICcyMDE1LTAxLTAyJywgJzI1JykiLAogICAgICAiaW5zZXJ0IGludG8gV2VhdGhlciAoSWQsIFJlY29yZERhdGUsIFRlbXBlcmF0dXJlKSB2YWx1ZXMgKCczJywgJzIwMTUtMDEtMDMnLCAnMjAnKSIsCiAgICAgICJpbnNlcnQgaW50byBXZWF0aGVyIChJZCwgUmVjb3JkRGF0ZSwgVGVtcGVyYXR1cmUpIHZhbHVlcyAoJzQnLCAnMjAxNS0wMS0wNCcsICczMCcpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "197",
+    "questionFrontendId": "197",
+    "boundTopicId": null,
+    "title": "Rising Temperature",
+    "titleSlug": "rising-temperature",
+    "content": "<p>Given a <code>Weather</code> table, write a SQL query to find all dates&#39; Ids with higher temperature compared to its previous (yesterday&#39;s) dates.</p>\r\n\r\n<pre>\r\n+---------+------------------+------------------+\r\n| Id(INT) | RecordDate(DATE) | Temperature(INT) |\r\n+---------+------------------+------------------+\r\n|       1 |       2015-01-01 |               10 |\r\n|       2 |       2015-01-02 |               25 |\r\n|       3 |       2015-01-03 |               20 |\r\n|       4 |       2015-01-04 |               30 |\r\n+---------+------------------+------------------+\r\n</pre>\r\n\r\n<p>For example, return the following Ids for the above <code>Weather</code> table:</p>\r\n\r\n<pre>\r\n+----+\r\n| Id |\r\n+----+\r\n|  2 |\r\n|  4 |\r\n+----+\r\n</pre>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 269,
+    "dislikes": 112,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"85.6K\", \"totalSubmission\": \"240K\", \"totalAcceptedRaw\": 85615, \"totalSubmissionRaw\": 240008, \"acRate\": \"35.7%\"}",
+    "hints": [],
+    "solution": {
+      "id": "211",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Weather\": [\"Id\", \"RecordDate\", \"Temperature\"]}, \"rows\": {\"Weather\": [[1, \"2015-01-01\", 10], [2, \"2015-01-02\", 25], [3, \"2015-01-03\", 20], [4, \"2015-01-04\", 30]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists Weather (Id int, RecordDate date, Temperature int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"create table Weather ( Id int, RecordDate date, Temperature int )\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"create table Weather ( Id int, RecordDate date, Temperature int )\",\r\n    \"ALTER SESSION SET nls_date_format='YYYY-MM-DD'\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Weather (Id int, RecordDate date, Temperature int)",
+      "Truncate table Weather",
+      "insert into Weather (Id, RecordDate, Temperature) values ('1', '2015-01-01', '10')",
+      "insert into Weather (Id, RecordDate, Temperature) values ('2', '2015-01-02', '25')",
+      "insert into Weather (Id, RecordDate, Temperature) values ('3', '2015-01-03', '20')",
+      "insert into Weather (Id, RecordDate, Temperature) values ('4', '2015-01-04', '30')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

@@ -1,1 +1,57 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjU4NiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjU4NiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJDdXN0b21lciBQbGFjaW5nIHRoZSBMYXJnZXN0IE51bWJlciBvZiBPcmRlcnMiLAogICAgInRpdGxlU2x1ZyI6ICJjdXN0b21lci1wbGFjaW5nLXRoZS1sYXJnZXN0LW51bWJlci1vZi1vcmRlcnMiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiRWFzeSIsCiAgICAibGlrZXMiOiA3MSwKICAgICJkaXNsaWtlcyI6IDQsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogWwogICAgICB7CiAgICAgICAgInVzZXJuYW1lIjogIk1yLUJpbiIsCiAgICAgICAgInByb2ZpbGVVcmwiOiAiL21yLWJpbi8iLAogICAgICAgICJhdmF0YXJVcmwiOiAiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzL21yLWJpbi9hdmF0YXJfMTU0NzY1NTMwNC5wbmciLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvbnRyaWJ1dG9yTm9kZSIKICAgICAgfQogICAgXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiBudWxsLAogICAgInRvcGljVGFncyI6IFtdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogbnVsbCwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiMTUuOEtcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIyMy40S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogMTU4MDMsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDIzNDE0LCBcImFjUmF0ZVwiOiBcIjY3LjUlXCJ9IiwKICAgICJoaW50cyI6IFsKICAgICAgIk15U1FMIHVzZXMgYSBkaWZmZXJlbnQgZXhwcmVzc2lvbiB0byBnZXQgdGhlIGZpcnN0IHJlY29yZHMgb3RoZXIgdGhhbiBNU1NRTCdzIFRPUCBleHByZXNzaW9uLiIKICAgIF0sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICIxNjAiLAogICAgICAiY2FuU2VlRGV0YWlsIjogdHJ1ZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOntcIm9yZGVyc1wiOltcIm9yZGVyX251bWJlclwiLFwiY3VzdG9tZXJfbnVtYmVyXCJdfSxcInJvd3NcIjp7XCJvcmRlcnNcIjpbWzEsMV0sWzIsMl0sWzMsM10sWzQsM11dfX0iLAogICAgIm1ldGFEYXRhIjogIntcclxuICBcIm15c3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgb3JkZXJzIChvcmRlcl9udW1iZXIgaW50LCBjdXN0b21lcl9udW1iZXIgaW50LCBvcmRlcl9kYXRlIGRhdGUsIHJlcXVpcmVkX2RhdGUgZGF0ZSwgc2hpcHBlZF9kYXRlIGRhdGUsIHN0YXR1cyBjaGFyKDE1KSwgY29tbWVudCBjaGFyKDIwMCksIGtleShvcmRlcl9udW1iZXIpKVwiXHJcbiAgXSxcclxuICBcIm1zc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIG9yZGVycyAob3JkZXJfbnVtYmVyIGludCwgY3VzdG9tZXJfbnVtYmVyIGludCwgb3JkZXJfZGF0ZSBkYXRlLCByZXF1aXJlZF9kYXRlIGRhdGUsIHNoaXBwZWRfZGF0ZSBkYXRlLCBzdGF0dXMgY2hhcigxNSksIGNvbW1lbnQgY2hhcigyMDApKVwiXHJcbiAgXSxcclxuICBcIm9yYWNsZXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBvcmRlcnMgKG9yZGVyX251bWJlciBpbnQsIGN1c3RvbWVyX251bWJlciBpbnQpXCJcclxuICBdLFxyXG4gIFwiZGF0YWJhc2VcIjogdHJ1ZVxyXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogWwogICAgICAiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgb3JkZXJzIChvcmRlcl9udW1iZXIgaW50LCBjdXN0b21lcl9udW1iZXIgaW50LCBvcmRlcl9kYXRlIGRhdGUsIHJlcXVpcmVkX2RhdGUgZGF0ZSwgc2hpcHBlZF9kYXRlIGRhdGUsIHN0YXR1cyBjaGFyKDE1KSwgY29tbWVudCBjaGFyKDIwMCksIGtleShvcmRlcl9udW1iZXIpKSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBvcmRlcnMiLAogICAgICAiaW5zZXJ0IGludG8gb3JkZXJzIChvcmRlcl9udW1iZXIsIGN1c3RvbWVyX251bWJlcikgdmFsdWVzICgnMScsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gb3JkZXJzIChvcmRlcl9udW1iZXIsIGN1c3RvbWVyX251bWJlcikgdmFsdWVzICgnMicsICcyJykiLAogICAgICAiaW5zZXJ0IGludG8gb3JkZXJzIChvcmRlcl9udW1iZXIsIGN1c3RvbWVyX251bWJlcikgdmFsdWVzICgnMycsICczJykiLAogICAgICAiaW5zZXJ0IGludG8gb3JkZXJzIChvcmRlcl9udW1iZXIsIGN1c3RvbWVyX251bWJlcikgdmFsdWVzICgnNCcsICczJykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "586",
+    "questionFrontendId": "586",
+    "boundTopicId": null,
+    "title": "Customer Placing the Largest Number of Orders",
+    "titleSlug": "customer-placing-the-largest-number-of-orders",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Easy",
+    "likes": 71,
+    "dislikes": 4,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Mr-Bin",
+        "profileUrl": "/mr-bin/",
+        "avatarUrl": "https://assets.leetcode.com/users/mr-bin/avatar_1547655304.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"15.8K\", \"totalSubmission\": \"23.4K\", \"totalAcceptedRaw\": 15803, \"totalSubmissionRaw\": 23414, \"acRate\": \"67.5%\"}",
+    "hints": [
+      "MySQL uses a different expression to get the first records other than MSSQL's TOP expression."
+    ],
+    "solution": {
+      "id": "160",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"orders\":[\"order_number\",\"customer_number\"]},\"rows\":{\"orders\":[[1,1],[2,2],[3,3],[4,3]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists orders (order_number int, customer_number int, order_date date, required_date date, shipped_date date, status char(15), comment char(200), key(order_number))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table orders (order_number int, customer_number int, order_date date, required_date date, shipped_date date, status char(15), comment char(200))\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table orders (order_number int, customer_number int)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists orders (order_number int, customer_number int, order_date date, required_date date, shipped_date date, status char(15), comment char(200), key(order_number))",
+      "Truncate table orders",
+      "insert into orders (order_number, customer_number) values ('1', '1')",
+      "insert into orders (order_number, customer_number) values ('2', '2')",
+      "insert into orders (order_number, customer_number) values ('3', '3')",
+      "insert into orders (order_number, customer_number) values ('4', '3')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

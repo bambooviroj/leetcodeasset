@@ -1,1 +1,47 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjEyNTgiLAogICAgInF1ZXN0aW9uRnJvbnRlbmRJZCI6ICIxMTQ4IiwKICAgICJib3VuZFRvcGljSWQiOiBudWxsLAogICAgInRpdGxlIjogIkFydGljbGUgVmlld3MgSSIsCiAgICAidGl0bGVTbHVnIjogImFydGljbGUtdmlld3MtaSIsCiAgICAiY29udGVudCI6IG51bGwsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IHRydWUsCiAgICAiZGlmZmljdWx0eSI6ICJFYXN5IiwKICAgICJsaWtlcyI6IDIsCiAgICAiZGlzbGlrZXMiOiAwLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6IG51bGwsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBudWxsLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCIxLjRLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMktcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDEzNzcsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDIwMTEsIFwiYWNSYXRlXCI6IFwiNjguNSVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiBudWxsLAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOntcIlZpZXdzXCI6W1wiYXJ0aWNsZV9pZFwiLFwiYXV0aG9yX2lkXCIsXCJ2aWV3ZXJfaWRcIixcInZpZXdfZGF0ZVwiXX0sXCJyb3dzXCI6e1wiVmlld3NcIjpbWzEsMyw1LFwiMjAxOS0wOC0wMVwiXSxbMSwzLDYsXCIyMDE5LTA4LTAyXCJdLFsyLDcsNyxcIjIwMTktMDgtMDFcIl0sWzIsNyw2LFwiMjAxOS0wOC0wMlwiXSxbNCw3LDEsXCIyMDE5LTA3LTIyXCJdLFszLDQsNCxcIjIwMTktMDctMjFcIl0sWzMsNCw0LFwiMjAxOS0wNy0yMVwiXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xuICBcIm15c3FsXCI6IFtcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIFZpZXdzIChhcnRpY2xlX2lkIGludCwgYXV0aG9yX2lkIGludCwgdmlld2VyX2lkIGludCwgdmlld19kYXRlIGRhdGUpXCJcbiAgXSxcbiAgXCJtc3NxbFwiOiBbXG4gICAgXCJjcmVhdGUgdGFibGUgVmlld3MgKGFydGljbGVfaWQgaW50LCBhdXRob3JfaWQgaW50LCB2aWV3ZXJfaWQgaW50LCB2aWV3X2RhdGUgZGF0ZSlcIlxuICBdLFxuICBcIm9yYWNsZXNxbFwiOiBbXG4gICAgXCJjcmVhdGUgdGFibGUgVmlld3MgKGFydGljbGVfaWQgaW50LCBhdXRob3JfaWQgaW50LCB2aWV3ZXJfaWQgaW50LCB2aWV3X2RhdGUgZGF0ZSlcIixcbiAgICBcIkFMVEVSIFNFU1NJT04gU0VUIG5sc19kYXRlX2Zvcm1hdD0nWVlZWS1NTS1ERCdcIlxuICBdLFxuICBcImRhdGFiYXNlXCI6IHRydWVcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBWaWV3cyAoYXJ0aWNsZV9pZCBpbnQsIGF1dGhvcl9pZCBpbnQsIHZpZXdlcl9pZCBpbnQsIHZpZXdfZGF0ZSBkYXRlKSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBWaWV3cyIsCiAgICAgICJpbnNlcnQgaW50byBWaWV3cyAoYXJ0aWNsZV9pZCwgYXV0aG9yX2lkLCB2aWV3ZXJfaWQsIHZpZXdfZGF0ZSkgdmFsdWVzICgnMScsICczJywgJzUnLCAnMjAxOS0wOC0wMScpIiwKICAgICAgImluc2VydCBpbnRvIFZpZXdzIChhcnRpY2xlX2lkLCBhdXRob3JfaWQsIHZpZXdlcl9pZCwgdmlld19kYXRlKSB2YWx1ZXMgKCcxJywgJzMnLCAnNicsICcyMDE5LTA4LTAyJykiLAogICAgICAiaW5zZXJ0IGludG8gVmlld3MgKGFydGljbGVfaWQsIGF1dGhvcl9pZCwgdmlld2VyX2lkLCB2aWV3X2RhdGUpIHZhbHVlcyAoJzInLCAnNycsICc3JywgJzIwMTktMDgtMDEnKSIsCiAgICAgICJpbnNlcnQgaW50byBWaWV3cyAoYXJ0aWNsZV9pZCwgYXV0aG9yX2lkLCB2aWV3ZXJfaWQsIHZpZXdfZGF0ZSkgdmFsdWVzICgnMicsICc3JywgJzYnLCAnMjAxOS0wOC0wMicpIiwKICAgICAgImluc2VydCBpbnRvIFZpZXdzIChhcnRpY2xlX2lkLCBhdXRob3JfaWQsIHZpZXdlcl9pZCwgdmlld19kYXRlKSB2YWx1ZXMgKCc0JywgJzcnLCAnMScsICcyMDE5LTA3LTIyJykiLAogICAgICAiaW5zZXJ0IGludG8gVmlld3MgKGFydGljbGVfaWQsIGF1dGhvcl9pZCwgdmlld2VyX2lkLCB2aWV3X2RhdGUpIHZhbHVlcyAoJzMnLCAnNCcsICc0JywgJzIwMTktMDctMjEnKSIsCiAgICAgICJpbnNlcnQgaW50byBWaWV3cyAoYXJ0aWNsZV9pZCwgYXV0aG9yX2lkLCB2aWV3ZXJfaWQsIHZpZXdfZGF0ZSkgdmFsdWVzICgnMycsICc0JywgJzQnLCAnMjAxOS0wNy0yMScpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "1258",
+    "questionFrontendId": "1148",
+    "boundTopicId": null,
+    "title": "Article Views I",
+    "titleSlug": "article-views-i",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Easy",
+    "likes": 2,
+    "dislikes": 0,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"1.4K\", \"totalSubmission\": \"2K\", \"totalAcceptedRaw\": 1377, \"totalSubmissionRaw\": 2011, \"acRate\": \"68.5%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"Views\":[\"article_id\",\"author_id\",\"viewer_id\",\"view_date\"]},\"rows\":{\"Views\":[[1,3,5,\"2019-08-01\"],[1,3,6,\"2019-08-02\"],[2,7,7,\"2019-08-01\"],[2,7,6,\"2019-08-02\"],[4,7,1,\"2019-07-22\"],[3,4,4,\"2019-07-21\"],[3,4,4,\"2019-07-21\"]]}}",
+    "metaData": "{\n  \"mysql\": [\n    \"Create table If Not Exists Views (article_id int, author_id int, viewer_id int, view_date date)\"\n  ],\n  \"mssql\": [\n    \"create table Views (article_id int, author_id int, viewer_id int, view_date date)\"\n  ],\n  \"oraclesql\": [\n    \"create table Views (article_id int, author_id int, viewer_id int, view_date date)\",\n    \"ALTER SESSION SET nls_date_format='YYYY-MM-DD'\"\n  ],\n  \"database\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Views (article_id int, author_id int, viewer_id int, view_date date)",
+      "Truncate table Views",
+      "insert into Views (article_id, author_id, viewer_id, view_date) values ('1', '3', '5', '2019-08-01')",
+      "insert into Views (article_id, author_id, viewer_id, view_date) values ('1', '3', '6', '2019-08-02')",
+      "insert into Views (article_id, author_id, viewer_id, view_date) values ('2', '7', '7', '2019-08-01')",
+      "insert into Views (article_id, author_id, viewer_id, view_date) values ('2', '7', '6', '2019-08-02')",
+      "insert into Views (article_id, author_id, viewer_id, view_date) values ('4', '7', '1', '2019-07-22')",
+      "insert into Views (article_id, author_id, viewer_id, view_date) values ('3', '4', '4', '2019-07-21')",
+      "insert into Views (article_id, author_id, viewer_id, view_date) values ('3', '4', '4', '2019-07-21')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

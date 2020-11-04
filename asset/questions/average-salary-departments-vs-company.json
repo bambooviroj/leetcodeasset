@@ -1,1 +1,62 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYxNSIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYxNSIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJBdmVyYWdlIFNhbGFyeTogRGVwYXJ0bWVudHMgVlMgQ29tcGFueSIsCiAgICAidGl0bGVTbHVnIjogImF2ZXJhZ2Utc2FsYXJ5LWRlcGFydG1lbnRzLXZzLWNvbXBhbnkiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiSGFyZCIsCiAgICAibGlrZXMiOiA0MCwKICAgICJkaXNsaWtlcyI6IDEyLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFsKICAgICAgewogICAgICAgICJ1c2VybmFtZSI6ICJNci1CaW4iLAogICAgICAgICJwcm9maWxlVXJsIjogIi9tci1iaW4vIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNvbS91c2Vycy9tci1iaW4vYXZhdGFyXzE1NDc2NTUzMDQucG5nIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjQuOEtcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIxMi4xS1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogNDc1MSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMTIxMzMsIFwiYWNSYXRlXCI6IFwiMzkuMiVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICIxNjkiLAogICAgICAiY2FuU2VlRGV0YWlsIjogdHJ1ZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOntcInNhbGFyeVwiOltcImlkXCIsXCJlbXBsb3llZV9pZFwiLFwiYW1vdW50XCIsXCJwYXlfZGF0ZVwiXSxcImVtcGxveWVlXCI6W1wiZW1wbG95ZWVfaWRcIixcImRlcGFydG1lbnRfaWRcIl19LFwicm93c1wiOntcInNhbGFyeVwiOltbMSwxLDkwMDAsXCIyMDE3LzAzLzMxXCJdLFsyLDIsNjAwMCxcIjIwMTcvMDMvMzFcIl0sWzMsMywxMDAwMCxcIjIwMTcvMDMvMzFcIl0sWzQsMSw3MDAwLFwiMjAxNy8wMi8yOFwiXSxbNSwyLDYwMDAsXCIyMDE3LzAyLzI4XCJdLFs2LDMsODAwMCxcIjIwMTcvMDIvMjhcIl1dLFwiZW1wbG95ZWVcIjpbWzEsMV0sWzIsMl0sWzMsMl1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcclxuICBcIm15c3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgc2FsYXJ5IChpZCBpbnQsIGVtcGxveWVlX2lkIGludCwgYW1vdW50IGludCwgcGF5X2RhdGUgZGF0ZSlcIixcclxuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgZW1wbG95ZWUgKGVtcGxveWVlX2lkIGludCwgZGVwYXJ0bWVudF9pZCBpbnQpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgc2FsYXJ5IChpZCBpbnQsIGVtcGxveWVlX2lkIGludCwgYW1vdW50IGludCwgcGF5X2RhdGUgZGF0ZSlcIixcclxuICAgIFwiQ3JlYXRlIHRhYmxlIGVtcGxveWVlIChlbXBsb3llZV9pZCBpbnQsIGRlcGFydG1lbnRfaWQgaW50KVwiXHJcbiAgXSxcclxuICBcIm9yYWNsZXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBzYWxhcnkgKGlkIGludCwgZW1wbG95ZWVfaWQgaW50LCBhbW91bnQgaW50LCBwYXlfZGF0ZSBkYXRlKVwiLFxyXG4gICAgXCJDcmVhdGUgdGFibGUgZW1wbG95ZWUgKGVtcGxveWVlX2lkIGludCwgZGVwYXJ0bWVudF9pZCBpbnQpXCIsXHJcbiAgICBcImFsdGVyIFNFU1NJT04gc2V0IE5MU19EQVRFX0ZPUk1BVCA9ICdZWVlZL01NL0REJ1wiXHJcbiAgXSxcclxuICBcImRhdGFiYXNlXCI6IHRydWVcclxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFsKICAgICAgIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIHNhbGFyeSAoaWQgaW50LCBlbXBsb3llZV9pZCBpbnQsIGFtb3VudCBpbnQsIHBheV9kYXRlIGRhdGUpIiwKICAgICAgIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIGVtcGxveWVlIChlbXBsb3llZV9pZCBpbnQsIGRlcGFydG1lbnRfaWQgaW50KSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBzYWxhcnkiLAogICAgICAiaW5zZXJ0IGludG8gc2FsYXJ5IChpZCwgZW1wbG95ZWVfaWQsIGFtb3VudCwgcGF5X2RhdGUpIHZhbHVlcyAoJzEnLCAnMScsICc5MDAwJywgJzIwMTcvMDMvMzEnKSIsCiAgICAgICJpbnNlcnQgaW50byBzYWxhcnkgKGlkLCBlbXBsb3llZV9pZCwgYW1vdW50LCBwYXlfZGF0ZSkgdmFsdWVzICgnMicsICcyJywgJzYwMDAnLCAnMjAxNy8wMy8zMScpIiwKICAgICAgImluc2VydCBpbnRvIHNhbGFyeSAoaWQsIGVtcGxveWVlX2lkLCBhbW91bnQsIHBheV9kYXRlKSB2YWx1ZXMgKCczJywgJzMnLCAnMTAwMDAnLCAnMjAxNy8wMy8zMScpIiwKICAgICAgImluc2VydCBpbnRvIHNhbGFyeSAoaWQsIGVtcGxveWVlX2lkLCBhbW91bnQsIHBheV9kYXRlKSB2YWx1ZXMgKCc0JywgJzEnLCAnNzAwMCcsICcyMDE3LzAyLzI4JykiLAogICAgICAiaW5zZXJ0IGludG8gc2FsYXJ5IChpZCwgZW1wbG95ZWVfaWQsIGFtb3VudCwgcGF5X2RhdGUpIHZhbHVlcyAoJzUnLCAnMicsICc2MDAwJywgJzIwMTcvMDIvMjgnKSIsCiAgICAgICJpbnNlcnQgaW50byBzYWxhcnkgKGlkLCBlbXBsb3llZV9pZCwgYW1vdW50LCBwYXlfZGF0ZSkgdmFsdWVzICgnNicsICczJywgJzgwMDAnLCAnMjAxNy8wMi8yOCcpIiwKICAgICAgIlRydW5jYXRlIHRhYmxlIGVtcGxveWVlIiwKICAgICAgImluc2VydCBpbnRvIGVtcGxveWVlIChlbXBsb3llZV9pZCwgZGVwYXJ0bWVudF9pZCkgdmFsdWVzICgnMScsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gZW1wbG95ZWUgKGVtcGxveWVlX2lkLCBkZXBhcnRtZW50X2lkKSB2YWx1ZXMgKCcyJywgJzInKSIsCiAgICAgICJpbnNlcnQgaW50byBlbXBsb3llZSAoZW1wbG95ZWVfaWQsIGRlcGFydG1lbnRfaWQpIHZhbHVlcyAoJzMnLCAnMicpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "615",
+    "questionFrontendId": "615",
+    "boundTopicId": null,
+    "title": "Average Salary: Departments VS Company",
+    "titleSlug": "average-salary-departments-vs-company",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Hard",
+    "likes": 40,
+    "dislikes": 12,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Mr-Bin",
+        "profileUrl": "/mr-bin/",
+        "avatarUrl": "https://assets.leetcode.com/users/mr-bin/avatar_1547655304.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"4.8K\", \"totalSubmission\": \"12.1K\", \"totalAcceptedRaw\": 4751, \"totalSubmissionRaw\": 12133, \"acRate\": \"39.2%\"}",
+    "hints": [],
+    "solution": {
+      "id": "169",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"salary\":[\"id\",\"employee_id\",\"amount\",\"pay_date\"],\"employee\":[\"employee_id\",\"department_id\"]},\"rows\":{\"salary\":[[1,1,9000,\"2017/03/31\"],[2,2,6000,\"2017/03/31\"],[3,3,10000,\"2017/03/31\"],[4,1,7000,\"2017/02/28\"],[5,2,6000,\"2017/02/28\"],[6,3,8000,\"2017/02/28\"]],\"employee\":[[1,1],[2,2],[3,2]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists salary (id int, employee_id int, amount int, pay_date date)\",\r\n    \"Create table If Not Exists employee (employee_id int, department_id int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table salary (id int, employee_id int, amount int, pay_date date)\",\r\n    \"Create table employee (employee_id int, department_id int)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table salary (id int, employee_id int, amount int, pay_date date)\",\r\n    \"Create table employee (employee_id int, department_id int)\",\r\n    \"alter SESSION set NLS_DATE_FORMAT = 'YYYY/MM/DD'\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists salary (id int, employee_id int, amount int, pay_date date)",
+      "Create table If Not Exists employee (employee_id int, department_id int)",
+      "Truncate table salary",
+      "insert into salary (id, employee_id, amount, pay_date) values ('1', '1', '9000', '2017/03/31')",
+      "insert into salary (id, employee_id, amount, pay_date) values ('2', '2', '6000', '2017/03/31')",
+      "insert into salary (id, employee_id, amount, pay_date) values ('3', '3', '10000', '2017/03/31')",
+      "insert into salary (id, employee_id, amount, pay_date) values ('4', '1', '7000', '2017/02/28')",
+      "insert into salary (id, employee_id, amount, pay_date) values ('5', '2', '6000', '2017/02/28')",
+      "insert into salary (id, employee_id, amount, pay_date) values ('6', '3', '8000', '2017/02/28')",
+      "Truncate table employee",
+      "insert into employee (employee_id, department_id) values ('1', '1')",
+      "insert into employee (employee_id, department_id) values ('2', '2')",
+      "insert into employee (employee_id, department_id) values ('3', '2')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

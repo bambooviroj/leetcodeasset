@@ -1,1 +1,54 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYxMiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYxMiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJTaG9ydGVzdCBEaXN0YW5jZSBpbiBhIFBsYW5lIiwKICAgICJ0aXRsZVNsdWciOiAic2hvcnRlc3QtZGlzdGFuY2UtaW4tYS1wbGFuZSIsCiAgICAiY29udGVudCI6IG51bGwsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IHRydWUsCiAgICAiZGlmZmljdWx0eSI6ICJNZWRpdW0iLAogICAgImxpa2VzIjogNjEsCiAgICAiZGlzbGlrZXMiOiAxMywKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIltdIiwKICAgICJjb250cmlidXRvcnMiOiBbCiAgICAgIHsKICAgICAgICAidXNlcm5hbWUiOiAiTXItQmluIiwKICAgICAgICAicHJvZmlsZVVybCI6ICIvbXItYmluLyIsCiAgICAgICAgImF2YXRhclVybCI6ICJodHRwczovL2Fzc2V0cy5sZWV0Y29kZS5jb20vdXNlcnMvbXItYmluL2F2YXRhcl8xNTQ3NjU1MzA0LnBuZyIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29udHJpYnV0b3JOb2RlIgogICAgICB9CiAgICBdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6IG51bGwsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBudWxsLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCI4LjdLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMTUuOUtcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDg3NDgsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDE1OTQ0LCBcImFjUmF0ZVwiOiBcIjU0LjklXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMTc4IiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjp7XCJwb2ludF8yZFwiOltcInhcIixcInlcIl19LFwicm93c1wiOntcInBvaW50XzJkXCI6W1stMSwtMV0sWzAsMF0sWy0xLC0yXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xyXG4gIFwibXlzcWxcIjogW1xyXG4gICAgXCJDUkVBVEUgVEFCTEUgSWYgTm90IEV4aXN0cyBwb2ludF8yZCAoeCBJTlQgTk9UIE5VTEwsIHkgSU5UIE5PVCBOVUxMKVwiXHJcbiAgXSxcclxuICBcIm1zc3FsXCI6IFtcclxuICAgIFwiQ1JFQVRFIFRBQkxFIHBvaW50XzJkICh4IElOVCBOT1QgTlVMTCwgeSBJTlQgTk9UIE5VTEwpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ1JFQVRFIFRBQkxFIHBvaW50XzJkICh4IElOVCBOT1QgTlVMTCwgeSBJTlQgTk9UIE5VTEwpXCJcclxuICBdLFxyXG4gIFwiZGF0YWJhc2VcIjogdHJ1ZVxyXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogWwogICAgICAiQ1JFQVRFIFRBQkxFIElmIE5vdCBFeGlzdHMgcG9pbnRfMmQgKHggSU5UIE5PVCBOVUxMLCB5IElOVCBOT1QgTlVMTCkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgcG9pbnRfMmQiLAogICAgICAiaW5zZXJ0IGludG8gcG9pbnRfMmQgKHgsIHkpIHZhbHVlcyAoJy0xJywgJy0xJykiLAogICAgICAiaW5zZXJ0IGludG8gcG9pbnRfMmQgKHgsIHkpIHZhbHVlcyAoJzAnLCAnMCcpIiwKICAgICAgImluc2VydCBpbnRvIHBvaW50XzJkICh4LCB5KSB2YWx1ZXMgKCctMScsICctMicpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "612",
+    "questionFrontendId": "612",
+    "boundTopicId": null,
+    "title": "Shortest Distance in a Plane",
+    "titleSlug": "shortest-distance-in-a-plane",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Medium",
+    "likes": 61,
+    "dislikes": 13,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Mr-Bin",
+        "profileUrl": "/mr-bin/",
+        "avatarUrl": "https://assets.leetcode.com/users/mr-bin/avatar_1547655304.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"8.7K\", \"totalSubmission\": \"15.9K\", \"totalAcceptedRaw\": 8748, \"totalSubmissionRaw\": 15944, \"acRate\": \"54.9%\"}",
+    "hints": [],
+    "solution": {
+      "id": "178",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"point_2d\":[\"x\",\"y\"]},\"rows\":{\"point_2d\":[[-1,-1],[0,0],[-1,-2]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"CREATE TABLE If Not Exists point_2d (x INT NOT NULL, y INT NOT NULL)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"CREATE TABLE point_2d (x INT NOT NULL, y INT NOT NULL)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"CREATE TABLE point_2d (x INT NOT NULL, y INT NOT NULL)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "CREATE TABLE If Not Exists point_2d (x INT NOT NULL, y INT NOT NULL)",
+      "Truncate table point_2d",
+      "insert into point_2d (x, y) values ('-1', '-1')",
+      "insert into point_2d (x, y) values ('0', '0')",
+      "insert into point_2d (x, y) values ('-1', '-2')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

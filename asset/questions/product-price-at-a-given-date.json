@@ -1,1 +1,46 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjEyNzgiLAogICAgInF1ZXN0aW9uRnJvbnRlbmRJZCI6ICIxMTY0IiwKICAgICJib3VuZFRvcGljSWQiOiBudWxsLAogICAgInRpdGxlIjogIlByb2R1Y3QgUHJpY2UgYXQgYSBHaXZlbiBEYXRlIiwKICAgICJ0aXRsZVNsdWciOiAicHJvZHVjdC1wcmljZS1hdC1hLWdpdmVuLWRhdGUiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiTWVkaXVtIiwKICAgICJsaWtlcyI6IDksCiAgICAiZGlzbGlrZXMiOiAxLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6IG51bGwsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBudWxsLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCI1MzNcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCI4ODZcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDUzMywgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogODg2LCBcImFjUmF0ZVwiOiBcIjYwLjIlXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogbnVsbCwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjp7XCJQcm9kdWN0c1wiOltcInByb2R1Y3RfaWRcIixcIm5ld19wcmljZVwiLFwiY2hhbmdlX2RhdGVcIl19LFwicm93c1wiOntcIlByb2R1Y3RzXCI6W1sxLDIwLFwiMjAxOS0wOC0xNFwiXSxbMiw1MCxcIjIwMTktMDgtMTRcIl0sWzEsMzAsXCIyMDE5LTA4LTE1XCJdLFsxLDM1LFwiMjAxOS0wOC0xNlwiXSxbMiw2NSxcIjIwMTktMDgtMTdcIl0sWzMsMjAsXCIyMDE5LTA4LTE4XCJdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XG4gIFwibXlzcWxcIjogW1xuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgUHJvZHVjdHMgKHByb2R1Y3RfaWQgaW50LCBuZXdfcHJpY2UgaW50LCBjaGFuZ2VfZGF0ZSBkYXRlKVwiXG4gIF0sXG4gIFwibXNzcWxcIjogW1xuICAgIFwiY3JlYXRlIHRhYmxlIFByb2R1Y3RzIChwcm9kdWN0X2lkIGludCwgbmV3X3ByaWNlIGludCwgY2hhbmdlX2RhdGUgZGF0ZSlcIlxuICBdLFxuICBcIm9yYWNsZXNxbFwiOiBbXG4gICAgXCJjcmVhdGUgdGFibGUgUHJvZHVjdHMgKHByb2R1Y3RfaWQgaW50LCBuZXdfcHJpY2UgaW50LCBjaGFuZ2VfZGF0ZSBkYXRlKVwiLFxuICAgIFwiQUxURVIgU0VTU0lPTiBTRVQgbmxzX2RhdGVfZm9ybWF0PSdZWVlZLU1NLUREJ1wiXG4gIF0sXG4gIFwiZGF0YWJhc2VcIjogdHJ1ZVxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFsKICAgICAgIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIFByb2R1Y3RzIChwcm9kdWN0X2lkIGludCwgbmV3X3ByaWNlIGludCwgY2hhbmdlX2RhdGUgZGF0ZSkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgUHJvZHVjdHMiLAogICAgICAiaW5zZXJ0IGludG8gUHJvZHVjdHMgKHByb2R1Y3RfaWQsIG5ld19wcmljZSwgY2hhbmdlX2RhdGUpIHZhbHVlcyAoJzEnLCAnMjAnLCAnMjAxOS0wOC0xNCcpIiwKICAgICAgImluc2VydCBpbnRvIFByb2R1Y3RzIChwcm9kdWN0X2lkLCBuZXdfcHJpY2UsIGNoYW5nZV9kYXRlKSB2YWx1ZXMgKCcyJywgJzUwJywgJzIwMTktMDgtMTQnKSIsCiAgICAgICJpbnNlcnQgaW50byBQcm9kdWN0cyAocHJvZHVjdF9pZCwgbmV3X3ByaWNlLCBjaGFuZ2VfZGF0ZSkgdmFsdWVzICgnMScsICczMCcsICcyMDE5LTA4LTE1JykiLAogICAgICAiaW5zZXJ0IGludG8gUHJvZHVjdHMgKHByb2R1Y3RfaWQsIG5ld19wcmljZSwgY2hhbmdlX2RhdGUpIHZhbHVlcyAoJzEnLCAnMzUnLCAnMjAxOS0wOC0xNicpIiwKICAgICAgImluc2VydCBpbnRvIFByb2R1Y3RzIChwcm9kdWN0X2lkLCBuZXdfcHJpY2UsIGNoYW5nZV9kYXRlKSB2YWx1ZXMgKCcyJywgJzY1JywgJzIwMTktMDgtMTcnKSIsCiAgICAgICJpbnNlcnQgaW50byBQcm9kdWN0cyAocHJvZHVjdF9pZCwgbmV3X3ByaWNlLCBjaGFuZ2VfZGF0ZSkgdmFsdWVzICgnMycsICcyMCcsICcyMDE5LTA4LTE4JykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "1278",
+    "questionFrontendId": "1164",
+    "boundTopicId": null,
+    "title": "Product Price at a Given Date",
+    "titleSlug": "product-price-at-a-given-date",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Medium",
+    "likes": 9,
+    "dislikes": 1,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"533\", \"totalSubmission\": \"886\", \"totalAcceptedRaw\": 533, \"totalSubmissionRaw\": 886, \"acRate\": \"60.2%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"Products\":[\"product_id\",\"new_price\",\"change_date\"]},\"rows\":{\"Products\":[[1,20,\"2019-08-14\"],[2,50,\"2019-08-14\"],[1,30,\"2019-08-15\"],[1,35,\"2019-08-16\"],[2,65,\"2019-08-17\"],[3,20,\"2019-08-18\"]]}}",
+    "metaData": "{\n  \"mysql\": [\n    \"Create table If Not Exists Products (product_id int, new_price int, change_date date)\"\n  ],\n  \"mssql\": [\n    \"create table Products (product_id int, new_price int, change_date date)\"\n  ],\n  \"oraclesql\": [\n    \"create table Products (product_id int, new_price int, change_date date)\",\n    \"ALTER SESSION SET nls_date_format='YYYY-MM-DD'\"\n  ],\n  \"database\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Products (product_id int, new_price int, change_date date)",
+      "Truncate table Products",
+      "insert into Products (product_id, new_price, change_date) values ('1', '20', '2019-08-14')",
+      "insert into Products (product_id, new_price, change_date) values ('2', '50', '2019-08-14')",
+      "insert into Products (product_id, new_price, change_date) values ('1', '30', '2019-08-15')",
+      "insert into Products (product_id, new_price, change_date) values ('1', '35', '2019-08-16')",
+      "insert into Products (product_id, new_price, change_date) values ('2', '65', '2019-08-17')",
+      "insert into Products (product_id, new_price, change_date) values ('3', '20', '2019-08-18')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

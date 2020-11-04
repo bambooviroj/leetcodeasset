@@ -1,1 +1,66 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE3NiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE3NiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJTZWNvbmQgSGlnaGVzdCBTYWxhcnkiLAogICAgInRpdGxlU2x1ZyI6ICJzZWNvbmQtaGlnaGVzdC1zYWxhcnkiLAogICAgImNvbnRlbnQiOiAiPHA+V3JpdGUgYSBTUUwgcXVlcnkgdG8gZ2V0IHRoZSBzZWNvbmQgaGlnaGVzdCBzYWxhcnkgZnJvbSB0aGUgPGNvZGU+RW1wbG95ZWU8L2NvZGU+IHRhYmxlLjwvcD5cclxuXHJcbjxwcmU+XHJcbistLS0tKy0tLS0tLS0tK1xyXG58IElkIHwgU2FsYXJ5IHxcclxuKy0tLS0rLS0tLS0tLS0rXHJcbnwgMSAgfCAxMDAgICAgfFxyXG58IDIgIHwgMjAwICAgIHxcclxufCAzICB8IDMwMCAgICB8XHJcbistLS0tKy0tLS0tLS0tK1xyXG48L3ByZT5cclxuXHJcbjxwPkZvciBleGFtcGxlLCBnaXZlbiB0aGUgYWJvdmUgRW1wbG95ZWUgdGFibGUsIHRoZSBxdWVyeSBzaG91bGQgcmV0dXJuIDxjb2RlPjIwMDwvY29kZT4gYXMgdGhlIHNlY29uZCBoaWdoZXN0IHNhbGFyeS4gSWYgdGhlcmUgaXMgbm8gc2Vjb25kIGhpZ2hlc3Qgc2FsYXJ5LCB0aGVuIHRoZSBxdWVyeSBzaG91bGQgcmV0dXJuIDxjb2RlPm51bGw8L2NvZGU+LjwvcD5cclxuXHJcbjxwcmU+XHJcbistLS0tLS0tLS0tLS0tLS0tLS0tLS0rXHJcbnwgU2Vjb25kSGlnaGVzdFNhbGFyeSB8XHJcbistLS0tLS0tLS0tLS0tLS0tLS0tLS0rXHJcbnwgMjAwICAgICAgICAgICAgICAgICB8XHJcbistLS0tLS0tLS0tLS0tLS0tLS0tLS0rXHJcbjwvcHJlPlxyXG4iLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiBmYWxzZSwKICAgICJkaWZmaWN1bHR5IjogIkVhc3kiLAogICAgImxpa2VzIjogNTUxLAogICAgImRpc2xpa2VzIjogMjk0LAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6ICJ7XCJjcHBcIjogZmFsc2UsIFwiamF2YVwiOiBmYWxzZSwgXCJweXRob25cIjogZmFsc2UsIFwicHl0aG9uM1wiOiBmYWxzZSwgXCJteXNxbFwiOiBmYWxzZSwgXCJtc3NxbFwiOiBmYWxzZSwgXCJvcmFjbGVzcWxcIjogZmFsc2UsIFwiY1wiOiBmYWxzZSwgXCJjc2hhcnBcIjogZmFsc2UsIFwiamF2YXNjcmlwdFwiOiBmYWxzZSwgXCJydWJ5XCI6IGZhbHNlLCBcImJhc2hcIjogZmFsc2UsIFwic3dpZnRcIjogZmFsc2UsIFwiZ29sYW5nXCI6IGZhbHNlLCBcInNjYWxhXCI6IGZhbHNlLCBcImh0bWxcIjogZmFsc2UsIFwicHl0aG9ubWxcIjogZmFsc2UsIFwia290bGluXCI6IGZhbHNlLCBcInJ1c3RcIjogZmFsc2UsIFwicGhwXCI6IGZhbHNlfSIsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBbCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJNeVNRTCIsCiAgICAgICAgImxhbmdTbHVnIjogIm15c3FsIiwKICAgICAgICAiY29kZSI6ICIjIFdyaXRlIHlvdXIgTXlTUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93XG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIk1TIFNRTCBTZXJ2ZXIiLAogICAgICAgICJsYW5nU2x1ZyI6ICJtc3NxbCIsCiAgICAgICAgImNvZGUiOiAiLyogV3JpdGUgeW91ciBULVNRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiT3JhY2xlIiwKICAgICAgICAibGFuZ1NsdWciOiAib3JhY2xlc3FsIiwKICAgICAgICAiY29kZSI6ICIvKiBXcml0ZSB5b3VyIFBML1NRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9CiAgICBdLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCIxNTAuMktcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCI1MzMuN0tcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDE1MDE3MSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogNTMzNzMxLCBcImFjUmF0ZVwiOiBcIjI4LjElXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMjE3IiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjoge1wiRW1wbG95ZWVcIjogW1wiSWRcIiwgXCJTYWxhcnlcIl19LCBcInJvd3NcIjoge1wiRW1wbG95ZWVcIjogW1sxLCAxMDBdLCBbMiwgMjAwXSwgWzMsIDMwMF1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcbiAgXCJteXNxbFwiOiBbXG4gICAgXCJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBFbXBsb3llZSAoSWQgaW50LCBTYWxhcnkgaW50KVwiXG4gIF0sXG4gIFwibXNzcWxcIjogW1xuICAgIFwiY3JlYXRlIHRhYmxlIEVtcGxveWVlICggSWQgaW50LCBTYWxhcnkgaW50IClcIlxuICBdLFxuICBcIm9yYWNsZXNxbFwiOiBbXG4gICAgXCJjcmVhdGUgdGFibGUgRW1wbG95ZWUgKCBJZCBpbnQsIFNhbGFyeSBpbnQgKVwiXG4gIF0sXG4gIFwiZGF0YWJhc2VcIjogdHJ1ZVxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFsKICAgICAgIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIEVtcGxveWVlIChJZCBpbnQsIFNhbGFyeSBpbnQpIiwKICAgICAgIlRydW5jYXRlIHRhYmxlIEVtcGxveWVlIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgU2FsYXJ5KSB2YWx1ZXMgKCcxJywgJzEwMCcpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgU2FsYXJ5KSB2YWx1ZXMgKCcyJywgJzIwMCcpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgU2FsYXJ5KSB2YWx1ZXMgKCczJywgJzMwMCcpIgogICAgXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wibXlzcWxcIjogW1wiTXlTUUxcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5teXNxbC1zZXJ2ZXIgNS43LjIxPC9jb2RlPi48L3A+XCJdLCBcIm1zc3FsXCI6IFtcIk1TIFNRTCBTZXJ2ZXJcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5tc3NxbDwvY29kZT4uPC9wPlwiXSwgXCJvcmFjbGVzcWxcIjogW1wiT3JhY2xlXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+b3JhY2xlIHNxbDwvY29kZT4uPC9wPlwiXX0iLAogICAgImxpYnJhcnlVcmwiOiBudWxsLAogICAgIl9fdHlwZW5hbWUiOiAiUXVlc3Rpb25Ob2RlIgogIH0KfQ==
+{
+  "question": {
+    "questionId": "176",
+    "questionFrontendId": "176",
+    "boundTopicId": null,
+    "title": "Second Highest Salary",
+    "titleSlug": "second-highest-salary",
+    "content": "<p>Write a SQL query to get the second highest salary from the <code>Employee</code> table.</p>\r\n\r\n<pre>\r\n+----+--------+\r\n| Id | Salary |\r\n+----+--------+\r\n| 1  | 100    |\r\n| 2  | 200    |\r\n| 3  | 300    |\r\n+----+--------+\r\n</pre>\r\n\r\n<p>For example, given the above Employee table, the query should return <code>200</code> as the second highest salary. If there is no second highest salary, then the query should return <code>null</code>.</p>\r\n\r\n<pre>\r\n+---------------------+\r\n| SecondHighestSalary |\r\n+---------------------+\r\n| 200                 |\r\n+---------------------+\r\n</pre>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 551,
+    "dislikes": 294,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"150.2K\", \"totalSubmission\": \"533.7K\", \"totalAcceptedRaw\": 150171, \"totalSubmissionRaw\": 533731, \"acRate\": \"28.1%\"}",
+    "hints": [],
+    "solution": {
+      "id": "217",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Employee\": [\"Id\", \"Salary\"]}, \"rows\": {\"Employee\": [[1, 100], [2, 200], [3, 300]]}}",
+    "metaData": "{\n  \"mysql\": [\n    \"Create table If Not Exists Employee (Id int, Salary int)\"\n  ],\n  \"mssql\": [\n    \"create table Employee ( Id int, Salary int )\"\n  ],\n  \"oraclesql\": [\n    \"create table Employee ( Id int, Salary int )\"\n  ],\n  \"database\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Employee (Id int, Salary int)",
+      "Truncate table Employee",
+      "insert into Employee (Id, Salary) values ('1', '100')",
+      "insert into Employee (Id, Salary) values ('2', '200')",
+      "insert into Employee (Id, Salary) values ('3', '300')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

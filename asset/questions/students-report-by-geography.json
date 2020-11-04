@@ -1,1 +1,55 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYxOCIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYxOCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJTdHVkZW50cyBSZXBvcnQgQnkgR2VvZ3JhcGh5IiwKICAgICJ0aXRsZVNsdWciOiAic3R1ZGVudHMtcmVwb3J0LWJ5LWdlb2dyYXBoeSIsCiAgICAiY29udGVudCI6IG51bGwsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IHRydWUsCiAgICAiZGlmZmljdWx0eSI6ICJIYXJkIiwKICAgICJsaWtlcyI6IDIzLAogICAgImRpc2xpa2VzIjogNTYsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogWwogICAgICB7CiAgICAgICAgInVzZXJuYW1lIjogIk1yLUJpbiIsCiAgICAgICAgInByb2ZpbGVVcmwiOiAiL21yLWJpbi8iLAogICAgICAgICJhdmF0YXJVcmwiOiAiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzL21yLWJpbi9hdmF0YXJfMTU0NzY1NTMwNC5wbmciLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvbnRyaWJ1dG9yTm9kZSIKICAgICAgfQogICAgXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiBudWxsLAogICAgInRvcGljVGFncyI6IFtdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogbnVsbCwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiMy4yS1wiLCBcInRvdGFsU3VibWlzc2lvblwiOiBcIjcuMktcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDMxNjYsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDcxNTIsIFwiYWNSYXRlXCI6IFwiNDQuMyVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICIxNzUiLAogICAgICAiY2FuU2VlRGV0YWlsIjogdHJ1ZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOntcInN0dWRlbnRcIjpbXCJuYW1lXCIsXCJjb250aW5lbnRcIl19LFwicm93c1wiOntcInN0dWRlbnRcIjpbW1wiSmFuZVwiLFwiQW1lcmljYVwiXSxbXCJQYXNjYWxcIixcIkV1cm9wZVwiXSxbXCJYaVwiLFwiQXNpYVwiXSxbXCJKYWNrXCIsXCJBbWVyaWNhXCJdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIHN0dWRlbnQgKG5hbWUgdmFyY2hhcig1MCksIGNvbnRpbmVudCB2YXJjaGFyKDcpKVwiXHJcbiAgXSxcclxuICBcIm1zc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIHN0dWRlbnQgKG5hbWUgdmFyY2hhcig1MCksIGNvbnRpbmVudCB2YXJjaGFyKDcpKVwiXHJcbiAgXSxcclxuICBcIm9yYWNsZXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBzdHVkZW50IChuYW1lIHZhcmNoYXIoNTApLCBjb250aW5lbnQgdmFyY2hhcig3KSlcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBzdHVkZW50IChuYW1lIHZhcmNoYXIoNTApLCBjb250aW5lbnQgdmFyY2hhcig3KSkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgc3R1ZGVudCIsCiAgICAgICJpbnNlcnQgaW50byBzdHVkZW50IChuYW1lLCBjb250aW5lbnQpIHZhbHVlcyAoJ0phbmUnLCAnQW1lcmljYScpIiwKICAgICAgImluc2VydCBpbnRvIHN0dWRlbnQgKG5hbWUsIGNvbnRpbmVudCkgdmFsdWVzICgnUGFzY2FsJywgJ0V1cm9wZScpIiwKICAgICAgImluc2VydCBpbnRvIHN0dWRlbnQgKG5hbWUsIGNvbnRpbmVudCkgdmFsdWVzICgnWGknLCAnQXNpYScpIiwKICAgICAgImluc2VydCBpbnRvIHN0dWRlbnQgKG5hbWUsIGNvbnRpbmVudCkgdmFsdWVzICgnSmFjaycsICdBbWVyaWNhJykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "618",
+    "questionFrontendId": "618",
+    "boundTopicId": null,
+    "title": "Students Report By Geography",
+    "titleSlug": "students-report-by-geography",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Hard",
+    "likes": 23,
+    "dislikes": 56,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Mr-Bin",
+        "profileUrl": "/mr-bin/",
+        "avatarUrl": "https://assets.leetcode.com/users/mr-bin/avatar_1547655304.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"3.2K\", \"totalSubmission\": \"7.2K\", \"totalAcceptedRaw\": 3166, \"totalSubmissionRaw\": 7152, \"acRate\": \"44.3%\"}",
+    "hints": [],
+    "solution": {
+      "id": "175",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"student\":[\"name\",\"continent\"]},\"rows\":{\"student\":[[\"Jane\",\"America\"],[\"Pascal\",\"Europe\"],[\"Xi\",\"Asia\"],[\"Jack\",\"America\"]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists student (name varchar(50), continent varchar(7))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table student (name varchar(50), continent varchar(7))\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table student (name varchar(50), continent varchar(7))\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists student (name varchar(50), continent varchar(7))",
+      "Truncate table student",
+      "insert into student (name, continent) values ('Jane', 'America')",
+      "insert into student (name, continent) values ('Pascal', 'Europe')",
+      "insert into student (name, continent) values ('Xi', 'Asia')",
+      "insert into student (name, continent) values ('Jack', 'America')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

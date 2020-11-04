@@ -1,1 +1,79 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjU5NiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjU5NiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJDbGFzc2VzIE1vcmUgVGhhbiA1IFN0dWRlbnRzIiwKICAgICJ0aXRsZVNsdWciOiAiY2xhc3Nlcy1tb3JlLXRoYW4tNS1zdHVkZW50cyIsCiAgICAiY29udGVudCI6ICI8cD5UaGVyZSBpcyBhIHRhYmxlIDxjb2RlPmNvdXJzZXM8L2NvZGU+IHdpdGggY29sdW1uczogPGI+c3R1ZGVudDwvYj4gYW5kIDxiPmNsYXNzPC9iPjwvcD5cclxuXHJcbjxwPlBsZWFzZSBsaXN0IG91dCBhbGwgY2xhc3NlcyB3aGljaCBoYXZlIG1vcmUgdGhhbiBvciBlcXVhbCB0byA1IHN0dWRlbnRzLjwvcD5cclxuXHJcbjxwPkZvciBleGFtcGxlLCB0aGUgdGFibGU6PC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0rXHJcbnwgc3R1ZGVudCB8IGNsYXNzICAgICAgfFxyXG4rLS0tLS0tLS0tKy0tLS0tLS0tLS0tLStcclxufCBBICAgICAgIHwgTWF0aCAgICAgICB8XHJcbnwgQiAgICAgICB8IEVuZ2xpc2ggICAgfFxyXG58IEMgICAgICAgfCBNYXRoICAgICAgIHxcclxufCBEICAgICAgIHwgQmlvbG9neSAgICB8XHJcbnwgRSAgICAgICB8IE1hdGggICAgICAgfFxyXG58IEYgICAgICAgfCBDb21wdXRlciAgIHxcclxufCBHICAgICAgIHwgTWF0aCAgICAgICB8XHJcbnwgSCAgICAgICB8IE1hdGggICAgICAgfFxyXG58IEkgICAgICAgfCBNYXRoICAgICAgIHxcclxuKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0rXHJcbjwvcHJlPlxyXG5cclxuPHA+U2hvdWxkIG91dHB1dDo8L3A+XHJcblxyXG48cHJlPlxyXG4rLS0tLS0tLS0tK1xyXG58IGNsYXNzICAgfFxyXG4rLS0tLS0tLS0tK1xyXG58IE1hdGggICAgfFxyXG4rLS0tLS0tLS0tK1xyXG48L3ByZT5cclxuXHJcbjxwPiZuYnNwOzwvcD5cclxuXHJcbjxwPjxiPk5vdGU6PC9iPjxiciAvPlxyXG5UaGUgc3R1ZGVudHMgc2hvdWxkIG5vdCBiZSBjb3VudGVkIGR1cGxpY2F0ZSBpbiBlYWNoIGNvdXJzZS48L3A+XHJcbiIsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IGZhbHNlLAogICAgImRpZmZpY3VsdHkiOiAiRWFzeSIsCiAgICAibGlrZXMiOiAxNjQsCiAgICAiZGlzbGlrZXMiOiA0NzEsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogWwogICAgICB7CiAgICAgICAgInVzZXJuYW1lIjogIlNub3dJblJhaW4iLAogICAgICAgICJwcm9maWxlVXJsIjogIi9zbm93aW5yYWluLyIsCiAgICAgICAgImF2YXRhclVybCI6ICJodHRwczovL3d3dy5ncmF2YXRhci5jb20vYXZhdGFyL2I1OWNmY2Q3MjU3NTZkNzE3MzY3MGU3MzJiZTYwOGI5LnBuZz9zPTIwMCIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29udHJpYnV0b3JOb2RlIgogICAgICB9CiAgICBdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6ICJ7XCJjcHBcIjogZmFsc2UsIFwiamF2YVwiOiBmYWxzZSwgXCJweXRob25cIjogZmFsc2UsIFwicHl0aG9uM1wiOiBmYWxzZSwgXCJteXNxbFwiOiBmYWxzZSwgXCJtc3NxbFwiOiBmYWxzZSwgXCJvcmFjbGVzcWxcIjogZmFsc2UsIFwiY1wiOiBmYWxzZSwgXCJjc2hhcnBcIjogZmFsc2UsIFwiamF2YXNjcmlwdFwiOiBmYWxzZSwgXCJydWJ5XCI6IGZhbHNlLCBcImJhc2hcIjogZmFsc2UsIFwic3dpZnRcIjogZmFsc2UsIFwiZ29sYW5nXCI6IGZhbHNlLCBcInNjYWxhXCI6IGZhbHNlLCBcImh0bWxcIjogZmFsc2UsIFwicHl0aG9ubWxcIjogZmFsc2UsIFwia290bGluXCI6IGZhbHNlLCBcInJ1c3RcIjogZmFsc2UsIFwicGhwXCI6IGZhbHNlfSIsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBbCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJNeVNRTCIsCiAgICAgICAgImxhbmdTbHVnIjogIm15c3FsIiwKICAgICAgICAiY29kZSI6ICIjIFdyaXRlIHlvdXIgTXlTUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93XG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIk1TIFNRTCBTZXJ2ZXIiLAogICAgICAgICJsYW5nU2x1ZyI6ICJtc3NxbCIsCiAgICAgICAgImNvZGUiOiAiLyogV3JpdGUgeW91ciBULVNRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiT3JhY2xlIiwKICAgICAgICAibGFuZ1NsdWciOiAib3JhY2xlc3FsIiwKICAgICAgICAiY29kZSI6ICIvKiBXcml0ZSB5b3VyIFBML1NRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9CiAgICBdLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCI1Mi40S1wiLCBcInRvdGFsU3VibWlzc2lvblwiOiBcIjE0NC4zS1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogNTIzOTcsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDE0NDM0MywgXCJhY1JhdGVcIjogXCIzNi4zJVwifSIsCiAgICAiaGludHMiOiBbXSwKICAgICJzb2x1dGlvbiI6IHsKICAgICAgImlkIjogIjIwMiIsCiAgICAgICJjYW5TZWVEZXRhaWwiOiB0cnVlLAogICAgICAiX190eXBlbmFtZSI6ICJBcnRpY2xlTm9kZSIKICAgIH0sCiAgICAic3RhdHVzIjogbnVsbCwKICAgICJzYW1wbGVUZXN0Q2FzZSI6ICJ7XCJoZWFkZXJzXCI6IHtcImNvdXJzZXNcIjogW1wic3R1ZGVudFwiLCBcImNsYXNzXCJdfSwgXCJyb3dzXCI6IHtcImNvdXJzZXNcIjogW1tcIkFcIiwgXCJNYXRoXCJdLCBbXCJCXCIsIFwiRW5nbGlzaFwiXSwgW1wiQ1wiLCBcIk1hdGhcIl0sIFtcIkRcIiwgXCJCaW9sb2d5XCJdLCBbXCJFXCIsIFwiTWF0aFwiXSwgW1wiRlwiLCBcIkNvbXB1dGVyXCJdLCBbXCJHXCIsIFwiTWF0aFwiXSwgW1wiSFwiLCBcIk1hdGhcIl0sIFtcIklcIiwgXCJNYXRoXCJdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIGNvdXJzZXMgKHN0dWRlbnQgdmFyY2hhcigyNTUpLCBjbGFzcyB2YXJjaGFyKDI1NSkpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgY291cnNlcyAoc3R1ZGVudCB2YXJjaGFyKDI1NSksIGNsYXNzIHZhcmNoYXIoMjU1KSlcIlxyXG4gIF0sXHJcbiAgXCJvcmFjbGVzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgY291cnNlcyAoc3R1ZGVudCB2YXJjaGFyKDI1NSksIGNsYXNzIHZhcmNoYXIoMjU1KSlcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBjb3Vyc2VzIChzdHVkZW50IHZhcmNoYXIoMjU1KSwgY2xhc3MgdmFyY2hhcigyNTUpKSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBjb3Vyc2VzIiwKICAgICAgImluc2VydCBpbnRvIGNvdXJzZXMgKHN0dWRlbnQsIGNsYXNzKSB2YWx1ZXMgKCdBJywgJ01hdGgnKSIsCiAgICAgICJpbnNlcnQgaW50byBjb3Vyc2VzIChzdHVkZW50LCBjbGFzcykgdmFsdWVzICgnQicsICdFbmdsaXNoJykiLAogICAgICAiaW5zZXJ0IGludG8gY291cnNlcyAoc3R1ZGVudCwgY2xhc3MpIHZhbHVlcyAoJ0MnLCAnTWF0aCcpIiwKICAgICAgImluc2VydCBpbnRvIGNvdXJzZXMgKHN0dWRlbnQsIGNsYXNzKSB2YWx1ZXMgKCdEJywgJ0Jpb2xvZ3knKSIsCiAgICAgICJpbnNlcnQgaW50byBjb3Vyc2VzIChzdHVkZW50LCBjbGFzcykgdmFsdWVzICgnRScsICdNYXRoJykiLAogICAgICAiaW5zZXJ0IGludG8gY291cnNlcyAoc3R1ZGVudCwgY2xhc3MpIHZhbHVlcyAoJ0YnLCAnQ29tcHV0ZXInKSIsCiAgICAgICJpbnNlcnQgaW50byBjb3Vyc2VzIChzdHVkZW50LCBjbGFzcykgdmFsdWVzICgnRycsICdNYXRoJykiLAogICAgICAiaW5zZXJ0IGludG8gY291cnNlcyAoc3R1ZGVudCwgY2xhc3MpIHZhbHVlcyAoJ0gnLCAnTWF0aCcpIiwKICAgICAgImluc2VydCBpbnRvIGNvdXJzZXMgKHN0dWRlbnQsIGNsYXNzKSB2YWx1ZXMgKCdJJywgJ01hdGgnKSIKICAgIF0sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcIm15c3FsXCI6IFtcIk15U1FMXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXlzcWwtc2VydmVyIDUuNy4yMTwvY29kZT4uPC9wPlwiXSwgXCJtc3NxbFwiOiBbXCJNUyBTUUwgU2VydmVyXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXNzcWw8L2NvZGU+LjwvcD5cIl0sIFwib3JhY2xlc3FsXCI6IFtcIk9yYWNsZVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm9yYWNsZSBzcWw8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "596",
+    "questionFrontendId": "596",
+    "boundTopicId": null,
+    "title": "Classes More Than 5 Students",
+    "titleSlug": "classes-more-than-5-students",
+    "content": "<p>There is a table <code>courses</code> with columns: <b>student</b> and <b>class</b></p>\r\n\r\n<p>Please list out all classes which have more than or equal to 5 students.</p>\r\n\r\n<p>For example, the table:</p>\r\n\r\n<pre>\r\n+---------+------------+\r\n| student | class      |\r\n+---------+------------+\r\n| A       | Math       |\r\n| B       | English    |\r\n| C       | Math       |\r\n| D       | Biology    |\r\n| E       | Math       |\r\n| F       | Computer   |\r\n| G       | Math       |\r\n| H       | Math       |\r\n| I       | Math       |\r\n+---------+------------+\r\n</pre>\r\n\r\n<p>Should output:</p>\r\n\r\n<pre>\r\n+---------+\r\n| class   |\r\n+---------+\r\n| Math    |\r\n+---------+\r\n</pre>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><b>Note:</b><br />\r\nThe students should not be counted duplicate in each course.</p>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 164,
+    "dislikes": 471,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "SnowInRain",
+        "profileUrl": "/snowinrain/",
+        "avatarUrl": "https://www.gravatar.com/avatar/b59cfcd725756d7173670e732be608b9.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"52.4K\", \"totalSubmission\": \"144.3K\", \"totalAcceptedRaw\": 52397, \"totalSubmissionRaw\": 144343, \"acRate\": \"36.3%\"}",
+    "hints": [],
+    "solution": {
+      "id": "202",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"courses\": [\"student\", \"class\"]}, \"rows\": {\"courses\": [[\"A\", \"Math\"], [\"B\", \"English\"], [\"C\", \"Math\"], [\"D\", \"Biology\"], [\"E\", \"Math\"], [\"F\", \"Computer\"], [\"G\", \"Math\"], [\"H\", \"Math\"], [\"I\", \"Math\"]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists courses (student varchar(255), class varchar(255))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table courses (student varchar(255), class varchar(255))\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table courses (student varchar(255), class varchar(255))\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists courses (student varchar(255), class varchar(255))",
+      "Truncate table courses",
+      "insert into courses (student, class) values ('A', 'Math')",
+      "insert into courses (student, class) values ('B', 'English')",
+      "insert into courses (student, class) values ('C', 'Math')",
+      "insert into courses (student, class) values ('D', 'Biology')",
+      "insert into courses (student, class) values ('E', 'Math')",
+      "insert into courses (student, class) values ('F', 'Computer')",
+      "insert into courses (student, class) values ('G', 'Math')",
+      "insert into courses (student, class) values ('H', 'Math')",
+      "insert into courses (student, class) values ('I', 'Math')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

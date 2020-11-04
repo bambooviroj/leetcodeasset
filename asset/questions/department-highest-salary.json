@@ -1,1 +1,72 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE4NCIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE4NCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJEZXBhcnRtZW50IEhpZ2hlc3QgU2FsYXJ5IiwKICAgICJ0aXRsZVNsdWciOiAiZGVwYXJ0bWVudC1oaWdoZXN0LXNhbGFyeSIsCiAgICAiY29udGVudCI6ICI8cD5UaGUgPGNvZGU+RW1wbG95ZWU8L2NvZGU+IHRhYmxlIGhvbGRzIGFsbCBlbXBsb3llZXMuIEV2ZXJ5IGVtcGxveWVlIGhhcyBhbiBJZCwgYSBzYWxhcnksIGFuZCB0aGVyZSBpcyBhbHNvIGEgY29sdW1uIGZvciB0aGUgZGVwYXJ0bWVudCBJZC48L3A+XHJcblxyXG48cHJlPlxyXG4rLS0tLSstLS0tLS0tKy0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tK1xyXG58IElkIHwgTmFtZSAgfCBTYWxhcnkgfCBEZXBhcnRtZW50SWQgfFxyXG4rLS0tLSstLS0tLS0tKy0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tK1xyXG58IDEgIHwgSm9lICAgfCA3MDAwMCAgfCAxICAgICAgICAgICAgfFxyXG58IDIgJm5ic3A7fCBKaW0gJm5ic3A7IHwgOTAwMDAgJm5ic3A7fCAxICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7fFxyXG58IDMgIHwgSGVucnkgfCA4MDAwMCAgfCAyICAgICAgICAgICAgfFxyXG58IDQgIHwgU2FtICAgfCA2MDAwMCAgfCAyICAgICAgICAgICAgfFxyXG58IDUgIHwgTWF4ICAgfCA5MDAwMCAgfCAxICAgICAgICAgICAgfFxyXG4rLS0tLSstLS0tLS0tKy0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tK1xyXG48L3ByZT5cclxuXHJcbjxwPlRoZSA8Y29kZT5EZXBhcnRtZW50PC9jb2RlPiB0YWJsZSBob2xkcyBhbGwgZGVwYXJ0bWVudHMgb2YgdGhlIGNvbXBhbnkuPC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0rLS0tLS0tLS0tLStcclxufCBJZCB8IE5hbWUgICAgIHxcclxuKy0tLS0rLS0tLS0tLS0tLStcclxufCAxICB8IElUICAgICAgIHxcclxufCAyICB8IFNhbGVzICAgIHxcclxuKy0tLS0rLS0tLS0tLS0tLStcclxuPC9wcmU+XHJcblxyXG48cD5Xcml0ZSBhIFNRTCBxdWVyeSB0byBmaW5kIGVtcGxveWVlcyB3aG8gaGF2ZSB0aGUgaGlnaGVzdCBzYWxhcnkgaW4gZWFjaCBvZiB0aGUgZGVwYXJ0bWVudHMuJm5ic3A7Rm9yIHRoZSBhYm92ZSB0YWJsZXMsIHlvdXIgU1FMIHF1ZXJ5IHNob3VsZCByZXR1cm4gdGhlIGZvbGxvd2luZyByb3dzIChvcmRlciBvZiByb3dzIGRvZXMgbm90IG1hdHRlcikuPC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0tLS0tLS0tLSstLS0tLS0tLS0tKy0tLS0tLS0tK1xyXG58IERlcGFydG1lbnQgfCBFbXBsb3llZSB8IFNhbGFyeSB8XHJcbistLS0tLS0tLS0tLS0rLS0tLS0tLS0tLSstLS0tLS0tLStcclxufCBJVCAgICAgICAgIHwgTWF4ICAgICAgfCA5MDAwMCAgfFxyXG58IElUICZuYnNwOyAmbmJzcDsgJm5ic3A7ICZuYnNwOyB8IEppbSAmbmJzcDsgJm5ic3A7ICZuYnNwO3wgOTAwMDAgJm5ic3A7fFxyXG58IFNhbGVzICAgICAgfCBIZW5yeSAgICB8IDgwMDAwICB8XHJcbistLS0tLS0tLS0tLS0rLS0tLS0tLS0tLSstLS0tLS0tLStcclxuPC9wcmU+XHJcblxyXG48cD48c3Ryb25nPkV4cGxhbmF0aW9uOjwvc3Ryb25nPjwvcD5cclxuXHJcbjxwPk1heCBhbmQgSmltIGJvdGggaGF2ZSZuYnNwO3RoZSBoaWdoZXN0IHNhbGFyeSBpbiB0aGUgSVQgZGVwYXJ0bWVudCBhbmQgSGVucnkgaGFzIHRoZSBoaWdoZXN0IHNhbGFyeSBpbiB0aGUgU2FsZXMgZGVwYXJ0bWVudC48L3A+XHJcbiIsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IGZhbHNlLAogICAgImRpZmZpY3VsdHkiOiAiTWVkaXVtIiwKICAgICJsaWtlcyI6IDMxOSwKICAgICJkaXNsaWtlcyI6IDgyLAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW3tcInRpdGxlXCI6IFwiSGlnaGVzdCBHcmFkZSBGb3IgRWFjaCBTdHVkZW50XCIsIFwidGl0bGVTbHVnXCI6IFwiaGlnaGVzdC1ncmFkZS1mb3ItZWFjaC1zdHVkZW50XCIsIFwiZGlmZmljdWx0eVwiOiBcIk1lZGl1bVwiLCBcInRyYW5zbGF0ZWRUaXRsZVwiOiBudWxsfV0iLAogICAgImNvbnRyaWJ1dG9ycyI6IFtdLAogICAgImxhbmdUb1ZhbGlkUGxheWdyb3VuZCI6ICJ7XCJjcHBcIjogZmFsc2UsIFwiamF2YVwiOiBmYWxzZSwgXCJweXRob25cIjogZmFsc2UsIFwicHl0aG9uM1wiOiBmYWxzZSwgXCJteXNxbFwiOiBmYWxzZSwgXCJtc3NxbFwiOiBmYWxzZSwgXCJvcmFjbGVzcWxcIjogZmFsc2UsIFwiY1wiOiBmYWxzZSwgXCJjc2hhcnBcIjogZmFsc2UsIFwiamF2YXNjcmlwdFwiOiBmYWxzZSwgXCJydWJ5XCI6IGZhbHNlLCBcImJhc2hcIjogZmFsc2UsIFwic3dpZnRcIjogZmFsc2UsIFwiZ29sYW5nXCI6IGZhbHNlLCBcInNjYWxhXCI6IGZhbHNlLCBcImh0bWxcIjogZmFsc2UsIFwicHl0aG9ubWxcIjogZmFsc2UsIFwia290bGluXCI6IGZhbHNlLCBcInJ1c3RcIjogZmFsc2UsIFwicGhwXCI6IGZhbHNlfSIsCiAgICAidG9waWNUYWdzIjogW10sCiAgICAiY29tcGFueVRhZ1N0YXRzIjogbnVsbCwKICAgICJjb2RlU25pcHBldHMiOiBbCiAgICAgIHsKICAgICAgICAibGFuZyI6ICJNeVNRTCIsCiAgICAgICAgImxhbmdTbHVnIjogIm15c3FsIiwKICAgICAgICAiY29kZSI6ICIjIFdyaXRlIHlvdXIgTXlTUUwgcXVlcnkgc3RhdGVtZW50IGJlbG93XG4iLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvZGVTbmlwcGV0Tm9kZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJsYW5nIjogIk1TIFNRTCBTZXJ2ZXIiLAogICAgICAgICJsYW5nU2x1ZyI6ICJtc3NxbCIsCiAgICAgICAgImNvZGUiOiAiLyogV3JpdGUgeW91ciBULVNRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9LAogICAgICB7CiAgICAgICAgImxhbmciOiAiT3JhY2xlIiwKICAgICAgICAibGFuZ1NsdWciOiAib3JhY2xlc3FsIiwKICAgICAgICAiY29kZSI6ICIvKiBXcml0ZSB5b3VyIFBML1NRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3cgKi9cbiIsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiQ29kZVNuaXBwZXROb2RlIgogICAgICB9CiAgICBdLAogICAgInN0YXRzIjogIntcInRvdGFsQWNjZXB0ZWRcIjogXCI3Mi43S1wiLCBcInRvdGFsU3VibWlzc2lvblwiOiBcIjIzOC4zS1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogNzI2NTEsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDIzODMwNSwgXCJhY1JhdGVcIjogXCIzMC41JVwifSIsCiAgICAiaGludHMiOiBbXSwKICAgICJzb2x1dGlvbiI6IHsKICAgICAgImlkIjogIjIxMyIsCiAgICAgICJjYW5TZWVEZXRhaWwiOiB0cnVlLAogICAgICAiX190eXBlbmFtZSI6ICJBcnRpY2xlTm9kZSIKICAgIH0sCiAgICAic3RhdHVzIjogbnVsbCwKICAgICJzYW1wbGVUZXN0Q2FzZSI6ICJ7XCJoZWFkZXJzXCI6IHtcIkVtcGxveWVlXCI6IFtcIklkXCIsIFwiTmFtZVwiLCBcIlNhbGFyeVwiLCBcIkRlcGFydG1lbnRJZFwiXSwgXCJEZXBhcnRtZW50XCI6IFtcIklkXCIsIFwiTmFtZVwiXX0sIFwicm93c1wiOiB7XCJFbXBsb3llZVwiOiBbWzEsIFwiSm9lXCIsIDcwMDAwLCAxXSwgWzIsIFwiSmltXCIsIDkwMDAwLCAxXSwgWzMsIFwiSGVucnlcIiwgODAwMDAsIDJdLCBbNCwgXCJTYW1cIiwgNjAwMDAsIDJdLCBbNSwgXCJNYXhcIiwgOTAwMDAsIDFdXSwgXCJEZXBhcnRtZW50XCI6IFtbMSwgXCJJVFwiXSwgWzIsIFwiU2FsZXNcIl1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcclxuICBcIm15c3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgRW1wbG95ZWUgKElkIGludCwgTmFtZSB2YXJjaGFyKDI1NSksIFNhbGFyeSBpbnQsIERlcGFydG1lbnRJZCBpbnQpXCIsXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIERlcGFydG1lbnQgKElkIGludCwgTmFtZSB2YXJjaGFyKDI1NSkpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJjcmVhdGUgdGFibGUgRW1wbG95ZWUgKCBJZCBpbnQsIE5hbWUgdmFyY2hhcigyNTUpLCBTYWxhcnkgaW50LCBEZXBhcnRtZW50SWQgaW50IClcIixcclxuICAgIFwiQ3JlYXRlIHRhYmxlIERlcGFydG1lbnQgKElkIGludCwgTmFtZSB2YXJjaGFyKDI1NSkpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiY3JlYXRlIHRhYmxlIEVtcGxveWVlICggSWQgaW50LCBOYW1lIHZhcmNoYXIoMjU1KSwgU2FsYXJ5IGludCwgRGVwYXJ0bWVudElkIGludCApXCIsXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBEZXBhcnRtZW50IChJZCBpbnQsIE5hbWUgdmFyY2hhcigyNTUpKVwiXHJcbiAgXSxcclxuICBcImRhdGFiYXNlXCI6IHRydWVcclxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFsKICAgICAgIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIEVtcGxveWVlIChJZCBpbnQsIE5hbWUgdmFyY2hhcigyNTUpLCBTYWxhcnkgaW50LCBEZXBhcnRtZW50SWQgaW50KSIsCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBEZXBhcnRtZW50IChJZCBpbnQsIE5hbWUgdmFyY2hhcigyNTUpKSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBFbXBsb3llZSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIE5hbWUsIFNhbGFyeSwgRGVwYXJ0bWVudElkKSB2YWx1ZXMgKCcxJywgJ0pvZScsICc3MDAwMCcsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBOYW1lLCBTYWxhcnksIERlcGFydG1lbnRJZCkgdmFsdWVzICgnMicsICdKaW0nLCAnOTAwMDAnLCAnMScpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgTmFtZSwgU2FsYXJ5LCBEZXBhcnRtZW50SWQpIHZhbHVlcyAoJzMnLCAnSGVucnknLCAnODAwMDAnLCAnMicpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgTmFtZSwgU2FsYXJ5LCBEZXBhcnRtZW50SWQpIHZhbHVlcyAoJzQnLCAnU2FtJywgJzYwMDAwJywgJzInKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIE5hbWUsIFNhbGFyeSwgRGVwYXJ0bWVudElkKSB2YWx1ZXMgKCc1JywgJ01heCcsICc5MDAwMCcsICcxJykiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgRGVwYXJ0bWVudCIsCiAgICAgICJpbnNlcnQgaW50byBEZXBhcnRtZW50IChJZCwgTmFtZSkgdmFsdWVzICgnMScsICdJVCcpIiwKICAgICAgImluc2VydCBpbnRvIERlcGFydG1lbnQgKElkLCBOYW1lKSB2YWx1ZXMgKCcyJywgJ1NhbGVzJykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "184",
+    "questionFrontendId": "184",
+    "boundTopicId": null,
+    "title": "Department Highest Salary",
+    "titleSlug": "department-highest-salary",
+    "content": "<p>The <code>Employee</code> table holds all employees. Every employee has an Id, a salary, and there is also a column for the department Id.</p>\r\n\r\n<pre>\r\n+----+-------+--------+--------------+\r\n| Id | Name  | Salary | DepartmentId |\r\n+----+-------+--------+--------------+\r\n| 1  | Joe   | 70000  | 1            |\r\n| 2 &nbsp;| Jim &nbsp; | 90000 &nbsp;| 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|\r\n| 3  | Henry | 80000  | 2            |\r\n| 4  | Sam   | 60000  | 2            |\r\n| 5  | Max   | 90000  | 1            |\r\n+----+-------+--------+--------------+\r\n</pre>\r\n\r\n<p>The <code>Department</code> table holds all departments of the company.</p>\r\n\r\n<pre>\r\n+----+----------+\r\n| Id | Name     |\r\n+----+----------+\r\n| 1  | IT       |\r\n| 2  | Sales    |\r\n+----+----------+\r\n</pre>\r\n\r\n<p>Write a SQL query to find employees who have the highest salary in each of the departments.&nbsp;For the above tables, your SQL query should return the following rows (order of rows does not matter).</p>\r\n\r\n<pre>\r\n+------------+----------+--------+\r\n| Department | Employee | Salary |\r\n+------------+----------+--------+\r\n| IT         | Max      | 90000  |\r\n| IT &nbsp; &nbsp; &nbsp; &nbsp; | Jim &nbsp; &nbsp; &nbsp;| 90000 &nbsp;|\r\n| Sales      | Henry    | 80000  |\r\n+------------+----------+--------+\r\n</pre>\r\n\r\n<p><strong>Explanation:</strong></p>\r\n\r\n<p>Max and Jim both have&nbsp;the highest salary in the IT department and Henry has the highest salary in the Sales department.</p>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Medium",
+    "likes": 319,
+    "dislikes": 82,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Highest Grade For Each Student\", \"titleSlug\": \"highest-grade-for-each-student\", \"difficulty\": \"Medium\", \"translatedTitle\": null}]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "MS SQL Server",
+        "langSlug": "mssql",
+        "code": "/* Write your T-SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      },
+      {
+        "lang": "Oracle",
+        "langSlug": "oraclesql",
+        "code": "/* Write your PL/SQL query statement below */\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"72.7K\", \"totalSubmission\": \"238.3K\", \"totalAcceptedRaw\": 72651, \"totalSubmissionRaw\": 238305, \"acRate\": \"30.5%\"}",
+    "hints": [],
+    "solution": {
+      "id": "213",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Employee\": [\"Id\", \"Name\", \"Salary\", \"DepartmentId\"], \"Department\": [\"Id\", \"Name\"]}, \"rows\": {\"Employee\": [[1, \"Joe\", 70000, 1], [2, \"Jim\", 90000, 1], [3, \"Henry\", 80000, 2], [4, \"Sam\", 60000, 2], [5, \"Max\", 90000, 1]], \"Department\": [[1, \"IT\"], [2, \"Sales\"]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists Employee (Id int, Name varchar(255), Salary int, DepartmentId int)\",\r\n    \"Create table If Not Exists Department (Id int, Name varchar(255))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"create table Employee ( Id int, Name varchar(255), Salary int, DepartmentId int )\",\r\n    \"Create table Department (Id int, Name varchar(255))\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"create table Employee ( Id int, Name varchar(255), Salary int, DepartmentId int )\",\r\n    \"Create table Department (Id int, Name varchar(255))\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Employee (Id int, Name varchar(255), Salary int, DepartmentId int)",
+      "Create table If Not Exists Department (Id int, Name varchar(255))",
+      "Truncate table Employee",
+      "insert into Employee (Id, Name, Salary, DepartmentId) values ('1', 'Joe', '70000', '1')",
+      "insert into Employee (Id, Name, Salary, DepartmentId) values ('2', 'Jim', '90000', '1')",
+      "insert into Employee (Id, Name, Salary, DepartmentId) values ('3', 'Henry', '80000', '2')",
+      "insert into Employee (Id, Name, Salary, DepartmentId) values ('4', 'Sam', '60000', '2')",
+      "insert into Employee (Id, Name, Salary, DepartmentId) values ('5', 'Max', '90000', '1')",
+      "Truncate table Department",
+      "insert into Department (Id, Name) values ('1', 'IT')",
+      "insert into Department (Id, Name) values ('2', 'Sales')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

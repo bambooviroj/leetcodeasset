@@ -1,1 +1,70 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYwNyIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYwNyIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJTYWxlcyBQZXJzb24iLAogICAgInRpdGxlU2x1ZyI6ICJzYWxlcy1wZXJzb24iLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiRWFzeSIsCiAgICAibGlrZXMiOiA3MSwKICAgICJkaXNsaWtlcyI6IDE4LAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFsKICAgICAgewogICAgICAgICJ1c2VybmFtZSI6ICJhcnRpc3RzY3JpcHQiLAogICAgICAgICJwcm9maWxlVXJsIjogIi9hcnRpc3RzY3JpcHQvIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvMWQxODZmNDI2ODFhMTU3YjJjY2UzZWJmOWY5YzA5MTEucG5nP3M9MjAwIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjEyLjVLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMjEuNktcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDEyNTMxLCBcInRvdGFsU3VibWlzc2lvblJhd1wiOiAyMTU4NiwgXCJhY1JhdGVcIjogXCI1OC4xJVwifSIsCiAgICAiaGludHMiOiBbCiAgICAgICJZb3UgbmVlZCB0byBxdWVyeSB3aG8gc29sZCB0byBjb21wYW55ICdSRUQnIGZpcnN0LCB0aGVuIG91dHB1dCB0aGUgc2FsZXMgcGVyc29uIHdobyBpcyBub3QgaW4gdGhlIGZpcnN0IHF1ZXJ5IHJlc3VsdC4iCiAgICBdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMTgxIiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjoge1wic2FsZXNwZXJzb25cIjogW1wic2FsZXNfaWRcIiwgXCJuYW1lXCIsIFwic2FsYXJ5XCIsIFwiY29tbWlzc2lvbl9yYXRlXCIsXCJoaXJlX2RhdGVcIl0sIFwiY29tcGFueVwiOiBbXCJjb21faWRcIiwgXCJuYW1lXCIsXCJjaXR5XCJdLFwib3JkZXJzXCI6W1wib3JkZXJfaWRcIixcIm9yZGVyX2RhdGVcIixcImNvbV9pZFwiLFwic2FsZXNfaWRcIixcImFtb3VudFwiXX0sIFwicm93c1wiOiB7XCJzYWxlc3BlcnNvblwiOiBbWzEsIFwiSm9oblwiLCAxMDAwMDAsIDYsIFwiNC8xLzIwMDZcIl0sIFsyLCBcIkFteVwiLCAxMjAwMCwgNSxcIjUvMS8yMDEwXCJdLCBbMywgXCJNYXJrXCIsIDY1MDAwLCAxMiwgXCIxMi8yNS8yMDA4XCJdLCBbNCwgXCJQYW1cIiwgMjUwMDAsIDI1LFwiMS8xLzIwMDVcIl0sWzUsXCJBbGV4XCIsNTAwMCwxMCxcIjIvMy8yMDA3XCJdXSwgXCJjb21wYW55XCI6IFtbMSwgXCJSRURcIixcIkJvc3RvblwiXSwgWzIsIFwiT1JBTkdFXCIsIFwiTmV3IFlvcmtcIl0sWzMsIFwiWUVMTE9XXCIsIFwiQm9zdG9uXCJdLFs0LCBcIkdSRUVOXCIsIFwiQXVzdGluXCJdXSxcIm9yZGVyc1wiOltbMSxcIjEvMS8yMDE0XCIsMyw0LDEwMDAwXSxbMiwgXCIyLzEvMjAxNFwiLCA0LCA1LCA1MDAwXSxbMywgXCIzLzEvMjAxNFwiLCAxLCAxLCA1MDAwMF0sWzQsIFwiNC8xLzIwMTRcIiwgMSwgNCwgMjUwMDBdXX19IiwKICAgICJtZXRhRGF0YSI6ICJ7XHJcbiAgXCJteXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIHNhbGVzcGVyc29uIChzYWxlc19pZCBpbnQsIG5hbWUgdmFyY2hhcigyNTUpLCBzYWxhcnkgaW50LGNvbW1pc3Npb25fcmF0ZSBpbnQsIGhpcmVfZGF0ZSB2YXJjaGFyKDI1NSkpXCIsXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIGNvbXBhbnkgKGNvbV9pZCBpbnQsIG5hbWUgdmFyY2hhcigyNTUpLCBjaXR5IHZhcmNoYXIoMjU1KSlcIixcclxuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgb3JkZXJzIChvcmRlcl9pZCBpbnQsIG9yZGVyX2RhdGUgdmFyY2hhcigyNTUpLCBjb21faWQgaW50LCBzYWxlc19pZCBpbnQsIGFtb3VudCBpbnQpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgc2FsZXNwZXJzb24gKHNhbGVzX2lkIGludCwgbmFtZSB2YXJjaGFyKDI1NSksIHNhbGFyeSBpbnQsY29tbWlzc2lvbl9yYXRlIGludCwgaGlyZV9kYXRlIHZhcmNoYXIoMjU1KSlcIixcclxuICAgIFwiQ3JlYXRlIHRhYmxlIGNvbXBhbnkgKGNvbV9pZCBpbnQsIG5hbWUgdmFyY2hhcigyNTUpLCBjaXR5IHZhcmNoYXIoMjU1KSlcIixcclxuICAgIFwiQ3JlYXRlIHRhYmxlIG9yZGVycyAob3JkZXJfaWQgaW50LCBvcmRlcl9kYXRlIHZhcmNoYXIoMjU1KSwgY29tX2lkIGludCwgc2FsZXNfaWQgaW50LCBhbW91bnQgaW50KVwiXHJcbiAgXSxcclxuICBcIm9yYWNsZXNxbFwiOiBbXHJcbiAgICBcIkNyZWF0ZSB0YWJsZSBzYWxlc3BlcnNvbiAoc2FsZXNfaWQgaW50LCBuYW1lIHZhcmNoYXIoMjU1KSwgc2FsYXJ5IGludCxjb21taXNzaW9uX3JhdGUgaW50LCBoaXJlX2RhdGUgdmFyY2hhcigyNTUpKVwiLFxyXG4gICAgXCJDcmVhdGUgdGFibGUgY29tcGFueSAoY29tX2lkIGludCwgbmFtZSB2YXJjaGFyKDI1NSksIGNpdHkgdmFyY2hhcigyNTUpKVwiLFxyXG4gICAgXCJDcmVhdGUgdGFibGUgb3JkZXJzIChvcmRlcl9pZCBpbnQsIG9yZGVyX2RhdGUgdmFyY2hhcigyNTUpLCBjb21faWQgaW50LCBzYWxlc19pZCBpbnQsIGFtb3VudCBpbnQpXCJcclxuICBdLFxyXG4gIFwiZGF0YWJhc2VcIjogdHJ1ZVxyXG59IiwKICAgICJqdWRnZXJBdmFpbGFibGUiOiB0cnVlLAogICAgImp1ZGdlVHlwZSI6ICJsYXJnZSIsCiAgICAibXlzcWxTY2hlbWFzIjogWwogICAgICAiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgc2FsZXNwZXJzb24gKHNhbGVzX2lkIGludCwgbmFtZSB2YXJjaGFyKDI1NSksIHNhbGFyeSBpbnQsY29tbWlzc2lvbl9yYXRlIGludCwgaGlyZV9kYXRlIHZhcmNoYXIoMjU1KSkiLAogICAgICAiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgY29tcGFueSAoY29tX2lkIGludCwgbmFtZSB2YXJjaGFyKDI1NSksIGNpdHkgdmFyY2hhcigyNTUpKSIsCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBvcmRlcnMgKG9yZGVyX2lkIGludCwgb3JkZXJfZGF0ZSB2YXJjaGFyKDI1NSksIGNvbV9pZCBpbnQsIHNhbGVzX2lkIGludCwgYW1vdW50IGludCkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgc2FsZXNwZXJzb24iLAogICAgICAiaW5zZXJ0IGludG8gc2FsZXNwZXJzb24gKHNhbGVzX2lkLCBuYW1lLCBzYWxhcnksIGNvbW1pc3Npb25fcmF0ZSwgaGlyZV9kYXRlKSB2YWx1ZXMgKCcxJywgJ0pvaG4nLCAnMTAwMDAwJywgJzYnLCAnNC8xLzIwMDYnKSIsCiAgICAgICJpbnNlcnQgaW50byBzYWxlc3BlcnNvbiAoc2FsZXNfaWQsIG5hbWUsIHNhbGFyeSwgY29tbWlzc2lvbl9yYXRlLCBoaXJlX2RhdGUpIHZhbHVlcyAoJzInLCAnQW15JywgJzEyMDAwJywgJzUnLCAnNS8xLzIwMTAnKSIsCiAgICAgICJpbnNlcnQgaW50byBzYWxlc3BlcnNvbiAoc2FsZXNfaWQsIG5hbWUsIHNhbGFyeSwgY29tbWlzc2lvbl9yYXRlLCBoaXJlX2RhdGUpIHZhbHVlcyAoJzMnLCAnTWFyaycsICc2NTAwMCcsICcxMicsICcxMi8yNS8yMDA4JykiLAogICAgICAiaW5zZXJ0IGludG8gc2FsZXNwZXJzb24gKHNhbGVzX2lkLCBuYW1lLCBzYWxhcnksIGNvbW1pc3Npb25fcmF0ZSwgaGlyZV9kYXRlKSB2YWx1ZXMgKCc0JywgJ1BhbScsICcyNTAwMCcsICcyNScsICcxLzEvMjAwNScpIiwKICAgICAgImluc2VydCBpbnRvIHNhbGVzcGVyc29uIChzYWxlc19pZCwgbmFtZSwgc2FsYXJ5LCBjb21taXNzaW9uX3JhdGUsIGhpcmVfZGF0ZSkgdmFsdWVzICgnNScsICdBbGV4JywgJzUwMDAnLCAnMTAnLCAnMi8zLzIwMDcnKSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBjb21wYW55IiwKICAgICAgImluc2VydCBpbnRvIGNvbXBhbnkgKGNvbV9pZCwgbmFtZSwgY2l0eSkgdmFsdWVzICgnMScsICdSRUQnLCAnQm9zdG9uJykiLAogICAgICAiaW5zZXJ0IGludG8gY29tcGFueSAoY29tX2lkLCBuYW1lLCBjaXR5KSB2YWx1ZXMgKCcyJywgJ09SQU5HRScsICdOZXcgWW9yaycpIiwKICAgICAgImluc2VydCBpbnRvIGNvbXBhbnkgKGNvbV9pZCwgbmFtZSwgY2l0eSkgdmFsdWVzICgnMycsICdZRUxMT1cnLCAnQm9zdG9uJykiLAogICAgICAiaW5zZXJ0IGludG8gY29tcGFueSAoY29tX2lkLCBuYW1lLCBjaXR5KSB2YWx1ZXMgKCc0JywgJ0dSRUVOJywgJ0F1c3RpbicpIiwKICAgICAgIlRydW5jYXRlIHRhYmxlIG9yZGVycyIsCiAgICAgICJpbnNlcnQgaW50byBvcmRlcnMgKG9yZGVyX2lkLCBvcmRlcl9kYXRlLCBjb21faWQsIHNhbGVzX2lkLCBhbW91bnQpIHZhbHVlcyAoJzEnLCAnMS8xLzIwMTQnLCAnMycsICc0JywgJzEwMDAwJykiLAogICAgICAiaW5zZXJ0IGludG8gb3JkZXJzIChvcmRlcl9pZCwgb3JkZXJfZGF0ZSwgY29tX2lkLCBzYWxlc19pZCwgYW1vdW50KSB2YWx1ZXMgKCcyJywgJzIvMS8yMDE0JywgJzQnLCAnNScsICc1MDAwJykiLAogICAgICAiaW5zZXJ0IGludG8gb3JkZXJzIChvcmRlcl9pZCwgb3JkZXJfZGF0ZSwgY29tX2lkLCBzYWxlc19pZCwgYW1vdW50KSB2YWx1ZXMgKCczJywgJzMvMS8yMDE0JywgJzEnLCAnMScsICc1MDAwMCcpIiwKICAgICAgImluc2VydCBpbnRvIG9yZGVycyAob3JkZXJfaWQsIG9yZGVyX2RhdGUsIGNvbV9pZCwgc2FsZXNfaWQsIGFtb3VudCkgdmFsdWVzICgnNCcsICc0LzEvMjAxNCcsICcxJywgJzQnLCAnMjUwMDAnKSIKICAgIF0sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcIm15c3FsXCI6IFtcIk15U1FMXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXlzcWwtc2VydmVyIDUuNy4yMTwvY29kZT4uPC9wPlwiXSwgXCJtc3NxbFwiOiBbXCJNUyBTUUwgU2VydmVyXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXNzcWw8L2NvZGU+LjwvcD5cIl0sIFwib3JhY2xlc3FsXCI6IFtcIk9yYWNsZVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm9yYWNsZSBzcWw8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "607",
+    "questionFrontendId": "607",
+    "boundTopicId": null,
+    "title": "Sales Person",
+    "titleSlug": "sales-person",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Easy",
+    "likes": 71,
+    "dislikes": 18,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "artistscript",
+        "profileUrl": "/artistscript/",
+        "avatarUrl": "https://www.gravatar.com/avatar/1d186f42681a157b2cce3ebf9f9c0911.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"12.5K\", \"totalSubmission\": \"21.6K\", \"totalAcceptedRaw\": 12531, \"totalSubmissionRaw\": 21586, \"acRate\": \"58.1%\"}",
+    "hints": [
+      "You need to query who sold to company 'RED' first, then output the sales person who is not in the first query result."
+    ],
+    "solution": {
+      "id": "181",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"salesperson\": [\"sales_id\", \"name\", \"salary\", \"commission_rate\",\"hire_date\"], \"company\": [\"com_id\", \"name\",\"city\"],\"orders\":[\"order_id\",\"order_date\",\"com_id\",\"sales_id\",\"amount\"]}, \"rows\": {\"salesperson\": [[1, \"John\", 100000, 6, \"4/1/2006\"], [2, \"Amy\", 12000, 5,\"5/1/2010\"], [3, \"Mark\", 65000, 12, \"12/25/2008\"], [4, \"Pam\", 25000, 25,\"1/1/2005\"],[5,\"Alex\",5000,10,\"2/3/2007\"]], \"company\": [[1, \"RED\",\"Boston\"], [2, \"ORANGE\", \"New York\"],[3, \"YELLOW\", \"Boston\"],[4, \"GREEN\", \"Austin\"]],\"orders\":[[1,\"1/1/2014\",3,4,10000],[2, \"2/1/2014\", 4, 5, 5000],[3, \"3/1/2014\", 1, 1, 50000],[4, \"4/1/2014\", 1, 4, 25000]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists salesperson (sales_id int, name varchar(255), salary int,commission_rate int, hire_date varchar(255))\",\r\n    \"Create table If Not Exists company (com_id int, name varchar(255), city varchar(255))\",\r\n    \"Create table If Not Exists orders (order_id int, order_date varchar(255), com_id int, sales_id int, amount int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table salesperson (sales_id int, name varchar(255), salary int,commission_rate int, hire_date varchar(255))\",\r\n    \"Create table company (com_id int, name varchar(255), city varchar(255))\",\r\n    \"Create table orders (order_id int, order_date varchar(255), com_id int, sales_id int, amount int)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table salesperson (sales_id int, name varchar(255), salary int,commission_rate int, hire_date varchar(255))\",\r\n    \"Create table company (com_id int, name varchar(255), city varchar(255))\",\r\n    \"Create table orders (order_id int, order_date varchar(255), com_id int, sales_id int, amount int)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists salesperson (sales_id int, name varchar(255), salary int,commission_rate int, hire_date varchar(255))",
+      "Create table If Not Exists company (com_id int, name varchar(255), city varchar(255))",
+      "Create table If Not Exists orders (order_id int, order_date varchar(255), com_id int, sales_id int, amount int)",
+      "Truncate table salesperson",
+      "insert into salesperson (sales_id, name, salary, commission_rate, hire_date) values ('1', 'John', '100000', '6', '4/1/2006')",
+      "insert into salesperson (sales_id, name, salary, commission_rate, hire_date) values ('2', 'Amy', '12000', '5', '5/1/2010')",
+      "insert into salesperson (sales_id, name, salary, commission_rate, hire_date) values ('3', 'Mark', '65000', '12', '12/25/2008')",
+      "insert into salesperson (sales_id, name, salary, commission_rate, hire_date) values ('4', 'Pam', '25000', '25', '1/1/2005')",
+      "insert into salesperson (sales_id, name, salary, commission_rate, hire_date) values ('5', 'Alex', '5000', '10', '2/3/2007')",
+      "Truncate table company",
+      "insert into company (com_id, name, city) values ('1', 'RED', 'Boston')",
+      "insert into company (com_id, name, city) values ('2', 'ORANGE', 'New York')",
+      "insert into company (com_id, name, city) values ('3', 'YELLOW', 'Boston')",
+      "insert into company (com_id, name, city) values ('4', 'GREEN', 'Austin')",
+      "Truncate table orders",
+      "insert into orders (order_id, order_date, com_id, sales_id, amount) values ('1', '1/1/2014', '3', '4', '10000')",
+      "insert into orders (order_id, order_date, com_id, sales_id, amount) values ('2', '2/1/2014', '4', '5', '5000')",
+      "insert into orders (order_id, order_date, com_id, sales_id, amount) values ('3', '3/1/2014', '1', '1', '50000')",
+      "insert into orders (order_id, order_date, com_id, sales_id, amount) values ('4', '4/1/2014', '1', '4', '25000')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

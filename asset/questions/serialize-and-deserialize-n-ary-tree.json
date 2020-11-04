@@ -1,1 +1,51 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjc2NSIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjQyOCIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJTZXJpYWxpemUgYW5kIERlc2VyaWFsaXplIE4tYXJ5IFRyZWUiLAogICAgInRpdGxlU2x1ZyI6ICJzZXJpYWxpemUtYW5kLWRlc2VyaWFsaXplLW4tYXJ5LXRyZWUiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiSGFyZCIsCiAgICAibGlrZXMiOiAyMjksCiAgICAiZGlzbGlrZXMiOiAxMCwKICAgICJpc0xpa2VkIjogbnVsbCwKICAgICJzaW1pbGFyUXVlc3Rpb25zIjogIlt7XCJ0aXRsZVwiOiBcIlNlcmlhbGl6ZSBhbmQgRGVzZXJpYWxpemUgQmluYXJ5IFRyZWVcIiwgXCJ0aXRsZVNsdWdcIjogXCJzZXJpYWxpemUtYW5kLWRlc2VyaWFsaXplLWJpbmFyeS10cmVlXCIsIFwiZGlmZmljdWx0eVwiOiBcIkhhcmRcIiwgXCJ0cmFuc2xhdGVkVGl0bGVcIjogbnVsbH0sIHtcInRpdGxlXCI6IFwiU2VyaWFsaXplIGFuZCBEZXNlcmlhbGl6ZSBCU1RcIiwgXCJ0aXRsZVNsdWdcIjogXCJzZXJpYWxpemUtYW5kLWRlc2VyaWFsaXplLWJzdFwiLCBcImRpZmZpY3VsdHlcIjogXCJNZWRpdW1cIiwgXCJ0cmFuc2xhdGVkVGl0bGVcIjogbnVsbH0sIHtcInRpdGxlXCI6IFwiRW5jb2RlIE4tYXJ5IFRyZWUgdG8gQmluYXJ5IFRyZWVcIiwgXCJ0aXRsZVNsdWdcIjogXCJlbmNvZGUtbi1hcnktdHJlZS10by1iaW5hcnktdHJlZVwiLCBcImRpZmZpY3VsdHlcIjogXCJIYXJkXCIsIFwidHJhbnNsYXRlZFRpdGxlXCI6IG51bGx9XSIsCiAgICAiY29udHJpYnV0b3JzIjogWwogICAgICB7CiAgICAgICAgInVzZXJuYW1lIjogIjEzMzdjMGQzciIsCiAgICAgICAgInByb2ZpbGVVcmwiOiAiLzEzMzdjMGQzci8iLAogICAgICAgICJhdmF0YXJVcmwiOiAiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY29tL3VzZXJzLzEzMzdjMGQzci9hdmF0YXJfMTU0NzE3NzI1OC5wbmciLAogICAgICAgICJfX3R5cGVuYW1lIjogIkNvbnRyaWJ1dG9yTm9kZSIKICAgICAgfQogICAgXSwKICAgICJsYW5nVG9WYWxpZFBsYXlncm91bmQiOiBudWxsLAogICAgInRvcGljVGFncyI6IFsKICAgICAgewogICAgICAgICJuYW1lIjogIlRyZWUiLAogICAgICAgICJzbHVnIjogInRyZWUiLAogICAgICAgICJ0cmFuc2xhdGVkTmFtZSI6IG51bGwsCiAgICAgICAgIl9fdHlwZW5hbWUiOiAiVG9waWNUYWdOb2RlIgogICAgICB9CiAgICBdLAogICAgImNvbXBhbnlUYWdTdGF0cyI6IG51bGwsCiAgICAiY29kZVNuaXBwZXRzIjogbnVsbCwKICAgICJzdGF0cyI6ICJ7XCJ0b3RhbEFjY2VwdGVkXCI6IFwiMTUuOUtcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIyOC45S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogMTU5NTAsIFwidG90YWxTdWJtaXNzaW9uUmF3XCI6IDI4OTIyLCBcImFjUmF0ZVwiOiBcIjU1LjElXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogbnVsbCwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcIiRpZFwiOlwiMVwiLFwiY2hpbGRyZW5cIjpbe1wiJGlkXCI6XCIyXCIsXCJjaGlsZHJlblwiOlt7XCIkaWRcIjpcIjVcIixcImNoaWxkcmVuXCI6W10sXCJ2YWxcIjo1fSx7XCIkaWRcIjpcIjZcIixcImNoaWxkcmVuXCI6W10sXCJ2YWxcIjo2fV0sXCJ2YWxcIjozfSx7XCIkaWRcIjpcIjNcIixcImNoaWxkcmVuXCI6W10sXCJ2YWxcIjoyfSx7XCIkaWRcIjpcIjRcIixcImNoaWxkcmVuXCI6W10sXCJ2YWxcIjo0fV0sXCJ2YWxcIjoxfSIsCiAgICAibWV0YURhdGEiOiAie1xuICBcIm5hbWVcIjogXCJDb2RlY0RyaXZlclwiLFxuICBcInBhcmFtc1wiOiBbXG4gICAge1xuICAgICAgXCJuYW1lXCI6IFwicm9vdFwiLFxuICAgICAgXCJ0eXBlXCI6IFwiTm9kZVwiXG4gICAgfVxuICBdLFxuICBcInJldHVyblwiOiB7XG4gICAgXCJ0eXBlXCI6IFwiTm9kZVwiXG4gIH0sXG4gIFwibGFuZ3VhZ2VzXCI6IFtcbiAgICBcImNwcFwiLFxuICAgIFwiamF2YVwiLFxuICAgIFwicHl0aG9uXCIsXG4gICAgXCJjc2hhcnBcIixcbiAgICBcInJ1c3RcIixcbiAgICBcInBocFwiXG4gIF0sXG4gIFwibWFudWFsXCI6IHRydWVcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbXSwKICAgICJlbmFibGVSdW5Db2RlIjogdHJ1ZSwKICAgICJlbmFibGVUZXN0TW9kZSI6IGZhbHNlLAogICAgImVudkluZm8iOiAie1wiY3BwXCI6IFtcIkMrK1wiLCBcIjxwPkNvbXBpbGVkIHdpdGggPGNvZGU+ZysrIDguMjwvY29kZT4gdXNpbmcgdGhlIGxhdGVzdCBDKysgMTcgc3RhbmRhcmQuPC9wPlxcclxcblxcclxcbjxwPllvdXIgY29kZSBpcyBjb21waWxlZCB3aXRoIGxldmVsIG9uZSBvcHRpbWl6YXRpb24gKDxjb2RlPi1PMTwvY29kZT4pLiA8YSBocmVmPVxcXCJodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xlL3Nhbml0aXplcnMvd2lraS9BZGRyZXNzU2FuaXRpemVyXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+QWRkcmVzc1Nhbml0aXplcjwvYT4gaXMgYWxzbyBlbmFibGVkIHRvIGhlbHAgZGV0ZWN0IG91dC1vZi1ib3VuZHMgYW5kIHVzZS1hZnRlci1mcmVlIGJ1Z3MuPC9wPlxcclxcblxcclxcbjxwPk1vc3Qgc3RhbmRhcmQgbGlicmFyeSBoZWFkZXJzIGFyZSBhbHJlYWR5IGluY2x1ZGVkIGF1dG9tYXRpY2FsbHkgZm9yIHlvdXIgY29udmVuaWVuY2UuPC9wPlwiXSwgXCJqYXZhXCI6IFtcIkphdmFcIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPmphdmEgMS44LjA8L2NvZGU+IHRha2luZyBhZHZhbnRhZ2Ugb2YgdGhlIGxhdGVzdCBKYXZhIDggZmVhdHVyZXMgc3VjaCBhcyBsYW1iZGEgZXhwcmVzc2lvbnMgYW5kIHN0cmVhbSBBUEkuPC9wPlxcblxcbjxwPk1vc3Qgc3RhbmRhcmQgbGlicmFyeSBoZWFkZXJzIGFyZSBhbHJlYWR5IGluY2x1ZGVkIGF1dG9tYXRpY2FsbHkgZm9yIHlvdXIgY29udmVuaWVuY2UuPC9wPlwiXSwgXCJweXRob25cIjogW1wiUHl0aG9uXCIsIFwiPHA+Q29tcGlsZWQgd2l0aCA8Y29kZT5weXRob24gMi43LjEyPC9jb2RlPi48L3A+XFxuXFxuPHA+TW9zdCBsaWJyYXJpZXMgYXJlIGFscmVhZHkgaW1wb3J0ZWQgYXV0b21hdGljYWxseSBmb3IgeW91ciBjb252ZW5pZW5jZSwgc3VjaCBhcyA8YSBocmVmPVxcXCJodHRwczovL2RvY3MucHl0aG9uLm9yZy8yL2xpYnJhcnkvYXJyYXkuaHRtbFxcXCIgdGFyZ2V0PVxcXCJfYmxhbmtcXFwiPmFycmF5PC9hPiwgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMi9saWJyYXJ5L2Jpc2VjdC5odG1sXFxcIiB0YXJnZXQ9XFxcIl9ibGFua1xcXCI+YmlzZWN0PC9hPiwgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMi9saWJyYXJ5L2NvbGxlY3Rpb25zLmh0bWxcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5jb2xsZWN0aW9uczwvYT4uIElmIHlvdSBuZWVkIG1vcmUgbGlicmFyaWVzLCB5b3UgY2FuIGltcG9ydCBpdCB5b3Vyc2VsZi48L3A+XFxuXFxuPHA+Tm90ZSB0aGF0IFB5dGhvbiAyLjcgPGEgaHJlZj1cXFwiaHR0cHM6Ly93d3cucHl0aG9uLm9yZy9kZXYvcGVwcy9wZXAtMDM3My9cXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj53aWxsIG5vdCBiZSBtYWludGFpbmVkIHBhc3QgMjAyMDwvYT4uIEZvciB0aGUgbGF0ZXN0IFB5dGhvbiwgcGxlYXNlIGNob29zZSBQeXRob24zIGluc3RlYWQuPC9wPlwiXSwgXCJjc2hhcnBcIjogW1wiQyNcIiwgXCI8cD5Db21waWxlZCB3aXRoIDxjb2RlPm1vbm8gNS4xOC4wPC9jb2RlPiBwcm92aWRpbmcgPGEgaHJlZj1cXFwiaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvZG90bmV0L2NzaGFycC93aGF0cy1uZXcvY3NoYXJwLTdcXFwiIHRhcmdldD1cXFwiX2JsYW5rXFxcIj5mdWxsIHN1cHBvcnQgZm9yIEMjIDc8L2E+LjwvcD5cXHJcXG5cXHJcXG48cD5Zb3VyIGNvZGUgaXMgY29tcGlsZWQgd2l0aCBkZWJ1ZyBmbGFnIGVuYWJsZWQgKDxjb2RlPi9kZWJ1ZzwvY29kZT4pLjwvcD5cIl0sIFwicGhwXCI6IFtcIlBIUFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPlBIUCA3LjI8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "765",
+    "questionFrontendId": "428",
+    "boundTopicId": null,
+    "title": "Serialize and Deserialize N-ary Tree",
+    "titleSlug": "serialize-and-deserialize-n-ary-tree",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Hard",
+    "likes": 229,
+    "dislikes": 10,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Serialize and Deserialize Binary Tree\", \"titleSlug\": \"serialize-and-deserialize-binary-tree\", \"difficulty\": \"Hard\", \"translatedTitle\": null}, {\"title\": \"Serialize and Deserialize BST\", \"titleSlug\": \"serialize-and-deserialize-bst\", \"difficulty\": \"Medium\", \"translatedTitle\": null}, {\"title\": \"Encode N-ary Tree to Binary Tree\", \"titleSlug\": \"encode-n-ary-tree-to-binary-tree\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "contributors": [
+      {
+        "username": "1337c0d3r",
+        "profileUrl": "/1337c0d3r/",
+        "avatarUrl": "https://assets.leetcode.com/users/1337c0d3r/avatar_1547177258.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree",
+        "translatedName": null,
+        "__typename": "TopicTagNode"
+      }
+    ],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"15.9K\", \"totalSubmission\": \"28.9K\", \"totalAcceptedRaw\": 15950, \"totalSubmissionRaw\": 28922, \"acRate\": \"55.1%\"}",
+    "hints": [],
+    "solution": null,
+    "status": null,
+    "sampleTestCase": "{\"$id\":\"1\",\"children\":[{\"$id\":\"2\",\"children\":[{\"$id\":\"5\",\"children\":[],\"val\":5},{\"$id\":\"6\",\"children\":[],\"val\":6}],\"val\":3},{\"$id\":\"3\",\"children\":[],\"val\":2},{\"$id\":\"4\",\"children\":[],\"val\":4}],\"val\":1}",
+    "metaData": "{\n  \"name\": \"CodecDriver\",\n  \"params\": [\n    {\n      \"name\": \"root\",\n      \"type\": \"Node\"\n    }\n  ],\n  \"return\": {\n    \"type\": \"Node\"\n  },\n  \"languages\": [\n    \"cpp\",\n    \"java\",\n    \"python\",\n    \"csharp\",\n    \"rust\",\n    \"php\"\n  ],\n  \"manual\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"cpp\": [\"C++\", \"<p>Compiled with <code>g++ 8.2</code> using the latest C++ 17 standard.</p>\\r\\n\\r\\n<p>Your code is compiled with level one optimization (<code>-O1</code>). <a href=\\\"https://github.com/google/sanitizers/wiki/AddressSanitizer\\\" target=\\\"_blank\\\">AddressSanitizer</a> is also enabled to help detect out-of-bounds and use-after-free bugs.</p>\\r\\n\\r\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"java\": [\"Java\", \"<p>Compiled with <code>java 1.8.0</code> taking advantage of the latest Java 8 features such as lambda expressions and stream API.</p>\\n\\n<p>Most standard library headers are already included automatically for your convenience.</p>\"], \"python\": [\"Python\", \"<p>Compiled with <code>python 2.7.12</code>.</p>\\n\\n<p>Most libraries are already imported automatically for your convenience, such as <a href=\\\"https://docs.python.org/2/library/array.html\\\" target=\\\"_blank\\\">array</a>, <a href=\\\"https://docs.python.org/2/library/bisect.html\\\" target=\\\"_blank\\\">bisect</a>, <a href=\\\"https://docs.python.org/2/library/collections.html\\\" target=\\\"_blank\\\">collections</a>. If you need more libraries, you can import it yourself.</p>\\n\\n<p>Note that Python 2.7 <a href=\\\"https://www.python.org/dev/peps/pep-0373/\\\" target=\\\"_blank\\\">will not be maintained past 2020</a>. For the latest Python, please choose Python3 instead.</p>\"], \"csharp\": [\"C#\", \"<p>Compiled with <code>mono 5.18.0</code> providing <a href=\\\"https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7\\\" target=\\\"_blank\\\">full support for C# 7</a>.</p>\\r\\n\\r\\n<p>Your code is compiled with debug flag enabled (<code>/debug</code>).</p>\"], \"php\": [\"PHP\", \"<p>Run with <code>PHP 7.2</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

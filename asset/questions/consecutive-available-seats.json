@@ -1,1 +1,56 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYwMyIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYwMyIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJDb25zZWN1dGl2ZSBBdmFpbGFibGUgU2VhdHMiLAogICAgInRpdGxlU2x1ZyI6ICJjb25zZWN1dGl2ZS1hdmFpbGFibGUtc2VhdHMiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiRWFzeSIsCiAgICAibGlrZXMiOiAxMDksCiAgICAiZGlzbGlrZXMiOiA3LAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFsKICAgICAgewogICAgICAgICJ1c2VybmFtZSI6ICJNci1CaW4iLAogICAgICAgICJwcm9maWxlVXJsIjogIi9tci1iaW4vIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNvbS91c2Vycy9tci1iaW4vYXZhdGFyXzE1NDc2NTUzMDQucG5nIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjExLjlLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMjBLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiAxMTg4MywgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMjAwMzYsIFwiYWNSYXRlXCI6IFwiNTkuMyVcIn0iLAogICAgImhpbnRzIjogW10sCiAgICAic29sdXRpb24iOiB7CiAgICAgICJpZCI6ICIxNjgiLAogICAgICAiY2FuU2VlRGV0YWlsIjogdHJ1ZSwKICAgICAgIl9fdHlwZW5hbWUiOiAiQXJ0aWNsZU5vZGUiCiAgICB9LAogICAgInN0YXR1cyI6IG51bGwsCiAgICAic2FtcGxlVGVzdENhc2UiOiAie1wiaGVhZGVyc1wiOntcImNpbmVtYVwiOltcInNlYXRfaWRcIixcImZyZWVcIl19LFwicm93c1wiOntcImNpbmVtYVwiOltbMSwxXSxbMiwwXSxbMywxXSxbNCwxXSxbNSwxXV19fSIsCiAgICAibWV0YURhdGEiOiAie1xyXG4gIFwibXlzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBjaW5lbWEgKHNlYXRfaWQgaW50IHByaW1hcnkga2V5IGF1dG9faW5jcmVtZW50LCBmcmVlIGJvb2wpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJDcmVhdGUgdGFibGUgY2luZW1hIChzZWF0X2lkIGludCBwcmltYXJ5IGtleSwgZnJlZSBCSVQpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIGNpbmVtYSAoc2VhdF9pZCBpbnQgcHJpbWFyeSBrZXksIGZyZWUgTlVNQkVSKDEpKVwiXHJcbiAgXSxcclxuICBcImRhdGFiYXNlXCI6IHRydWVcclxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFsKICAgICAgIkNyZWF0ZSB0YWJsZSBJZiBOb3QgRXhpc3RzIGNpbmVtYSAoc2VhdF9pZCBpbnQgcHJpbWFyeSBrZXkgYXV0b19pbmNyZW1lbnQsIGZyZWUgYm9vbCkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgY2luZW1hIiwKICAgICAgImluc2VydCBpbnRvIGNpbmVtYSAoc2VhdF9pZCwgZnJlZSkgdmFsdWVzICgnMScsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gY2luZW1hIChzZWF0X2lkLCBmcmVlKSB2YWx1ZXMgKCcyJywgJzAnKSIsCiAgICAgICJpbnNlcnQgaW50byBjaW5lbWEgKHNlYXRfaWQsIGZyZWUpIHZhbHVlcyAoJzMnLCAnMScpIiwKICAgICAgImluc2VydCBpbnRvIGNpbmVtYSAoc2VhdF9pZCwgZnJlZSkgdmFsdWVzICgnNCcsICcxJykiLAogICAgICAiaW5zZXJ0IGludG8gY2luZW1hIChzZWF0X2lkLCBmcmVlKSB2YWx1ZXMgKCc1JywgJzEnKSIKICAgIF0sCiAgICAiZW5hYmxlUnVuQ29kZSI6IHRydWUsCiAgICAiZW5hYmxlVGVzdE1vZGUiOiBmYWxzZSwKICAgICJlbnZJbmZvIjogIntcIm15c3FsXCI6IFtcIk15U1FMXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXlzcWwtc2VydmVyIDUuNy4yMTwvY29kZT4uPC9wPlwiXSwgXCJtc3NxbFwiOiBbXCJNUyBTUUwgU2VydmVyXCIsIFwiPHA+UnVuIHdpdGggPGNvZGU+bXNzcWw8L2NvZGU+LjwvcD5cIl0sIFwib3JhY2xlc3FsXCI6IFtcIk9yYWNsZVwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm9yYWNsZSBzcWw8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "603",
+    "questionFrontendId": "603",
+    "boundTopicId": null,
+    "title": "Consecutive Available Seats",
+    "titleSlug": "consecutive-available-seats",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Easy",
+    "likes": 109,
+    "dislikes": 7,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Mr-Bin",
+        "profileUrl": "/mr-bin/",
+        "avatarUrl": "https://assets.leetcode.com/users/mr-bin/avatar_1547655304.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"11.9K\", \"totalSubmission\": \"20K\", \"totalAcceptedRaw\": 11883, \"totalSubmissionRaw\": 20036, \"acRate\": \"59.3%\"}",
+    "hints": [],
+    "solution": {
+      "id": "168",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"cinema\":[\"seat_id\",\"free\"]},\"rows\":{\"cinema\":[[1,1],[2,0],[3,1],[4,1],[5,1]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists cinema (seat_id int primary key auto_increment, free bool)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"Create table cinema (seat_id int primary key, free BIT)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"Create table cinema (seat_id int primary key, free NUMBER(1))\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists cinema (seat_id int primary key auto_increment, free bool)",
+      "Truncate table cinema",
+      "insert into cinema (seat_id, free) values ('1', '1')",
+      "insert into cinema (seat_id, free) values ('2', '0')",
+      "insert into cinema (seat_id, free) values ('3', '1')",
+      "insert into cinema (seat_id, free) values ('4', '1')",
+      "insert into cinema (seat_id, free) values ('5', '1')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

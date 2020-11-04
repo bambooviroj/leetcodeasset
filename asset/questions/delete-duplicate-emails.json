@@ -1,1 +1,48 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjE5NiIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjE5NiIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJEZWxldGUgRHVwbGljYXRlIEVtYWlscyIsCiAgICAidGl0bGVTbHVnIjogImRlbGV0ZS1kdXBsaWNhdGUtZW1haWxzIiwKICAgICJjb250ZW50IjogIjxwPldyaXRlIGEgU1FMIHF1ZXJ5IHRvIDxzdHJvbmc+ZGVsZXRlPC9zdHJvbmc+IGFsbCBkdXBsaWNhdGUgZW1haWwgZW50cmllcyBpbiBhIHRhYmxlIG5hbWVkIDxjb2RlPlBlcnNvbjwvY29kZT4sIGtlZXBpbmcgb25seSB1bmlxdWUgZW1haWxzIGJhc2VkIG9uIGl0cyA8aT5zbWFsbGVzdDwvaT4gPGI+SWQ8L2I+LjwvcD5cclxuXHJcbjxwcmU+XHJcbistLS0tKy0tLS0tLS0tLS0tLS0tLS0tLStcclxufCBJZCB8IEVtYWlsICAgICAgICAgICAgfFxyXG4rLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0rXHJcbnwgMSAgfCBqb2huQGV4YW1wbGUuY29tIHxcclxufCAyICB8IGJvYkBleGFtcGxlLmNvbSAgfFxyXG58IDMgIHwgam9obkBleGFtcGxlLmNvbSB8XHJcbistLS0tKy0tLS0tLS0tLS0tLS0tLS0tLStcclxuSWQgaXMgdGhlIHByaW1hcnkga2V5IGNvbHVtbiBmb3IgdGhpcyB0YWJsZS5cclxuPC9wcmU+XHJcblxyXG48cD5Gb3IgZXhhbXBsZSwgYWZ0ZXIgcnVubmluZyB5b3VyIHF1ZXJ5LCB0aGUgYWJvdmUgPGNvZGU+UGVyc29uPC9jb2RlPiB0YWJsZSBzaG91bGQgaGF2ZSB0aGUgZm9sbG93aW5nIHJvd3M6PC9wPlxyXG5cclxuPHByZT5cclxuKy0tLS0rLS0tLS0tLS0tLS0tLS0tLS0tK1xyXG58IElkIHwgRW1haWwgICAgICAgICAgICB8XHJcbistLS0tKy0tLS0tLS0tLS0tLS0tLS0tLStcclxufCAxICB8IGpvaG5AZXhhbXBsZS5jb20gfFxyXG58IDIgIHwgYm9iQGV4YW1wbGUuY29tICB8XHJcbistLS0tKy0tLS0tLS0tLS0tLS0tLS0tLStcclxuPC9wcmU+XHJcblxyXG48cD48c3Ryb25nPk5vdGU6PC9zdHJvbmc+PC9wPlxyXG5cclxuPHA+WW91ciBvdXRwdXQgaXMgdGhlIHdob2xlIDxjb2RlPlBlcnNvbjwvY29kZT4mbmJzcDt0YWJsZSBhZnRlciBleGVjdXRpbmcgeW91ciBzcWwuIFVzZSA8Y29kZT5kZWxldGU8L2NvZGU+IHN0YXRlbWVudC48L3A+XHJcbiIsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IGZhbHNlLAogICAgImRpZmZpY3VsdHkiOiAiRWFzeSIsCiAgICAibGlrZXMiOiAyOTksCiAgICAiZGlzbGlrZXMiOiAzNzUsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbXSIsCiAgICAiY29udHJpYnV0b3JzIjogW10sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogIntcImNwcFwiOiBmYWxzZSwgXCJqYXZhXCI6IGZhbHNlLCBcInB5dGhvblwiOiBmYWxzZSwgXCJweXRob24zXCI6IGZhbHNlLCBcIm15c3FsXCI6IGZhbHNlLCBcIm1zc3FsXCI6IGZhbHNlLCBcIm9yYWNsZXNxbFwiOiBmYWxzZSwgXCJjXCI6IGZhbHNlLCBcImNzaGFycFwiOiBmYWxzZSwgXCJqYXZhc2NyaXB0XCI6IGZhbHNlLCBcInJ1YnlcIjogZmFsc2UsIFwiYmFzaFwiOiBmYWxzZSwgXCJzd2lmdFwiOiBmYWxzZSwgXCJnb2xhbmdcIjogZmFsc2UsIFwic2NhbGFcIjogZmFsc2UsIFwiaHRtbFwiOiBmYWxzZSwgXCJweXRob25tbFwiOiBmYWxzZSwgXCJrb3RsaW5cIjogZmFsc2UsIFwicnVzdFwiOiBmYWxzZSwgXCJwaHBcIjogZmFsc2V9IiwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IFsKICAgICAgewogICAgICAgICJsYW5nIjogIk15U1FMIiwKICAgICAgICAibGFuZ1NsdWciOiAibXlzcWwiLAogICAgICAgICJjb2RlIjogIiMgV3JpdGUgeW91ciBNeVNRTCBxdWVyeSBzdGF0ZW1lbnQgYmVsb3dcclxuIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb2RlU25pcHBldE5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjgwLjZLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMjMyLjZLXCIsIFwidG90YWxBY2NlcHRlZFJhd1wiOiA4MDYxNSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMjMyNTUyLCBcImFjUmF0ZVwiOiBcIjM0LjclXCJ9IiwKICAgICJoaW50cyI6IFtdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMjEwIiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjoge1wiUGVyc29uXCI6IFtcIklkXCIsIFwiRW1haWxcIl19LCBcInJvd3NcIjoge1wiUGVyc29uXCI6IFtbMSwgXCJqb2huQGV4YW1wbGUuY29tXCJdLCBbMiwgXCJib2JAZXhhbXBsZS5jb21cIl0sIFszLCBcImpvaG5AZXhhbXBsZS5jb21cIl1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcbiAgXCJsYW5ndWFnZXNcIjogW1xuICAgIFwibXlzcWxcIixcbiAgICBcIm1zc3FsXCJcbiAgXSxcbiAgXCJtYW51YWxcIjogdHJ1ZVxufSIsCiAgICAianVkZ2VyQXZhaWxhYmxlIjogdHJ1ZSwKICAgICJqdWRnZVR5cGUiOiAibGFyZ2UiLAogICAgIm15c3FsU2NoZW1hcyI6IFtdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl19IiwKICAgICJsaWJyYXJ5VXJsIjogbnVsbCwKICAgICJfX3R5cGVuYW1lIjogIlF1ZXN0aW9uTm9kZSIKICB9Cn0=
+{
+  "question": {
+    "questionId": "196",
+    "questionFrontendId": "196",
+    "boundTopicId": null,
+    "title": "Delete Duplicate Emails",
+    "titleSlug": "delete-duplicate-emails",
+    "content": "<p>Write a SQL query to <strong>delete</strong> all duplicate email entries in a table named <code>Person</code>, keeping only unique emails based on its <i>smallest</i> <b>Id</b>.</p>\r\n\r\n<pre>\r\n+----+------------------+\r\n| Id | Email            |\r\n+----+------------------+\r\n| 1  | john@example.com |\r\n| 2  | bob@example.com  |\r\n| 3  | john@example.com |\r\n+----+------------------+\r\nId is the primary key column for this table.\r\n</pre>\r\n\r\n<p>For example, after running your query, the above <code>Person</code> table should have the following rows:</p>\r\n\r\n<pre>\r\n+----+------------------+\r\n| Id | Email            |\r\n+----+------------------+\r\n| 1  | john@example.com |\r\n| 2  | bob@example.com  |\r\n+----+------------------+\r\n</pre>\r\n\r\n<p><strong>Note:</strong></p>\r\n\r\n<p>Your output is the whole <code>Person</code>&nbsp;table after executing your sql. Use <code>delete</code> statement.</p>\r\n",
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": false,
+    "difficulty": "Easy",
+    "likes": 299,
+    "dislikes": 375,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [],
+    "langToValidPlayground": "{\"cpp\": false, \"java\": false, \"python\": false, \"python3\": false, \"mysql\": false, \"mssql\": false, \"oraclesql\": false, \"c\": false, \"csharp\": false, \"javascript\": false, \"ruby\": false, \"bash\": false, \"swift\": false, \"golang\": false, \"scala\": false, \"html\": false, \"pythonml\": false, \"kotlin\": false, \"rust\": false, \"php\": false}",
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": [
+      {
+        "lang": "MySQL",
+        "langSlug": "mysql",
+        "code": "# Write your MySQL query statement below\r\n",
+        "__typename": "CodeSnippetNode"
+      }
+    ],
+    "stats": "{\"totalAccepted\": \"80.6K\", \"totalSubmission\": \"232.6K\", \"totalAcceptedRaw\": 80615, \"totalSubmissionRaw\": 232552, \"acRate\": \"34.7%\"}",
+    "hints": [],
+    "solution": {
+      "id": "210",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Person\": [\"Id\", \"Email\"]}, \"rows\": {\"Person\": [[1, \"john@example.com\"], [2, \"bob@example.com\"], [3, \"john@example.com\"]]}}",
+    "metaData": "{\n  \"languages\": [\n    \"mysql\",\n    \"mssql\"\n  ],\n  \"manual\": true\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

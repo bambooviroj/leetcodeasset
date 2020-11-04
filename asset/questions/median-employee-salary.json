@@ -1,1 +1,72 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjU2OSIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjU2OSIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJNZWRpYW4gRW1wbG95ZWUgU2FsYXJ5IiwKICAgICJ0aXRsZVNsdWciOiAibWVkaWFuLWVtcGxveWVlLXNhbGFyeSIsCiAgICAiY29udGVudCI6IG51bGwsCiAgICAidHJhbnNsYXRlZFRpdGxlIjogbnVsbCwKICAgICJ0cmFuc2xhdGVkQ29udGVudCI6IG51bGwsCiAgICAiaXNQYWlkT25seSI6IHRydWUsCiAgICAiZGlmZmljdWx0eSI6ICJIYXJkIiwKICAgICJsaWtlcyI6IDQ2LAogICAgImRpc2xpa2VzIjogMjQsCiAgICAiaXNMaWtlZCI6IG51bGwsCiAgICAic2ltaWxhclF1ZXN0aW9ucyI6ICJbe1widGl0bGVcIjogXCJGaW5kIE1lZGlhbiBHaXZlbiBGcmVxdWVuY3kgb2YgTnVtYmVyc1wiLCBcInRpdGxlU2x1Z1wiOiBcImZpbmQtbWVkaWFuLWdpdmVuLWZyZXF1ZW5jeS1vZi1udW1iZXJzXCIsIFwiZGlmZmljdWx0eVwiOiBcIkhhcmRcIiwgXCJ0cmFuc2xhdGVkVGl0bGVcIjogbnVsbH1dIiwKICAgICJjb250cmlidXRvcnMiOiBbCiAgICAgIHsKICAgICAgICAidXNlcm5hbWUiOiAiam9nZ2luZyIsCiAgICAgICAgInByb2ZpbGVVcmwiOiAiL2pvZ2dpbmcvIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvYTA0NzFjNjYxYTY0MTZlODBjODU2N2Y2YzIyYjJlYTIucG5nP3M9MjAwIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjUuM0tcIiwgXCJ0b3RhbFN1Ym1pc3Npb25cIjogXCIxMC44S1wiLCBcInRvdGFsQWNjZXB0ZWRSYXdcIjogNTMzOSwgXCJ0b3RhbFN1Ym1pc3Npb25SYXdcIjogMTA3NjksIFwiYWNSYXRlXCI6IFwiNDkuNiVcIn0iLAogICAgImhpbnRzIjogWwogICAgICAiU3RpbGwgcmVtZW1iZXIgaG93IHRvIHNlbGVjdCB0aGUgc3VtIHdoaWNoIGdyb3VwIGJ5IG9uZSBjb2x1bW4/IiwKICAgICAgIlRyeSB0byB0aGluayBhYm91dCBob3cgdG8gZ2V0IHRoZSBtZWRpYW4gZnJvbSBhIHNvcnRlZCBsaXN0LiIsCiAgICAgICJIb3cgdG8gZ2V0IHRoZSBtZWRpYW4gb25lIGl0ZW0gZm9yIG9kZCBudW1iZXIgbGlzdCB3aGlsZSBob3cgdG8gZ2V0IHRoZSBtZWRpYW4gdHdvIGl0ZW1zIGZvciBldmVuIG51bWJlciBsaXN0LCB0cnkgdG8gdW5pZnkgdGhlbS4iCiAgICBdLAogICAgInNvbHV0aW9uIjogewogICAgICAiaWQiOiAiMTMxIiwKICAgICAgImNhblNlZURldGFpbCI6IHRydWUsCiAgICAgICJfX3R5cGVuYW1lIjogIkFydGljbGVOb2RlIgogICAgfSwKICAgICJzdGF0dXMiOiBudWxsLAogICAgInNhbXBsZVRlc3RDYXNlIjogIntcImhlYWRlcnNcIjoge1wiRW1wbG95ZWVcIjogW1wiSWRcIiwgXCJDb21wYW55XCIsIFwiU2FsYXJ5XCJdfSwgXCJyb3dzXCI6IHtcIkVtcGxveWVlXCI6IFtbMSwgXCJBXCIsIDIzNDFdLFsyLCBcIkFcIiwgMzQxXSxbMywgXCJBXCIsIDE1XSxbNCwgXCJBXCIsIDE1MzE0XSxbNSwgXCJBXCIsIDQ1MV0sWzYsIFwiQVwiLCA1MTNdLFs3LCBcIkJcIiwgMTVdLFs4LCBcIkJcIiwgMTNdLFs5LCBcIkJcIiwgMTE1NF0sWzEwLCBcIkJcIiwgMTM0NV0sWzExLCBcIkJcIiwgMTIyMV0sWzEyLCBcIkJcIiwgMjM0XSxbMTMsIFwiQ1wiLCAyMzQ1XSxbMTQsIFwiQ1wiLCAyNjQ1XSxbMTUsIFwiQ1wiLCAyNjQ1XSxbMTYsIFwiQ1wiLCAyNjUyXSxbMTcsIFwiQ1wiLCA2NV1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcclxuICBcIm15c3FsXCI6IFtcclxuICAgIFwiQ3JlYXRlIHRhYmxlIElmIE5vdCBFeGlzdHMgRW1wbG95ZWUgKElkIGludCwgQ29tcGFueSB2YXJjaGFyKDI1NSksIFNhbGFyeSBpbnQpXCJcclxuICBdLFxyXG4gIFwibXNzcWxcIjogW1xyXG4gICAgXCJjcmVhdGUgdGFibGUgRW1wbG95ZWUgKCBJZCBpbnQsIENvbXBhbnkgdmFyY2hhcigyNTUpLCBTYWxhcnkgaW50IClcIlxyXG4gIF0sXHJcbiAgXCJvcmFjbGVzcWxcIjogW1xyXG4gICAgXCJjcmVhdGUgdGFibGUgRW1wbG95ZWUgKCBJZCBpbnQsIENvbXBhbnkgdmFyY2hhcigyNTUpLCBTYWxhcnkgaW50IClcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDcmVhdGUgdGFibGUgSWYgTm90IEV4aXN0cyBFbXBsb3llZSAoSWQgaW50LCBDb21wYW55IHZhcmNoYXIoMjU1KSwgU2FsYXJ5IGludCkiLAogICAgICAiVHJ1bmNhdGUgdGFibGUgRW1wbG95ZWUiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzEnLCAnQScsICcyMzQxJykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzInLCAnQScsICczNDEnKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIENvbXBhbnksIFNhbGFyeSkgdmFsdWVzICgnMycsICdBJywgJzE1JykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzQnLCAnQScsICcxNTMxNCcpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgQ29tcGFueSwgU2FsYXJ5KSB2YWx1ZXMgKCc1JywgJ0EnLCAnNDUxJykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzYnLCAnQScsICc1MTMnKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIENvbXBhbnksIFNhbGFyeSkgdmFsdWVzICgnNycsICdCJywgJzE1JykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzgnLCAnQicsICcxMycpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgQ29tcGFueSwgU2FsYXJ5KSB2YWx1ZXMgKCc5JywgJ0InLCAnMTE1NCcpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgQ29tcGFueSwgU2FsYXJ5KSB2YWx1ZXMgKCcxMCcsICdCJywgJzEzNDUnKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIENvbXBhbnksIFNhbGFyeSkgdmFsdWVzICgnMTEnLCAnQicsICcxMjIxJykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzEyJywgJ0InLCAnMjM0JykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzEzJywgJ0MnLCAnMjM0NScpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgQ29tcGFueSwgU2FsYXJ5KSB2YWx1ZXMgKCcxNCcsICdDJywgJzI2NDUnKSIsCiAgICAgICJpbnNlcnQgaW50byBFbXBsb3llZSAoSWQsIENvbXBhbnksIFNhbGFyeSkgdmFsdWVzICgnMTUnLCAnQycsICcyNjQ1JykiLAogICAgICAiaW5zZXJ0IGludG8gRW1wbG95ZWUgKElkLCBDb21wYW55LCBTYWxhcnkpIHZhbHVlcyAoJzE2JywgJ0MnLCAnMjY1MicpIiwKICAgICAgImluc2VydCBpbnRvIEVtcGxveWVlIChJZCwgQ29tcGFueSwgU2FsYXJ5KSB2YWx1ZXMgKCcxNycsICdDJywgJzY1JykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "569",
+    "questionFrontendId": "569",
+    "boundTopicId": null,
+    "title": "Median Employee Salary",
+    "titleSlug": "median-employee-salary",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Hard",
+    "likes": 46,
+    "dislikes": 24,
+    "isLiked": null,
+    "similarQuestions": "[{\"title\": \"Find Median Given Frequency of Numbers\", \"titleSlug\": \"find-median-given-frequency-of-numbers\", \"difficulty\": \"Hard\", \"translatedTitle\": null}]",
+    "contributors": [
+      {
+        "username": "jogging",
+        "profileUrl": "/jogging/",
+        "avatarUrl": "https://www.gravatar.com/avatar/a0471c661a6416e80c8567f6c22b2ea2.png?s=200",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"5.3K\", \"totalSubmission\": \"10.8K\", \"totalAcceptedRaw\": 5339, \"totalSubmissionRaw\": 10769, \"acRate\": \"49.6%\"}",
+    "hints": [
+      "Still remember how to select the sum which group by one column?",
+      "Try to think about how to get the median from a sorted list.",
+      "How to get the median one item for odd number list while how to get the median two items for even number list, try to unify them."
+    ],
+    "solution": {
+      "id": "131",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\": {\"Employee\": [\"Id\", \"Company\", \"Salary\"]}, \"rows\": {\"Employee\": [[1, \"A\", 2341],[2, \"A\", 341],[3, \"A\", 15],[4, \"A\", 15314],[5, \"A\", 451],[6, \"A\", 513],[7, \"B\", 15],[8, \"B\", 13],[9, \"B\", 1154],[10, \"B\", 1345],[11, \"B\", 1221],[12, \"B\", 234],[13, \"C\", 2345],[14, \"C\", 2645],[15, \"C\", 2645],[16, \"C\", 2652],[17, \"C\", 65]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"Create table If Not Exists Employee (Id int, Company varchar(255), Salary int)\"\r\n  ],\r\n  \"mssql\": [\r\n    \"create table Employee ( Id int, Company varchar(255), Salary int )\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"create table Employee ( Id int, Company varchar(255), Salary int )\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "Create table If Not Exists Employee (Id int, Company varchar(255), Salary int)",
+      "Truncate table Employee",
+      "insert into Employee (Id, Company, Salary) values ('1', 'A', '2341')",
+      "insert into Employee (Id, Company, Salary) values ('2', 'A', '341')",
+      "insert into Employee (Id, Company, Salary) values ('3', 'A', '15')",
+      "insert into Employee (Id, Company, Salary) values ('4', 'A', '15314')",
+      "insert into Employee (Id, Company, Salary) values ('5', 'A', '451')",
+      "insert into Employee (Id, Company, Salary) values ('6', 'A', '513')",
+      "insert into Employee (Id, Company, Salary) values ('7', 'B', '15')",
+      "insert into Employee (Id, Company, Salary) values ('8', 'B', '13')",
+      "insert into Employee (Id, Company, Salary) values ('9', 'B', '1154')",
+      "insert into Employee (Id, Company, Salary) values ('10', 'B', '1345')",
+      "insert into Employee (Id, Company, Salary) values ('11', 'B', '1221')",
+      "insert into Employee (Id, Company, Salary) values ('12', 'B', '234')",
+      "insert into Employee (Id, Company, Salary) values ('13', 'C', '2345')",
+      "insert into Employee (Id, Company, Salary) values ('14', 'C', '2645')",
+      "insert into Employee (Id, Company, Salary) values ('15', 'C', '2645')",
+      "insert into Employee (Id, Company, Salary) values ('16', 'C', '2652')",
+      "insert into Employee (Id, Company, Salary) values ('17', 'C', '65')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}

@@ -1,1 +1,54 @@
-ewogICJxdWVzdGlvbiI6IHsKICAgICJxdWVzdGlvbklkIjogIjYxMyIsCiAgICAicXVlc3Rpb25Gcm9udGVuZElkIjogIjYxMyIsCiAgICAiYm91bmRUb3BpY0lkIjogbnVsbCwKICAgICJ0aXRsZSI6ICJTaG9ydGVzdCBEaXN0YW5jZSBpbiBhIExpbmUiLAogICAgInRpdGxlU2x1ZyI6ICJzaG9ydGVzdC1kaXN0YW5jZS1pbi1hLWxpbmUiLAogICAgImNvbnRlbnQiOiBudWxsLAogICAgInRyYW5zbGF0ZWRUaXRsZSI6IG51bGwsCiAgICAidHJhbnNsYXRlZENvbnRlbnQiOiBudWxsLAogICAgImlzUGFpZE9ubHkiOiB0cnVlLAogICAgImRpZmZpY3VsdHkiOiAiRWFzeSIsCiAgICAibGlrZXMiOiA5OSwKICAgICJkaXNsaWtlcyI6IDE0LAogICAgImlzTGlrZWQiOiBudWxsLAogICAgInNpbWlsYXJRdWVzdGlvbnMiOiAiW10iLAogICAgImNvbnRyaWJ1dG9ycyI6IFsKICAgICAgewogICAgICAgICJ1c2VybmFtZSI6ICJNci1CaW4iLAogICAgICAgICJwcm9maWxlVXJsIjogIi9tci1iaW4vIiwKICAgICAgICAiYXZhdGFyVXJsIjogImh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNvbS91c2Vycy9tci1iaW4vYXZhdGFyXzE1NDc2NTUzMDQucG5nIiwKICAgICAgICAiX190eXBlbmFtZSI6ICJDb250cmlidXRvck5vZGUiCiAgICAgIH0KICAgIF0sCiAgICAibGFuZ1RvVmFsaWRQbGF5Z3JvdW5kIjogbnVsbCwKICAgICJ0b3BpY1RhZ3MiOiBbXSwKICAgICJjb21wYW55VGFnU3RhdHMiOiBudWxsLAogICAgImNvZGVTbmlwcGV0cyI6IG51bGwsCiAgICAic3RhdHMiOiAie1widG90YWxBY2NlcHRlZFwiOiBcIjE1LjhLXCIsIFwidG90YWxTdWJtaXNzaW9uXCI6IFwiMjEuNUtcIiwgXCJ0b3RhbEFjY2VwdGVkUmF3XCI6IDE1ODE3LCBcInRvdGFsU3VibWlzc2lvblJhd1wiOiAyMTUwMiwgXCJhY1JhdGVcIjogXCI3My42JVwifSIsCiAgICAiaGludHMiOiBbXSwKICAgICJzb2x1dGlvbiI6IHsKICAgICAgImlkIjogIjE3OSIsCiAgICAgICJjYW5TZWVEZXRhaWwiOiB0cnVlLAogICAgICAiX190eXBlbmFtZSI6ICJBcnRpY2xlTm9kZSIKICAgIH0sCiAgICAic3RhdHVzIjogbnVsbCwKICAgICJzYW1wbGVUZXN0Q2FzZSI6ICJ7XCJoZWFkZXJzXCI6e1wicG9pbnRcIjpbXCJ4XCJdfSxcInJvd3NcIjp7XCJwb2ludFwiOltbLTFdLFswXSxbMl1dfX0iLAogICAgIm1ldGFEYXRhIjogIntcclxuICBcIm15c3FsXCI6IFtcclxuICAgIFwiQ1JFQVRFIFRBQkxFIElmIE5vdCBFeGlzdHMgcG9pbnQgKHggSU5UIE5PVCBOVUxMLCBVTklRVUUgSU5ERVggeF9VTklRVUUgKHggQVNDKSlcIlxyXG4gIF0sXHJcbiAgXCJtc3NxbFwiOiBbXHJcbiAgICBcIkNSRUFURSBUQUJMRSBwb2ludCAoeCBJTlQgTk9UIE5VTEwpXCJcclxuICBdLFxyXG4gIFwib3JhY2xlc3FsXCI6IFtcclxuICAgIFwiQ1JFQVRFIFRBQkxFIHBvaW50ICh4IElOVCBOT1QgTlVMTClcIlxyXG4gIF0sXHJcbiAgXCJkYXRhYmFzZVwiOiB0cnVlXHJcbn0iLAogICAgImp1ZGdlckF2YWlsYWJsZSI6IHRydWUsCiAgICAianVkZ2VUeXBlIjogImxhcmdlIiwKICAgICJteXNxbFNjaGVtYXMiOiBbCiAgICAgICJDUkVBVEUgVEFCTEUgSWYgTm90IEV4aXN0cyBwb2ludCAoeCBJTlQgTk9UIE5VTEwsIFVOSVFVRSBJTkRFWCB4X1VOSVFVRSAoeCBBU0MpKSIsCiAgICAgICJUcnVuY2F0ZSB0YWJsZSBwb2ludCIsCiAgICAgICJpbnNlcnQgaW50byBwb2ludCAoeCkgdmFsdWVzICgnLTEnKSIsCiAgICAgICJpbnNlcnQgaW50byBwb2ludCAoeCkgdmFsdWVzICgnMCcpIiwKICAgICAgImluc2VydCBpbnRvIHBvaW50ICh4KSB2YWx1ZXMgKCcyJykiCiAgICBdLAogICAgImVuYWJsZVJ1bkNvZGUiOiB0cnVlLAogICAgImVuYWJsZVRlc3RNb2RlIjogZmFsc2UsCiAgICAiZW52SW5mbyI6ICJ7XCJteXNxbFwiOiBbXCJNeVNRTFwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm15c3FsLXNlcnZlciA1LjcuMjE8L2NvZGU+LjwvcD5cIl0sIFwibXNzcWxcIjogW1wiTVMgU1FMIFNlcnZlclwiLCBcIjxwPlJ1biB3aXRoIDxjb2RlPm1zc3FsPC9jb2RlPi48L3A+XCJdLCBcIm9yYWNsZXNxbFwiOiBbXCJPcmFjbGVcIiwgXCI8cD5SdW4gd2l0aCA8Y29kZT5vcmFjbGUgc3FsPC9jb2RlPi48L3A+XCJdfSIsCiAgICAibGlicmFyeVVybCI6IG51bGwsCiAgICAiX190eXBlbmFtZSI6ICJRdWVzdGlvbk5vZGUiCiAgfQp9
+{
+  "question": {
+    "questionId": "613",
+    "questionFrontendId": "613",
+    "boundTopicId": null,
+    "title": "Shortest Distance in a Line",
+    "titleSlug": "shortest-distance-in-a-line",
+    "content": null,
+    "translatedTitle": null,
+    "translatedContent": null,
+    "isPaidOnly": true,
+    "difficulty": "Easy",
+    "likes": 99,
+    "dislikes": 14,
+    "isLiked": null,
+    "similarQuestions": "[]",
+    "contributors": [
+      {
+        "username": "Mr-Bin",
+        "profileUrl": "/mr-bin/",
+        "avatarUrl": "https://assets.leetcode.com/users/mr-bin/avatar_1547655304.png",
+        "__typename": "ContributorNode"
+      }
+    ],
+    "langToValidPlayground": null,
+    "topicTags": [],
+    "companyTagStats": null,
+    "codeSnippets": null,
+    "stats": "{\"totalAccepted\": \"15.8K\", \"totalSubmission\": \"21.5K\", \"totalAcceptedRaw\": 15817, \"totalSubmissionRaw\": 21502, \"acRate\": \"73.6%\"}",
+    "hints": [],
+    "solution": {
+      "id": "179",
+      "canSeeDetail": true,
+      "__typename": "ArticleNode"
+    },
+    "status": null,
+    "sampleTestCase": "{\"headers\":{\"point\":[\"x\"]},\"rows\":{\"point\":[[-1],[0],[2]]}}",
+    "metaData": "{\r\n  \"mysql\": [\r\n    \"CREATE TABLE If Not Exists point (x INT NOT NULL, UNIQUE INDEX x_UNIQUE (x ASC))\"\r\n  ],\r\n  \"mssql\": [\r\n    \"CREATE TABLE point (x INT NOT NULL)\"\r\n  ],\r\n  \"oraclesql\": [\r\n    \"CREATE TABLE point (x INT NOT NULL)\"\r\n  ],\r\n  \"database\": true\r\n}",
+    "judgerAvailable": true,
+    "judgeType": "large",
+    "mysqlSchemas": [
+      "CREATE TABLE If Not Exists point (x INT NOT NULL, UNIQUE INDEX x_UNIQUE (x ASC))",
+      "Truncate table point",
+      "insert into point (x) values ('-1')",
+      "insert into point (x) values ('0')",
+      "insert into point (x) values ('2')"
+    ],
+    "enableRunCode": true,
+    "enableTestMode": false,
+    "envInfo": "{\"mysql\": [\"MySQL\", \"<p>Run with <code>mysql-server 5.7.21</code>.</p>\"], \"mssql\": [\"MS SQL Server\", \"<p>Run with <code>mssql</code>.</p>\"], \"oraclesql\": [\"Oracle\", \"<p>Run with <code>oracle sql</code>.</p>\"]}",
+    "libraryUrl": null,
+    "__typename": "QuestionNode"
+  }
+}
